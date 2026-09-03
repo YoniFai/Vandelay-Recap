@@ -1,0 +1,280 @@
+{
+  "generatedAt": "2026-09-03T12:53:35.902Z",
+  "hoursBack": 48,
+  "tickersRequested": 94,
+  "count": 34,
+  "rows": [
+    {
+      "ticker": "AVGO",
+      "form": "8-K",
+      "title": "8-K  - Current report",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016826000076/0001730168-26-000076-index.htm",
+      "accession": "0001730168-26-000076"
+    },
+    {
+      "ticker": "CRWD",
+      "form": "4",
+      "title": "4  - Statement of changes in beneficial ownership of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1535527/000120132626000021/0001201326-26-000021-index.htm",
+      "accession": "0001201326-26-000021"
+    },
+    {
+      "ticker": "CRWD",
+      "form": "4",
+      "title": "4  - Statement of changes in beneficial ownership of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1535527/000177856426000153/0001778564-26-000153-index.htm",
+      "accession": "0001778564-26-000153"
+    },
+    {
+      "ticker": "DDOG",
+      "form": "144",
+      "title": "144  - Report of proposed sale of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000280/0001561550-26-000280-index.htm",
+      "accession": "0001561550-26-000280"
+    },
+    {
+      "ticker": "DDOG",
+      "form": "144",
+      "title": "144  - Report of proposed sale of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000279/0001561550-26-000279-index.htm",
+      "accession": "0001561550-26-000279"
+    },
+    {
+      "ticker": "DDOG",
+      "form": "144",
+      "title": "144  - Report of proposed sale of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000278/0001561550-26-000278-index.htm",
+      "accession": "0001561550-26-000278"
+    },
+    {
+      "ticker": "DDOG",
+      "form": "144",
+      "title": "144  - Report of proposed sale of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000277/0001561550-26-000277-index.htm",
+      "accession": "0001561550-26-000277"
+    },
+    {
+      "ticker": "DDOG",
+      "form": "144",
+      "title": "144  - Report of proposed sale of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000276/0001561550-26-000276-index.htm",
+      "accession": "0001561550-26-000276"
+    },
+    {
+      "ticker": "DDOG",
+      "form": "144",
+      "title": "144  - Report of proposed sale of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000275/0001561550-26-000275-index.htm",
+      "accession": "0001561550-26-000275"
+    },
+    {
+      "ticker": "DDOG",
+      "form": "144",
+      "title": "144  - Report of proposed sale of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000274/0001561550-26-000274-index.htm",
+      "accession": "0001561550-26-000274"
+    },
+    {
+      "ticker": "DDOG",
+      "form": "144",
+      "title": "144  - Report of proposed sale of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1561550/000156155026000273/0001561550-26-000273-index.htm",
+      "accession": "0001561550-26-000273"
+    },
+    {
+      "ticker": "FSLR",
+      "form": "4",
+      "title": "4  - Statement of changes in beneficial ownership of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000182/0001274494-26-000182-index.htm",
+      "accession": "0001274494-26-000182"
+    },
+    {
+      "ticker": "HOOD",
+      "form": "4",
+      "title": "4  - Statement of changes in beneficial ownership of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000140/0001783879-26-000140-index.htm",
+      "accession": "0001783879-26-000140"
+    },
+    {
+      "ticker": "HPE",
+      "form": "10-Q",
+      "title": "10-Q  - Quarterly report [Sections 13 or 15(d)]",
+      "filedAt": "2026-09-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000080/0001645590-26-000080-index.htm",
+      "accession": "0001645590-26-000080"
+    },
+    {
+      "ticker": "HPE",
+      "form": "8-K",
+      "title": "8-K  - Current report",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000078/0001645590-26-000078-index.htm",
+      "accession": "0001645590-26-000078"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B3",
+      "title": "424B3  - Prospectus [Rule 424(b)(3)]",
+      "filedAt": "2026-09-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426026378/0001918704-26-026378-index.htm",
+      "accession": "0001918704-26-026378"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B3",
+      "title": "424B3  - Prospectus [Rule 424(b)(3)]",
+      "filedAt": "2026-09-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426026377/0001918704-26-026377-index.htm",
+      "accession": "0001918704-26-026377"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B3",
+      "title": "424B3  - Prospectus [Rule 424(b)(3)]",
+      "filedAt": "2026-09-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426026376/0001918704-26-026376-index.htm",
+      "accession": "0001918704-26-026376"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B3",
+      "title": "424B3  - Prospectus [Rule 424(b)(3)]",
+      "filedAt": "2026-09-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426026375/0001918704-26-026375-index.htm",
+      "accession": "0001918704-26-026375"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B3",
+      "title": "424B3  - Prospectus [Rule 424(b)(3)]",
+      "filedAt": "2026-09-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426026374/0001918704-26-026374-index.htm",
+      "accession": "0001918704-26-026374"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B3",
+      "title": "424B3  - Prospectus [Rule 424(b)(3)]",
+      "filedAt": "2026-09-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426026373/0001918704-26-026373-index.htm",
+      "accession": "0001918704-26-026373"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B2",
+      "title": "424B2  - Prospectus [Rule 424(b)(2)]",
+      "filedAt": "2026-09-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026096885/0001213900-26-096885-index.htm",
+      "accession": "0001213900-26-096885"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B2",
+      "title": "424B2  - Prospectus [Rule 424(b)(2)]",
+      "filedAt": "2026-09-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026096878/0001213900-26-096878-index.htm",
+      "accession": "0001213900-26-096878"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B2",
+      "title": "424B2  - Prospectus [Rule 424(b)(2)]",
+      "filedAt": "2026-09-03",
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026096874/0001213900-26-096874-index.htm",
+      "accession": "0001213900-26-096874"
+    },
+    {
+      "ticker": "MRVL",
+      "form": "4",
+      "title": "4  - Statement of changes in beneficial ownership of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1835632/000162828026060112/0001628280-26-060112-index.htm",
+      "accession": "0001628280-26-060112"
+    },
+    {
+      "ticker": "MSFT",
+      "form": "4",
+      "title": "4  - Statement of changes in beneficial ownership of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000078901926000161/0000789019-26-000161-index.htm",
+      "accession": "0000789019-26-000161"
+    },
+    {
+      "ticker": "MSFT",
+      "form": "8-K",
+      "title": "8-K  - Current report",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526380280/0001193125-26-380280-index.htm",
+      "accession": "0001193125-26-380280"
+    },
+    {
+      "ticker": "NVDA",
+      "form": "4",
+      "title": "4  - Statement of changes in beneficial ownership of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000119903926000012/0001199039-26-000012-index.htm",
+      "accession": "0001199039-26-000012"
+    },
+    {
+      "ticker": "NVDA",
+      "form": "4",
+      "title": "4  - Statement of changes in beneficial ownership of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000169684126000010/0001696841-26-000010-index.htm",
+      "accession": "0001696841-26-000010"
+    },
+    {
+      "ticker": "NVDA",
+      "form": "144",
+      "title": "144  - Report of proposed sale of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1045810/000162828026060177/0001628280-26-060177-index.htm",
+      "accession": "0001628280-26-060177"
+    },
+    {
+      "ticker": "RBLX",
+      "form": "4",
+      "title": "4  - Statement of changes in beneficial ownership of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1315098/000131509826000182/0001315098-26-000182-index.htm",
+      "accession": "0001315098-26-000182"
+    },
+    {
+      "ticker": "SNOW",
+      "form": "8-K",
+      "title": "8-K  - Current report",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1640147/000164014726000033/0001640147-26-000033-index.htm",
+      "accession": "0001640147-26-000033"
+    },
+    {
+      "ticker": "V",
+      "form": "4",
+      "title": "4  - Statement of changes in beneficial ownership of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000117/0001403161-26-000117-index.htm",
+      "accession": "0001403161-26-000117"
+    },
+    {
+      "ticker": "VST",
+      "form": "4",
+      "title": "4  - Statement of changes in beneficial ownership of securities",
+      "filedAt": "2026-09-02",
+      "url": "https://www.sec.gov/Archives/edgar/data/1692819/000126840626000009/0001268406-26-000009-index.htm",
+      "accession": "0001268406-26-000009"
+    }
+  ]
+}
