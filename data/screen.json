@@ -1,0 +1,386 @@
+{
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-04T09:49:36.287Z",
+  "tickersRequested": 94,
+  "runSeconds": 122,
+  "measured": 0,
+  "withBand": 0,
+  "rows": [
+    {
+      "ticker": "AAPL",
+      "fetchedAt": "2026-09-04T09:47:42.741Z"
+    },
+    {
+      "ticker": "ACHR",
+      "fetchedAt": "2026-09-04T09:47:51.678Z"
+    },
+    {
+      "ticker": "ADBE",
+      "fetchedAt": "2026-09-04T09:48:00.527Z"
+    },
+    {
+      "ticker": "AMD",
+      "fetchedAt": "2026-09-04T09:48:09.432Z"
+    },
+    {
+      "ticker": "AMZN",
+      "fetchedAt": "2026-09-04T09:48:18.449Z"
+    },
+    {
+      "ticker": "APLD",
+      "fetchedAt": "2026-09-04T09:48:27.209Z"
+    },
+    {
+      "ticker": "APP",
+      "fetchedAt": "2026-09-04T09:48:36.015Z"
+    },
+    {
+      "ticker": "ARM",
+      "fetchedAt": "2026-09-04T09:48:44.833Z"
+    },
+    {
+      "ticker": "ASST",
+      "fetchedAt": "2026-09-04T09:48:45.208Z"
+    },
+    {
+      "ticker": "ASTS",
+      "fetchedAt": "2026-09-04T09:48:45.583Z"
+    },
+    {
+      "ticker": "AVGO",
+      "fetchedAt": "2026-09-04T09:48:45.957Z"
+    },
+    {
+      "ticker": "BA",
+      "fetchedAt": "2026-09-04T09:48:46.332Z"
+    },
+    {
+      "ticker": "BABA",
+      "fetchedAt": "2026-09-04T09:48:46.707Z"
+    },
+    {
+      "ticker": "BB",
+      "fetchedAt": "2026-09-04T09:48:47.082Z"
+    },
+    {
+      "ticker": "BBAI",
+      "fetchedAt": "2026-09-04T09:48:47.456Z"
+    },
+    {
+      "ticker": "BIDU",
+      "fetchedAt": "2026-09-04T09:48:47.832Z"
+    },
+    {
+      "ticker": "BYD",
+      "fetchedAt": "2026-09-04T09:48:48.205Z"
+    },
+    {
+      "ticker": "CIFR",
+      "fetchedAt": "2026-09-04T09:48:48.579Z"
+    },
+    {
+      "ticker": "COIN",
+      "fetchedAt": "2026-09-04T09:48:48.953Z"
+    },
+    {
+      "ticker": "CRCL",
+      "fetchedAt": "2026-09-04T09:48:49.327Z"
+    },
+    {
+      "ticker": "CRDO",
+      "fetchedAt": "2026-09-04T09:48:49.701Z"
+    },
+    {
+      "ticker": "CRWD",
+      "fetchedAt": "2026-09-04T09:48:50.076Z"
+    },
+    {
+      "ticker": "CRWV",
+      "fetchedAt": "2026-09-04T09:48:50.451Z"
+    },
+    {
+      "ticker": "DDOG",
+      "fetchedAt": "2026-09-04T09:48:50.826Z"
+    },
+    {
+      "ticker": "DELL",
+      "fetchedAt": "2026-09-04T09:48:51.200Z"
+    },
+    {
+      "ticker": "DKNG",
+      "fetchedAt": "2026-09-04T09:48:51.575Z"
+    },
+    {
+      "ticker": "EOSE",
+      "fetchedAt": "2026-09-04T09:48:51.950Z"
+    },
+    {
+      "ticker": "FSLR",
+      "fetchedAt": "2026-09-04T09:48:52.324Z"
+    },
+    {
+      "ticker": "GME",
+      "fetchedAt": "2026-09-04T09:48:52.700Z"
+    },
+    {
+      "ticker": "GOOGL",
+      "fetchedAt": "2026-09-04T09:48:53.075Z"
+    },
+    {
+      "ticker": "HIMS",
+      "fetchedAt": "2026-09-04T09:48:53.450Z"
+    },
+    {
+      "ticker": "HOOD",
+      "fetchedAt": "2026-09-04T09:48:53.825Z"
+    },
+    {
+      "ticker": "HPE",
+      "fetchedAt": "2026-09-04T09:48:54.200Z"
+    },
+    {
+      "ticker": "HUT",
+      "fetchedAt": "2026-09-04T09:48:54.574Z"
+    },
+    {
+      "ticker": "IBIT",
+      "fetchedAt": "2026-09-04T09:48:54.949Z"
+    },
+    {
+      "ticker": "INFQ",
+      "fetchedAt": "2026-09-04T09:48:55.327Z"
+    },
+    {
+      "ticker": "INTC",
+      "fetchedAt": "2026-09-04T09:48:55.701Z"
+    },
+    {
+      "ticker": "IONQ",
+      "fetchedAt": "2026-09-04T09:48:56.077Z"
+    },
+    {
+      "ticker": "IREN",
+      "fetchedAt": "2026-09-04T09:48:56.452Z"
+    },
+    {
+      "ticker": "IWM",
+      "fetchedAt": "2026-09-04T09:48:56.826Z"
+    },
+    {
+      "ticker": "JPM",
+      "fetchedAt": "2026-09-04T09:48:57.200Z"
+    },
+    {
+      "ticker": "LAES",
+      "fetchedAt": "2026-09-04T09:48:57.575Z"
+    },
+    {
+      "ticker": "LMT",
+      "fetchedAt": "2026-09-04T09:48:57.949Z"
+    },
+    {
+      "ticker": "LYFT",
+      "fetchedAt": "2026-09-04T09:48:58.325Z"
+    },
+    {
+      "ticker": "META",
+      "fetchedAt": "2026-09-04T09:48:58.700Z"
+    },
+    {
+      "ticker": "MP",
+      "fetchedAt": "2026-09-04T09:48:59.075Z"
+    },
+    {
+      "ticker": "MRNA",
+      "fetchedAt": "2026-09-04T09:48:59.450Z"
+    },
+    {
+      "ticker": "MRVL",
+      "fetchedAt": "2026-09-04T09:48:59.826Z"
+    },
+    {
+      "ticker": "MSFT",
+      "fetchedAt": "2026-09-04T09:49:00.201Z"
+    },
+    {
+      "ticker": "MSTR",
+      "fetchedAt": "2026-09-04T09:49:00.576Z"
+    },
+    {
+      "ticker": "MU",
+      "fetchedAt": "2026-09-04T09:49:00.951Z"
+    },
+    {
+      "ticker": "NBIS",
+      "fetchedAt": "2026-09-04T09:49:01.326Z"
+    },
+    {
+      "ticker": "NFLX",
+      "fetchedAt": "2026-09-04T09:49:01.700Z"
+    },
+    {
+      "ticker": "NKE",
+      "fetchedAt": "2026-09-04T09:49:02.075Z"
+    },
+    {
+      "ticker": "NNE",
+      "fetchedAt": "2026-09-04T09:49:02.450Z"
+    },
+    {
+      "ticker": "NOC",
+      "fetchedAt": "2026-09-04T09:49:02.825Z"
+    },
+    {
+      "ticker": "NOK",
+      "fetchedAt": "2026-09-04T09:49:03.200Z"
+    },
+    {
+      "ticker": "NOW",
+      "fetchedAt": "2026-09-04T09:49:03.575Z"
+    },
+    {
+      "ticker": "NVDA",
+      "fetchedAt": "2026-09-04T09:49:03.949Z"
+    },
+    {
+      "ticker": "OKLO",
+      "fetchedAt": "2026-09-04T09:49:04.324Z"
+    },
+    {
+      "ticker": "ONDS",
+      "fetchedAt": "2026-09-04T09:49:04.698Z"
+    },
+    {
+      "ticker": "OPEN",
+      "fetchedAt": "2026-09-04T09:49:05.074Z"
+    },
+    {
+      "ticker": "ORCL",
+      "fetchedAt": "2026-09-04T09:49:05.448Z"
+    },
+    {
+      "ticker": "OSCR",
+      "fetchedAt": "2026-09-04T09:49:05.824Z"
+    },
+    {
+      "ticker": "PANW",
+      "fetchedAt": "2026-09-04T09:49:06.202Z"
+    },
+    {
+      "ticker": "PATH",
+      "fetchedAt": "2026-09-04T09:49:06.577Z"
+    },
+    {
+      "ticker": "PDD",
+      "fetchedAt": "2026-09-04T09:49:06.952Z"
+    },
+    {
+      "ticker": "PLTR",
+      "fetchedAt": "2026-09-04T09:49:07.326Z"
+    },
+    {
+      "ticker": "POET",
+      "fetchedAt": "2026-09-04T09:49:07.700Z"
+    },
+    {
+      "ticker": "QQQ",
+      "fetchedAt": "2026-09-04T09:49:08.075Z"
+    },
+    {
+      "ticker": "QUBT",
+      "fetchedAt": "2026-09-04T09:49:08.450Z"
+    },
+    {
+      "ticker": "RBLX",
+      "fetchedAt": "2026-09-04T09:49:08.825Z"
+    },
+    {
+      "ticker": "RDDT",
+      "fetchedAt": "2026-09-04T09:49:09.200Z"
+    },
+    {
+      "ticker": "RGTI",
+      "fetchedAt": "2026-09-04T09:49:09.575Z"
+    },
+    {
+      "ticker": "RKT",
+      "fetchedAt": "2026-09-04T09:49:09.952Z"
+    },
+    {
+      "ticker": "SHOP",
+      "fetchedAt": "2026-09-04T09:49:10.327Z"
+    },
+    {
+      "ticker": "SMCI",
+      "fetchedAt": "2026-09-04T09:49:10.702Z"
+    },
+    {
+      "ticker": "SMR",
+      "fetchedAt": "2026-09-04T09:49:11.076Z"
+    },
+    {
+      "ticker": "SNAP",
+      "fetchedAt": "2026-09-04T09:49:11.450Z"
+    },
+    {
+      "ticker": "SNDK",
+      "fetchedAt": "2026-09-04T09:49:11.827Z"
+    },
+    {
+      "ticker": "SNOW",
+      "fetchedAt": "2026-09-04T09:49:12.201Z"
+    },
+    {
+      "ticker": "SOFI",
+      "fetchedAt": "2026-09-04T09:49:12.576Z"
+    },
+    {
+      "ticker": "SPCX",
+      "fetchedAt": "2026-09-04T09:49:12.951Z"
+    },
+    {
+      "ticker": "SPY",
+      "fetchedAt": "2026-09-04T09:49:13.326Z"
+    },
+    {
+      "ticker": "TEM",
+      "fetchedAt": "2026-09-04T09:49:13.699Z"
+    },
+    {
+      "ticker": "TSLA",
+      "fetchedAt": "2026-09-04T09:49:14.074Z"
+    },
+    {
+      "ticker": "U",
+      "fetchedAt": "2026-09-04T09:49:14.449Z"
+    },
+    {
+      "ticker": "UBER",
+      "fetchedAt": "2026-09-04T09:49:14.824Z"
+    },
+    {
+      "ticker": "UNH",
+      "fetchedAt": "2026-09-04T09:49:15.200Z"
+    },
+    {
+      "ticker": "UPS",
+      "fetchedAt": "2026-09-04T09:49:15.575Z"
+    },
+    {
+      "ticker": "V",
+      "fetchedAt": "2026-09-04T09:49:15.949Z"
+    },
+    {
+      "ticker": "VST",
+      "fetchedAt": "2026-09-04T09:49:16.325Z"
+    },
+    {
+      "ticker": "WMT",
+      "fetchedAt": "2026-09-04T09:49:16.699Z"
+    },
+    {
+      "ticker": "XYZ",
+      "fetchedAt": "2026-09-04T09:49:17.074Z"
+    }
+  ]
+}

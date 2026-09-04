@@ -1,140 +1,14 @@
 {
-  "generatedAt": "2026-09-03T12:53:35.902Z",
+  "generatedAt": "2026-09-04T09:49:55.909Z",
   "hoursBack": 48,
   "tickersRequested": 94,
-  "count": 22,
+  "fatal": null,
+  "count": 1,
   "failures": [
     {
-      "label": "edgar:ACHR",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=ACHR&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:44:13.158Z"
-    },
-    {
-      "label": "edgar:BA",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=BA&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:45:47.240Z"
-    },
-    {
-      "label": "edgar:BABA",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=BABA&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:45:50.569Z"
-    },
-    {
-      "label": "edgar:BIDU",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=BIDU&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:46:15.363Z"
-    },
-    {
-      "label": "edgar:CRDO",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=CRDO&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:46:58.605Z"
-    },
-    {
-      "label": "edgar:HUT",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=HUT&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:47:56.568Z"
-    },
-    {
-      "label": "edgar:MU",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=MU&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:49:33.841Z"
-    },
-    {
-      "label": "edgar:NBIS",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=NBIS&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:49:36.194Z"
-    },
-    {
-      "label": "edgar:NKE",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=NKE&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:50:00.278Z"
-    },
-    {
-      "label": "edgar:NNE",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=NNE&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:50:05.463Z"
-    },
-    {
-      "label": "edgar:ORCL",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=ORCL&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:51:10.510Z"
-    },
-    {
-      "label": "edgar:OSCR",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=OSCR&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:51:20.764Z"
-    },
-    {
-      "label": "edgar:PATH",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=PATH&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:51:24.931Z"
-    },
-    {
-      "label": "edgar:PDD",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=PDD&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:51:46.775Z"
-    },
-    {
-      "label": "edgar:RDDT",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=RDDT&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:52:09.369Z"
-    },
-    {
-      "label": "edgar:RKT",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=RKT&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:52:19.949Z"
-    },
-    {
-      "label": "edgar:SMCI",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=SMCI&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:52:30.415Z"
-    },
-    {
-      "label": "edgar:SOFI",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=SOFI&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:52:34.701Z"
-    },
-    {
-      "label": "edgar:U",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=U&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:53:00.711Z"
-    },
-    {
-      "label": "edgar:UPS",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=UPS&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:53:10.565Z"
-    },
-    {
-      "label": "edgar:WMT",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=WMT&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:53:32.290Z"
-    },
-    {
-      "label": "edgar:XYZ",
-      "url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&ticker=XYZ&type=&dateb=&owner=include&count=20&output=atom",
-      "error": "HTTP 503",
-      "at": "2026-09-03T12:53:34.149Z"
+      "label": "edgar:IWM",
+      "error": "no CIK in SEC ticker map (foreign issuer or ETF)",
+      "at": "2026-09-04T09:49:44.054Z"
     }
   ]
 }
