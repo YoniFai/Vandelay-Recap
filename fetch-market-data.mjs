@@ -196,4 +196,4 @@ await writeFile(
 
 console.log(
   `screen ${screen.filter((r) => r.last != null).length}/${tickers.length} · earnings ${earnings.length} · shorts ${shorts.length} · failures ${failures.length}`
-);  
+);
