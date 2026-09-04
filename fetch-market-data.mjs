@@ -2,10 +2,11 @@ name: Vandelay morning data pull
 
 on:
   schedule:
-    # GitHub cron is UTC and ignores DST, so both fire and the guard below keeps
-    # exactly one: 11:30Z = 07:30 EDT (summer), 12:30Z = 07:30 EST (winter).
-    - cron: "30 11 * * 1-5"
-    - cron: "30 12 * * 1-5"
+    # 08:35 ET — after the 08:30 economic releases, so the whole 94-name screen sits
+    # on one side of them. GitHub cron is UTC and ignores DST, so both fire and the
+    # guard below keeps exactly one: 12:35Z = 08:35 EDT, 13:35Z = 08:35 EST.
+    - cron: "35 12 * * 1-5"
+    - cron: "35 13 * * 1-5"
   workflow_dispatch:
 
 permissions:
@@ -23,7 +24,7 @@ jobs:
 
       # One guard for the whole job, so market data and news never disagree about
       # whether this is the run of the day.
-      - name: Is this the 07:00 ET window
+      - name: Is this the 08:00 ET window
         id: window
         run: |
           if [ "${{ github.event_name }}" != "schedule" ]; then
@@ -32,11 +33,11 @@ jobs:
             exit 0
           fi
           ET_HOUR=$(TZ=America/New_York date +%H)
-          if [ "$ET_HOUR" = "07" ]; then
+          if [ "$ET_HOUR" = "08" ]; then
             echo "run=yes" >> "$GITHUB_OUTPUT"
           else
             echo "run=no" >> "$GITHUB_OUTPUT"
-            echo "skip: ${ET_HOUR}:xx ET is outside the 07:00 ET pull window"
+            echo "skip: ${ET_HOUR}:xx ET is outside the 08:00 ET pull window"
           fi
 
       # continue-on-error: a crash here must not abort the job, or data/ is left
