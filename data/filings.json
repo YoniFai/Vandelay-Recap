@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-04T10:37:14.602Z",
+  "generatedAt": "2026-09-04T12:54:00.851Z",
   "hoursBack": 48,
   "tickersRequested": 94,
-  "count": 400,
+  "count": 402,
   "rows": [
     {
       "ticker": "AAPL",
@@ -710,6 +710,30 @@
       "items": "2.02,7.01",
       "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000078/hpe-20260902.htm",
       "accession": "0001645590-26-000078",
+      "stampBasis": "acceptance timestamp"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B2",
+      "title": "AMENDED AND RESTATED PRELIMINARY PRICING SUPPLEMENT",
+      "filedAt": "2026-09-04T08:30:08.000Z",
+      "filingDate": "2026-09-04",
+      "reportDate": null,
+      "items": null,
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026097421/ea0304562-01_424b2.htm",
+      "accession": "0001213900-26-097421",
+      "stampBasis": "acceptance timestamp"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B3",
+      "title": "FORM 424B3",
+      "filedAt": "2026-09-04T08:29:27.000Z",
+      "filingDate": "2026-09-04",
+      "reportDate": null,
+      "items": null,
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026097420/ea0304565-01_424b3.htm",
+      "accession": "0001213900-26-097420",
       "stampBasis": "acceptance timestamp"
     },
     {

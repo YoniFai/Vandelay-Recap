@@ -1,14 +1,20 @@
 {
-  "generatedAt": "2026-09-04T10:37:14.602Z",
+  "generatedAt": "2026-09-04T12:54:00.851Z",
   "hoursBack": 48,
   "tickersRequested": 94,
   "fatal": null,
-  "count": 1,
+  "count": 2,
   "failures": [
     {
       "label": "edgar:IWM",
       "error": "no CIK in SEC ticker map (foreign issuer or ETF)",
-      "at": "2026-09-04T10:37:01.876Z"
+      "at": "2026-09-04T12:53:45.482Z"
+    },
+    {
+      "label": "wire:PR Newswire",
+      "url": "https://www.prnewswire.com/rss/news-releases-list.rss",
+      "error": "HTTP 404",
+      "at": "2026-09-04T12:53:59.289Z"
     }
   ]
 }
