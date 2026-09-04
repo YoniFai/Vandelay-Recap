@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-04T09:49:55.909Z",
+  "generatedAt": "2026-09-04T10:37:14.602Z",
   "hoursBack": 48,
   "tickersRequested": 94,
-  "count": 397,
+  "count": 400,
   "rows": [
     {
       "ticker": "AAPL",
@@ -710,6 +710,66 @@
       "items": "2.02,7.01",
       "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000078/hpe-20260902.htm",
       "accession": "0001645590-26-000078",
+      "stampBasis": "acceptance timestamp"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B2",
+      "title": "PRELIMINARY PRICING SUPPLEMENT",
+      "filedAt": "2026-09-03T21:25:27.000Z",
+      "filingDate": "2026-09-04",
+      "reportDate": null,
+      "items": null,
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026097364/ea0304659-01_424b2.htm",
+      "accession": "0001213900-26-097364",
+      "stampBasis": "acceptance timestamp"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B2",
+      "title": "PRELIMINARY PRICING SUPPLEMENT",
+      "filedAt": "2026-09-03T21:12:46.000Z",
+      "filingDate": "2026-09-04",
+      "reportDate": null,
+      "items": null,
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026097363/ea0304632-01_424b2.htm",
+      "accession": "0001213900-26-097363",
+      "stampBasis": "acceptance timestamp"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B2",
+      "title": "PRELIMINARY PRICING SUPPLEMENT",
+      "filedAt": "2026-09-03T19:15:06.000Z",
+      "filingDate": "2026-09-04",
+      "reportDate": null,
+      "items": null,
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026097337/ea0304567-01_424b2.htm",
+      "accession": "0001213900-26-097337",
+      "stampBasis": "acceptance timestamp"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B3",
+      "title": "FORM 424B3",
+      "filedAt": "2026-09-03T18:31:05.000Z",
+      "filingDate": "2026-09-04",
+      "reportDate": null,
+      "items": null,
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026097311/ea0304657-01_424b3.htm",
+      "accession": "0001213900-26-097311",
+      "stampBasis": "acceptance timestamp"
+    },
+    {
+      "ticker": "JPM",
+      "form": "424B3",
+      "title": "FORM 424B3",
+      "filedAt": "2026-09-03T18:26:56.000Z",
+      "filingDate": "2026-09-04",
+      "reportDate": null,
+      "items": null,
+      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026097309/ea0304656-01_424b3.htm",
+      "accession": "0001213900-26-097309",
       "stampBasis": "acceptance timestamp"
     },
     {
@@ -3737,18 +3797,6 @@
       "stampBasis": "acceptance timestamp"
     },
     {
-      "ticker": "JPM",
-      "form": "424B2",
-      "title": "PRELIMINARY PRICING SUPPLEMENT",
-      "filedAt": "2026-09-02T10:17:46.000Z",
-      "filingDate": "2026-09-02",
-      "reportDate": null,
-      "items": null,
-      "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026096426/ea0304335-01_424b2.htm",
-      "accession": "0001213900-26-096426",
-      "stampBasis": "acceptance timestamp"
-    },
-    {
       "ticker": "LAES",
       "form": "4",
       "title": "4",
@@ -4490,18 +4538,6 @@
       "items": null,
       "url": "https://www.sec.gov/Archives/edgar/data/1737806/000197337926000333/xsl144X01/primary_doc.xml",
       "accession": "0001973379-26-000333",
-      "stampBasis": "acceptance timestamp"
-    },
-    {
-      "ticker": "PDD",
-      "form": "4",
-      "title": "OWNERSHIP DOCUMENT",
-      "filedAt": "2026-09-02T10:03:15.000Z",
-      "filingDate": "2026-09-02",
-      "reportDate": "2026-09-01",
-      "items": null,
-      "url": "https://www.sec.gov/Archives/edgar/data/1737806/000110465926104422/xslF345X06/tm2624371-1_4seq1.xml",
-      "accession": "0001104659-26-104422",
       "stampBasis": "acceptance timestamp"
     },
     {
