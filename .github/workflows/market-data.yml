@@ -45,6 +45,9 @@ jobs:
       - name: Fetch market data
         if: steps.window.outputs.run == 'yes'
         continue-on-error: true
+        env:
+          ALPACA_KEY_ID: ${{ secrets.ALPACA_KEY_ID }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
         run: node fetch-market-data.mjs
 
       - name: Fetch filings and newswire feeds
@@ -62,7 +65,7 @@ jobs:
             echo "no change to commit"
           else
             git commit -m "data: morning pull $(date -u +%Y-%m-%d\ %H:%MZ)"
-            # main may have moved while the ~8 minute pull was running (a hand edit,
+            # main may have moved while the pull was running (a hand edit,
             # another run). Rebase onto it rather than failing the push.
             git pull --rebase --autostash origin main
             git push
