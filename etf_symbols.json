@@ -1,0 +1,9 @@
+{
+  "_note": "ETF daily-bar universe for the rotation sleeve (ROT-01). Read by fetch-etf-bars.mjs ONLY. NOT part of watchlist.json or the 94-name equity scanner. 11 sector SPDRs + RSP (equal-weight S&P) + SPY (cap-weight benchmark).",
+  "symbols": [
+    "XLK", "XLF", "XLI", "XLP", "XLE", "XLU", "XLRE", "XLB", "XLY", "XLV", "XLC",
+    "RSP", "SPY"
+  ],
+  "count": 13,
+  "schema": 1
+}
