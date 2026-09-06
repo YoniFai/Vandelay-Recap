@@ -1,0 +1,80 @@
+name: Vandelay ETF close pull
+
+# ROT-01 Part A. ISOLATED from "Vandelay morning data pull": this action fetches
+# ONLY the ETF daily-bar artifact (data/etf_bars.json) after the cash close, so
+# day D's final daily bar lands the same evening instead of waiting for the next
+# 08:35 ET morning run. It never runs screen/earnings/shorts and never edits
+# their files.
+
+on:
+  schedule:
+    # ~17:00 ET, after the 16:00 close + settle. GitHub cron is UTC and ignores
+    # DST, so both fire and the guard below keeps exactly one:
+    # 21:00Z = 17:00 EDT, 22:00Z = 17:00 EST. Same dual-cron convention as the
+    # morning pull.
+    - cron: "0 21 * * 1-5"
+    - cron: "0 22 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  etf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Is this the 17:00 ET window
+        id: window
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "run=yes" >> "$GITHUB_OUTPUT"
+            echo "manual dispatch — running"
+            exit 0
+          fi
+          ET_HOUR=$(TZ=America/New_York date +%H)
+          if [ "$ET_HOUR" = "17" ]; then
+            echo "run=yes" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=no" >> "$GITHUB_OUTPUT"
+            echo "skip: ${ET_HOUR}:xx ET is outside the 17:00 ET close window"
+          fi
+
+      # continue-on-error: an ETF fetch failure must never leave a broken commit
+      # or block a retry; the artifact still records the failure for the PM gate.
+      - name: Fetch ETF daily bars
+        if: steps.window.outputs.run == 'yes'
+        continue-on-error: true
+        env:
+          ALPACA_KEY_ID: ${{ secrets.ALPACA_KEY_ID }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+        run: node fetch-etf-bars.mjs
+
+      - name: Commit the ETF bars
+        if: steps.window.outputs.run == 'yes'
+        run: |
+          git config user.name "vandelay-data-bot"
+          git config user.email "actions@github.com"
+          # Stage ONLY the ETF artifact — never the rest of data/.
+          git add data/etf_bars.json
+          if git diff --staged --quiet; then
+            echo "no change to commit"
+          else
+            git commit -m "data: etf close pull $(date -u +%Y-%m-%d\ %H:%MZ)"
+            git pull --rebase --autostash origin main
+            git push
+          fi
+
+      - name: Report what landed
+        if: steps.window.outputs.run == 'yes'
+        run: |
+          if [ -f data/etf_bars.json ]; then
+            echo "ok   data/etf_bars.json ($(wc -c < data/etf_bars.json) bytes)"
+          else
+            echo "MISS data/etf_bars.json"
+          fi
