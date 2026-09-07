@@ -1,147 +1,289 @@
 {
-  "generatedAt": "2026-09-04T12:54:00.851Z",
+  "generatedAt": "2026-09-07T12:53:58.756Z",
   "hoursBack": 48,
   "tickersRequested": 94,
-  "count": 20,
+  "count": 40,
   "rows": [
     {
-      "source": "GlobeNewswire",
-      "title": "Lleida.net presents in Kazakhstan its digital certification solutions, and its CEO, Sisco Sapena, takes part in the fraud panel at CIS 2026 GCCM Almaty.",
-      "publishedAt": "Fri, 04 Sep 2026 12:50 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356559/0/en/lleida-net-presents-in-kazakhstan-its-digital-certification-solutions-and-its-ceo-sisco-sapena-takes-part-in-the-fraud-panel-at-cis-2026-gccm-almaty.html",
+      "source": "PR Newswire",
+      "title": "Erleben Sie bei Hisense auf der IFA 2026 den KI-Begleiter für den Alltag",
+      "publishedAt": "Mon, 7 Sep 2026 12:50:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/erleben-sie-bei-hisense-auf-der-ifa-2026-den-ki-begleiter-fur-den-alltag-302871352.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Découvrez les compagnons IA du quotidien sur le stand Hisense de l'IFA 2026",
+      "publishedAt": "Mon, 7 Sep 2026 12:48:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/decouvrez-les-compagnons-ia-du-quotidien-sur-le-stand-hisense-de-lifa-2026-302871350.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Vyskúšajte si s Hisense AI spoločníka pre každodenný život na veľtrhu IFA 2026",
+      "publishedAt": "Mon, 7 Sep 2026 12:46:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/vyskuajte-si-s-hisense-ai-spolonika-pre-kadodenny-ivot-na-vetrhu-ifa-2026-302871348.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "La leyenda del FC Barcelona, Carles Puyol, se une a Midea en IFA 2026.",
+      "publishedAt": "Mon, 7 Sep 2026 12:41:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/la-leyenda-del-fc-barcelona-carles-puyol-se-une-a-midea-en-ifa-2026-302871347.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Real Estate Expert Howard Goldberg Details Coastal Rental and Multifamily Property Ownership in HelloNation",
+      "publishedAt": "Mon, 7 Sep 2026 12:38:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/real-estate-expert-howard-goldberg-details-coastal-rental-and-multifamily-property-ownership-in-hellonation-302870359.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "FC Barcelona-Legende Carles Puyol zu Gast bei Midea auf der IFA 2026",
+      "publishedAt": "Mon, 7 Sep 2026 12:37:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/fc-barcelona-legende-carles-puyol-zu-gast-bei-midea-auf-der-ifa-2026-302871345.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "RayNeo presenta en IFA 2026 sus gafas inteligentes de RA e IA cinematográficas de última generación",
+      "publishedAt": "Mon, 7 Sep 2026 12:33:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/rayneo-presenta-en-ifa-2026-sus-gafas-inteligentes-de-ra-e-ia-cinematograficas-de-ultima-generacion-302871341.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "GEEKOM Launches A5 2027 Edition Mini PC, Built for Productivity That Lasts",
+      "publishedAt": "Mon, 7 Sep 2026 12:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/geekom-launches-a5-2027-edition-mini-pc-built-for-productivity-that-lasts-302871274.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "LA COMPAGNIE TO LAUNCH DIRECT ALL-BUSINESS-CLASS SERVICE BETWEEN NEW YORK AND DÜSSELDORF",
+      "publishedAt": "Mon, 7 Sep 2026 12:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/la-compagnie-to-launch-direct-all-business-class-service-between-new-york-and-dusseldorf-302870751.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "GEEKOM Launches A5 2027 Edition Mini PC, Built for Productivity That Lasts",
+      "publishedAt": "Mon, 7 Sep 2026 12:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/geekom-launches-a5-2027-edition-mini-pc-built-for-productivity-that-lasts-302871263.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "U.S. District Court Invalidates Kaneka's Ubiquinol Patent, Clearing the Way for Cocrystal Tech's CrysQnol™ in the U.S. Market",
+      "publishedAt": "Mon, 7 Sep 2026 12:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/us-district-court-invalidates-kanekas-ubiquinol-patent-clearing-the-way-for-cocrystal-techs-crysqnol-in-the-us-market-302871265.html",
+      "tickersMentioned": [
+        "U"
+      ]
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Truecaller expands enterprise suite; allows consumers to communicate with businesses in a tap",
+      "publishedAt": "Mon, 7 Sep 2026 12:13:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/truecaller-expands-enterprise-suite-allows-consumers-to-communicate-with-businesses-in-a-tap-302871336.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Moonlock by MacPaw Wins Red Dot Award 2026",
+      "publishedAt": "Mon, 7 Sep 2026 12:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/moonlock-by-macpaw-wins-red-dot-award-2026-302870478.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Ministry of Food and Drug Safety of Korea, Successfully Concludes 'GBC 2026,' Marking a Great Leap in Bio",
+      "publishedAt": "Mon, 7 Sep 2026 12:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/ministry-of-food-and-drug-safety-of-korea-successfully-concludes-gbc-2026-marking-a-great-leap-in-bio-302870910.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Nurminen Logistics increases capacity on its Sweden-Italy rail route: two weekly departures and expanded transport options",
+      "publishedAt": "Mon, 7 Sep 2026 11:48:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/nurminen-logistics-increases-capacity-on-its-swedenitaly-rail-route-two-weekly-departures-and-expanded-transport-options-302871329.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Six Flags Introduces Flex Pay by Upgrade, Allowing Guests a New Way to Plan and Pay for Fun",
+      "publishedAt": "Mon, 7 Sep 2026 11:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/six-flags-introduces-flex-pay-by-upgrade-allowing-guests-a-new-way-to-plan-and-pay-for-fun-302870876.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "New Book Offers Practical Framework for Living with Greater Purpose and Balance",
+      "publishedAt": "Mon, 7 Sep 2026 11:29:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/new-book-offers-practical-framework-for-living-with-greater-purpose-and-balance-302870550.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "\"Home in Montana\" Tells a Story of Faith, Trust and New Beginnings",
+      "publishedAt": "Mon, 7 Sep 2026 11:26:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/home-in-montana-tells-a-story-of-faith-trust-and-new-beginnings-302870543.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "vivo and UNESCO MAB Bring Young Voices Together in Italy to Capture the Future",
+      "publishedAt": "Mon, 7 Sep 2026 11:04:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/vivo-and-unesco-mab-bring-young-voices-together-in-italy-to-capture-the-future-302871317.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Miral und Warner Bros. Discovery Global Experiences präsentiert Themenbereiche rund um Harry Potter",
+      "publishedAt": "Mon, 7 Sep 2026 11:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/miral-und-warner-bros-discovery-global-experiences-prasentiert-themenbereiche-rund-um-harry-potter-302870828.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Lleida.net presenta en Kazajistán sus soluciones de certificación digital y participa en el panel sobre prevención del fraude de CIS 2026 GCCM Almaty",
-      "publishedAt": "Fri, 04 Sep 2026 12:50 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356559/0/es/lleida-net-presenta-en-kazajist%C3%A1n-sus-soluciones-de-certificaci%C3%B3n-digital-y-participa-en-el-panel-sobre-prevenci%C3%B3n-del-fraude-de-cis-2026-gccm-almaty.html",
+      "title": "Renk Group AG: Release according to Article 40 (1) of the WpHG (the German Securities Trading Act) with the objective of Europe-wide distribution",
+      "publishedAt": "Mon, 07 Sep 2026 12:40 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357105/0/en/renk-group-ag-release-according-to-article-40-1-of-the-wphg-the-german-securities-trading-act-with-the-objective-of-europe-wide-distribution.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Lleida.net présente au Kazakhstan ses solutions de certification numérique et participe au panel sur la prévention de la fraude de CIS 2026 GCCM Almaty",
-      "publishedAt": "Fri, 04 Sep 2026 12:50 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356559/0/fr/lleida-net-pr%C3%A9sente-au-kazakhstan-ses-solutions-de-certification-num%C3%A9rique-et-participe-au-panel-sur-la-pr%C3%A9vention-de-la-fraude-de-cis-2026-gccm-almaty.html",
+      "title": "Renk Group AG: Veröffentlichung gemäß § 40 Abs. 1 WpHG mit dem Ziel der europaweiten Verbreitung",
+      "publishedAt": "Mon, 07 Sep 2026 12:40 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357105/0/de/renk-group-ag-ver%C3%B6ffentlichung-gem%C3%A4%C3%9F-40-abs-1-wphg-mit-dem-ziel-der-europaweiten-verbreitung.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Intellia Therapeutics Secures Non-Dilutive Debt Facility with OrbiMed for up to $400 Million",
-      "publishedAt": "Fri, 04 Sep 2026 12:50 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356558/0/en/intellia-therapeutics-secures-non-dilutive-debt-facility-with-orbimed-for-up-to-400-million.html",
+      "title": "Disclosure of trading in own shares from August 31, 2026 to September 4, 2026",
+      "publishedAt": "Mon, 07 Sep 2026 12:20 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357101/0/en/disclosure-of-trading-in-own-shares-from-august-31-2026-to-september-4-2026.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Nanox Signs Distribution Agreement with Associated X-Ray Imaging to Expand Nanox.ARC Adoption Across New England",
-      "publishedAt": "Fri, 04 Sep 2026 12:46 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356556/0/en/nanox-signs-distribution-agreement-with-associated-x-ray-imaging-to-expand-nanox-arc-adoption-across-new-england.html",
+      "title": "Déclaration hebdomadaire des transactions sur actions propres du 31 août 2026 au 4 septembre 2026",
+      "publishedAt": "Mon, 07 Sep 2026 12:20 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357101/0/fr/d%C3%A9claration-hebdomadaire-des-transactions-sur-actions-propres-du-31-ao%C3%BBt-2026-au-4-septembre-2026.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Tarsus Pharmaceuticals Completes Acquisition of Alkeus Pharmaceuticals, Expanding Leadership in Eye Care",
-      "publishedAt": "Fri, 04 Sep 2026 12:38 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356553/0/en/tarsus-pharmaceuticals-completes-acquisition-of-alkeus-pharmaceuticals-expanding-leadership-in-eye-care.html",
+      "title": "Share buy-back program",
+      "publishedAt": "Mon, 07 Sep 2026 12:18 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357100/0/en/share-buy-back-program.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "CORRECTION - Danske Bank A/S, transactions by persons discharging managerial responsibilities",
-      "publishedAt": "Fri, 04 Sep 2026 12:37 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356552/0/en/correction-danske-bank-a-s-transactions-by-persons-discharging-managerial-responsibilities.html",
+      "title": "Transactions in connection with share buyback programme",
+      "publishedAt": "Mon, 07 Sep 2026 12:05 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357099/0/en/transactions-in-connection-with-share-buyback-programme.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "RETTELSE - Danske Bank A/S, ledende medarbejderes transaktioner",
-      "publishedAt": "Fri, 04 Sep 2026 12:37 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356552/0/da/rettelse-danske-bank-a-s-ledende-medarbejderes-transaktioner.html",
+      "title": "Kvika banki hf.: Transaction in relation to a share buy-back programme",
+      "publishedAt": "Mon, 07 Sep 2026 12:00 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357092/0/en/kvika-banki-hf-transaction-in-relation-to-a-share-buy-back-programme.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Virco Reports Revenue through Six Months Declined 6.1% to $118.2 Million from $125.8 Million, as Rebalancing of School Furniture Market Continues",
-      "publishedAt": "Fri, 04 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356549/1141/en/virco-reports-revenue-through-six-months-declined-6-1-to-118-2-million-from-125-8-million-as-rebalancing-of-school-furniture-market-continues.html",
+      "title": "Kvika banki hf.: Reglubundin tilkynning um kaup á eigin bréfum í samræmi við endurkaupaáætlun",
+      "publishedAt": "Mon, 07 Sep 2026 12:00 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357092/0/is/kvika-banki-hf-reglubundin-tilkynning-um-kaup-%C3%A1-eigin-br%C3%A9fum-%C3%AD-samr%C3%A6mi-vi%C3%B0-endurkaupa%C3%A1%C3%A6tlun.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "CUENTAS, INC. REPORTS SECOND QUARTER 2026 RESULTS AND ANNOUNCES 4,000+ ACTIVE MOBILITY CUSTOMERS.",
-      "publishedAt": "Fri, 04 Sep 2026 12:26 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356546/0/en/cuentas-inc-reports-second-quarter-2026-results-and-announces-4-000-active-mobility-customers.html",
+      "title": "Kaltura to Showcase AI-Powered Media and Telecom Innovations at IBC 2026, Spanning Customer Care Avatars, Sports Discovery, and Personalized Streaming Experiences",
+      "publishedAt": "Mon, 07 Sep 2026 12:00 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357094/0/en/kaltura-to-showcase-ai-powered-media-and-telecom-innovations-at-ibc-2026-spanning-customer-care-avatars-sports-discovery-and-personalized-streaming-experiences.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Statement: EdgeMode confirms that the current review process with BlackBerry AIF and BLACK AI Group will be extended for up to six months",
-      "publishedAt": "Fri, 04 Sep 2026 12:13 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356540/0/en/statement-edgemode-confirms-that-the-current-review-process-with-blackberry-aif-and-black-ai-group-will-be-extended-for-up-to-six-months.html",
+      "title": "ASML reports transactions under its current share buyback program",
+      "publishedAt": "Mon, 07 Sep 2026 12:00 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357097/0/en/asml-reports-transactions-under-its-current-share-buyback-program.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Edible Garden Launches First-to-Market USDA Organic CEA-Grown Basil at Wakefern/ShopRite",
-      "publishedAt": "Fri, 04 Sep 2026 12:13 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356539/0/en/edible-garden-launches-first-to-market-usda-organic-cea-grown-basil-at-wakefern-shoprite.html",
+      "title": "Transaction in Own Shares",
+      "publishedAt": "Mon, 07 Sep 2026 11:41 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357088/0/en/transaction-in-own-shares.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "UroGen Pharma Announces Inducement Grants Under Nasdaq Listing Rule 5635(c)(4)",
-      "publishedAt": "Fri, 04 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356517/0/en/urogen-pharma-announces-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html",
+      "title": "Novo Nordisk A/S - share repurchase programme",
+      "publishedAt": "Mon, 07 Sep 2026 11:12 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357083/0/en/novo-nordisk-a-s-share-repurchase-programme.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Douglas Dynamics Declares Quarterly Cash Dividend",
-      "publishedAt": "Fri, 04 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356519/12740/en/douglas-dynamics-declares-quarterly-cash-dividend.html",
+      "title": "S-Pankki Oyj täydentää 16.7.2026 päivättyä tarjousasiakirjaa koskien tekemäänsä vapaaehtoista julkista käteisostotarjousta kaikista Oma Säästöpankki Oyj:n osakkeista",
+      "publishedAt": "Mon, 07 Sep 2026 11:05 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357080/0/fi/s-pankki-oyj-t%C3%A4ydent%C3%A4%C3%A4-16-7-2026-p%C3%A4iv%C3%A4tty%C3%A4-tarjousasiakirjaa-koskien-tekem%C3%A4%C3%A4ns%C3%A4-vapaaehtoista-julkista-k%C3%A4teisostotarjousta-kaikista-oma-s%C3%A4%C3%A4st%C3%B6pankki-oyj-n-osakkeista.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Intellia Therapeutics to Present at Morgan Stanley 24th Annual Global Healthcare Conference",
-      "publishedAt": "Fri, 04 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356520/0/en/intellia-therapeutics-to-present-at-morgan-stanley-24th-annual-global-healthcare-conference.html",
+      "title": "S-Bank Plc supplements the tender offer document dated 16 July 2026 regarding its voluntary public cash tender offer for all the shares in Oma Savings Bank Plc",
+      "publishedAt": "Mon, 07 Sep 2026 11:05 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357080/0/en/s-bank-plc-supplements-the-tender-offer-document-dated-16-july-2026-regarding-its-voluntary-public-cash-tender-offer-for-all-the-shares-in-oma-savings-bank-plc.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Taysha Gene Therapies Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
-      "publishedAt": "Fri, 04 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356521/0/en/taysha-gene-therapies-announces-inducement-grant-under-nasdaq-listing-rule-5635-c-4.html",
+      "title": "Notice of public offering of AS Pro Kapital Grupp bonds",
+      "publishedAt": "Mon, 07 Sep 2026 11:00 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357072/0/en/notice-of-public-offering-of-as-pro-kapital-grupp-bonds.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Zscaler to Present at Upcoming Investor Conferences",
-      "publishedAt": "Fri, 04 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356522/0/en/zscaler-to-present-at-upcoming-investor-conferences.html",
+      "title": "Intention to Fundraise",
+      "publishedAt": "Mon, 07 Sep 2026 11:00 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357073/0/en/intention-to-fundraise.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Premium Income Corporation Establishes at-the-Market Equity Program",
-      "publishedAt": "Fri, 04 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356523/0/en/premium-income-corporation-establishes-at-the-market-equity-program.html",
+      "title": "Notice of public offering of AS Pro Kapital Grupp bonds",
+      "publishedAt": "Mon, 07 Sep 2026 11:00 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357074/0/en/notice-of-public-offering-of-as-pro-kapital-grupp-bonds.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Iovance Biotherapeutics to Present at Upcoming Conferences",
-      "publishedAt": "Fri, 04 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356524/0/en/iovance-biotherapeutics-to-present-at-upcoming-conferences.html",
+      "title": "AS-i Pro Kapital Grupp võlakirjade avaliku pakkumise teade",
+      "publishedAt": "Mon, 07 Sep 2026 11:00 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357074/0/et/as-i-pro-kapital-grupp-v%C3%B5lakirjade-avaliku-pakkumise-teade.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "QikBIM Goes Viral: OFA Group’s AI-Powered BIM Platform Surges Past 281,000 Views and Adds Thousands of New Followers in 90 Days, Converts First Paying Subscribers and Targets Over $1 Million in Savings Per Project",
-      "publishedAt": "Fri, 04 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/04/3356525/0/en/qikbim-goes-viral-ofa-group-s-ai-powered-bim-platform-surges-past-281-000-views-and-adds-thousands-of-new-followers-in-90-days-converts-first-paying-subscribers-and-targets-over-1-.html",
+      "title": "Ascendis to Share Its Latest Endocrinology Rare Disease Data at ESPE 2026",
+      "publishedAt": "Mon, 07 Sep 2026 11:00 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357076/0/en/ascendis-to-share-its-latest-endocrinology-rare-disease-data-at-espe-2026.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Man Group PLC : Form 8.3 - Gamma Communications Plc",
+      "publishedAt": "Mon, 07 Sep 2026 10:22 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/07/3357061/0/en/man-group-plc-form-8-3-gamma-communications-plc.html",
       "tickersMentioned": []
     }
   ]
