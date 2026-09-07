@@ -3,8 +3,8 @@
   "adjustment": "all",
   "source": "alpaca",
   "schema": 1,
-  "generatedAt": "2026-09-06T14:10:18.040Z",
-  "start": "2025-08-02",
+  "generatedAt": "2026-09-07T21:09:44.298Z",
+  "start": "2025-08-03",
   "minBars": 130,
   "latestBar": "2026-09-04",
   "volumeNote": "v is IEX-partial (single-venue) — NOT consolidated volume; downstream ignores it",
@@ -28,7 +28,7 @@
   },
   "failuresCount": 0,
   "failures": [],
-  "runSeconds": 1,
+  "runSeconds": 0,
   "bars": {
     "XLK": [
       {
