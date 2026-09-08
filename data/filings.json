@@ -1,7 +1,92 @@
 {
-  "generatedAt": "2026-09-07T12:53:58.756Z",
+  "generatedAt": "2026-09-08T12:55:13.374Z",
   "hoursBack": 48,
   "tickersRequested": 94,
-  "count": 0,
-  "rows": []
+  "count": 7,
+  "rows": [
+    {
+      "ticker": "ASST",
+      "form": "8-K",
+      "title": "8-K",
+      "filedAt": "2026-09-08T07:59:19.000Z",
+      "filingDate": "2026-09-08",
+      "reportDate": "2026-09-08",
+      "items": "8.01",
+      "url": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026060809/asst-20260908.htm",
+      "accession": "0001628280-26-060809",
+      "stampBasis": "acceptance timestamp"
+    },
+    {
+      "ticker": "CRCL",
+      "form": "8-K",
+      "title": "8-K",
+      "filedAt": "2026-09-08T06:04:21.000Z",
+      "filingDate": "2026-09-08",
+      "reportDate": "2026-09-04",
+      "items": "1.01,3.02,7.01,9.01",
+      "url": "https://www.sec.gov/Archives/edgar/data/1876042/000187604226000267/crcl-20260904.htm",
+      "accession": "0001876042-26-000267",
+      "stampBasis": "acceptance timestamp"
+    },
+    {
+      "ticker": "IONQ",
+      "form": "8-K",
+      "title": "8-K",
+      "filedAt": "2026-09-08T07:40:15.000Z",
+      "filingDate": "2026-09-08",
+      "reportDate": "2026-09-08",
+      "items": "7.01,9.01",
+      "url": "https://www.sec.gov/Archives/edgar/data/1824920/000119312526384388/ionq-20260908.htm",
+      "accession": "0001193125-26-384388",
+      "stampBasis": "acceptance timestamp"
+    },
+    {
+      "ticker": "MSTR",
+      "form": "8-K",
+      "title": "8-K",
+      "filedAt": "2026-09-08T08:00:15.000Z",
+      "filingDate": "2026-09-08",
+      "reportDate": "2026-08-31",
+      "items": "7.01,8.01",
+      "url": "https://www.sec.gov/Archives/edgar/data/1050446/000119312526384402/mstr-20260831.htm",
+      "accession": "0001193125-26-384402",
+      "stampBasis": "acceptance timestamp"
+    },
+    {
+      "ticker": "RGTI",
+      "form": "8-K",
+      "title": "FORM 8-K",
+      "filedAt": "2026-09-08T07:25:18.000Z",
+      "filingDate": "2026-09-08",
+      "reportDate": "2026-09-04",
+      "items": "1.01,3.02,7.01,8.01,9.01",
+      "url": "https://www.sec.gov/Archives/edgar/data/1838359/000110465926105662/tm2624940d1_8k.htm",
+      "accession": "0001104659-26-105662",
+      "stampBasis": "acceptance timestamp"
+    },
+    {
+      "ticker": "UBER",
+      "form": "4",
+      "title": "PRIMARY DOCUMENT",
+      "filedAt": "2026-09-08T07:02:11.000Z",
+      "filingDate": "2026-09-08",
+      "reportDate": "2026-09-04",
+      "items": null,
+      "url": "https://www.sec.gov/Archives/edgar/data/1543151/000207176126000011/xslF345X06/primarydocument.xml",
+      "accession": "0002071761-26-000011",
+      "stampBasis": "acceptance timestamp"
+    },
+    {
+      "ticker": "UBER",
+      "form": "424B3",
+      "title": "424B3",
+      "filedAt": "2026-09-08T06:00:52.000Z",
+      "filingDate": "2026-09-08",
+      "reportDate": null,
+      "items": null,
+      "url": "https://www.sec.gov/Archives/edgar/data/1543151/000155278126000469/e26355_uber-euro424b3.htm",
+      "accession": "0001552781-26-000469",
+      "stampBasis": "acceptance timestamp"
+    }
+  ]
 }
