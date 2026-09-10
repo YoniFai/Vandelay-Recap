@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T12:59:46.003Z",
+  "generatedAt": "2026-09-10T12:55:07.521Z",
   "hoursBack": 48,
   "tickersRequested": 94,
   "fatal": null,
@@ -8,7 +8,7 @@
     {
       "label": "edgar:IWM",
       "error": "no CIK in SEC ticker map (foreign issuer or ETF)",
-      "at": "2026-09-09T12:59:33.181Z"
+      "at": "2026-09-10T12:54:54.939Z"
     }
   ]
 }
