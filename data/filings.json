@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-11T12:28:31.781Z",
+  "generatedAt": "2026-09-11T12:53:55.554Z",
   "hoursBack": 48,
   "tickersRequested": 94,
-  "count": 339,
+  "count": 338,
   "rows": [
     {
       "ticker": "AAPL",
@@ -482,18 +482,6 @@
       "items": null,
       "url": "https://www.sec.gov/Archives/edgar/data/1571996/000185033626000010/xslF345X06/wk-form4_1788984528.xml",
       "accession": "0001850336-26-000010",
-      "stampBasis": "acceptance timestamp"
-    },
-    {
-      "ticker": "DELL",
-      "form": "424B2",
-      "title": "424B2",
-      "filedAt": "2026-09-09T12:33:02.000Z",
-      "filingDate": "2026-09-09",
-      "reportDate": null,
-      "items": null,
-      "url": "https://www.sec.gov/Archives/edgar/data/1571996/000119312526385954/d207421d424b2.htm",
-      "accession": "0001193125-26-385954",
       "stampBasis": "acceptance timestamp"
     },
     {

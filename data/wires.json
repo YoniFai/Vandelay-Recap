@@ -1,9 +1,128 @@
 {
-  "generatedAt": "2026-09-11T12:28:31.781Z",
+  "generatedAt": "2026-09-11T12:53:55.554Z",
   "hoursBack": 48,
   "tickersRequested": 94,
   "count": 40,
   "rows": [
+    {
+      "source": "PR Newswire",
+      "title": "Korea University Study Uncovers How mRNA Vaccination May Broaden Flu Antibody Responses",
+      "publishedAt": "Fri, 11 Sep 2026 12:48:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/korea-university-study-uncovers-how-mrna-vaccination-may-broaden-flu-antibody-responses-302875986.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "$17 trillion invested in sustainable technologies over past decade, but investments, technology and progress are diverging",
+      "publishedAt": "Fri, 11 Sep 2026 12:45:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/17-trillion-invested-in-sustainable-technologies-over-past-decade-but-investments-technology-and-progress-are-diverging-302871613.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "At $100 Oil, the Deal Flow Moved to Pipelines and Producing Wells",
+      "publishedAt": "Fri, 11 Sep 2026 12:45:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/at-100-oil-the-deal-flow-moved-to-pipelines-and-producing-wells-302876225.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "AARD Investors Have Opportunity to Lead Aardvark Therapeutics, Inc. Securities Fraud Lawsuit",
+      "publishedAt": "Fri, 11 Sep 2026 12:41:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/aard-investors-have-opportunity-to-lead-aardvark-therapeutics-inc-securities-fraud-lawsuit-302875963.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "IREX Unveils the First Vision-Language Model Analytics for Public Safety",
+      "publishedAt": "Fri, 11 Sep 2026 12:39:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/irex-unveils-the-first-vision-language-model-analytics-for-public-safety-302875967.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "QuickFi® Wins 2026 Finovate Award for Best SMB/SME Banking Solution",
+      "publishedAt": "Fri, 11 Sep 2026 12:39:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/quickfi-wins-2026-finovate-award-for-best-smbsme-banking-solution-302875964.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Silicon Line®, une marque d'EverProX®, lance le nouveau chipset SerDes à très faible consommation MSDL™ (MIPI Serial Data Link), qui étend la connectivité MIPI D-PHY à 20 Gbit/s sur des distances de plusieurs dizaines de mètres",
+      "publishedAt": "Fri, 11 Sep 2026 12:38:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/silicon-line-une-marque-deverprox-lance-le-nouveau-chipset-serdes-a-tres-faible-consommation-msdl-mipi-serial-data-link-qui-etend-la-connectivite-mipi-d-phy-a-20-gbits-sur-des-distances-de-plusieurs-dizaines-de-metres-302876409.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Melissa Rivers Returns to the Emmys Red Carpet for the First Time in Nearly 20 Years, Joining CNN and Variety's Live Coverage",
+      "publishedAt": "Fri, 11 Sep 2026 12:37:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/melissa-rivers-returns-to-the-emmys-red-carpet-for-the-first-time-in-nearly-20-years-joining-cnn-and-varietys-live-coverage-302875970.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "WebHaste Helps Teams Build and Manage Smaller Websites Without Server Headaches",
+      "publishedAt": "Fri, 11 Sep 2026 12:37:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/webhaste-helps-teams-build-and-manage-smaller-websites-without-server-headaches-302875957.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "PolarX Announces Hyper Copper Grades Over Big Widths from Surface Point to Significant Resource Growth at Caribou Dome Project",
+      "publishedAt": "Fri, 11 Sep 2026 12:35:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/polarx-announces-hyper-copper-grades-over-big-widths-from-surface-point-to-significant-resource-growth-at-caribou-dome-project-302875930.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Brain-Body Therapy Partners With Mother Model Management to Bring Mental Wellness Support to Models",
+      "publishedAt": "Fri, 11 Sep 2026 12:33:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/brain-body-therapy-partners-with-mother-model-management-to-bring-mental-wellness-support-to-models-302875974.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "DCM Services Adds AKUVO as Strategic Partner to Expand Proactive Estate Recovery for Credit Unions",
+      "publishedAt": "Fri, 11 Sep 2026 12:32:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/dcm-services-adds-akuvo-as-strategic-partner-to-expand-proactive-estate-recovery-for-credit-unions-302875954.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Global Expansion: Supply Maverick Streamlines Shipping to Canada, Australia, and New Zealand",
+      "publishedAt": "Fri, 11 Sep 2026 12:31:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/global-expansion-supply-maverick-streamlines-shipping-to-canada-australia-and-new-zealand-302875955.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "CJ Foods' Korean Spirits Brand jari Sweeps Top Honors at Leading Global Spirits Competitions",
+      "publishedAt": "Fri, 11 Sep 2026 12:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/cj-foods-korean-spirits-brand-jari-sweeps-top-honors-at-leading-global-spirits-competitions-302876093.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Intus Bio-Led Consortium Receives $2.7M NIH/NCI Fast-Track Award for Bacteria-Based Early-Onset Colorectal Cancer Test",
+      "publishedAt": "Fri, 11 Sep 2026 12:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/intus-bio-led-consortium-receives-2-7m-nihnci-fast-track-award-for-bacteria-based-early-onset-colorectal-cancer-test-302875924.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Toro Launches First Full-Size 24-Inch Two-Stage Snow Blower",
+      "publishedAt": "Fri, 11 Sep 2026 12:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/toro-launches-first-full-size-24-inch-two-stage-snow-blower-302875936.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "T. ROWE PRICE GROUP REPORTS MONTH-END ASSETS UNDER MANAGEMENT FOR AUGUST 2026",
+      "publishedAt": "Fri, 11 Sep 2026 12:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/t-rowe-price-group-reports-month-end-assets-under-management-for-august-2026-302875925.html",
+      "tickersMentioned": []
+    },
     {
       "source": "PR Newswire",
       "title": "Společnost Yutong otevřela své první komplexní servisní centrum v Evropě",
@@ -26,122 +145,108 @@
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Big Easy Whiskey Names Carlos Quinonez as National Brand Ambassador and Market Manager",
-      "publishedAt": "Fri, 11 Sep 2026 12:15:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/big-easy-whiskey-names-carlos-quinonez-as-national-brand-ambassador-and-market-manager-302875867.html",
+      "source": "GlobeNewswire",
+      "title": "Oliveda International, Inc. (OLVI) Announces Olive Tree People and Olive Rose Joining Forces with Internationally Acclaimed Fashion Designer Bibhu Mohapatra for New York Fashion Week",
+      "publishedAt": "Fri, 11 Sep 2026 12:51 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360325/0/en/oliveda-international-inc-olvi-announces-olive-tree-people-and-olive-rose-joining-forces-with-internationally-acclaimed-fashion-designer-bibhu-mohapatra-for-new-york-fashion-week.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Triple B Media Adds SLVR Sports &amp;amp; Entertainment Featuring Los Angeles Kings Games to Its Portfolio of FAST Channels",
-      "publishedAt": "Fri, 11 Sep 2026 12:14:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/triple-b-media-adds-slvr-sports--entertainment-featuring-los-angeles-kings-games-to-its-portfolio-of-fast-channels-302876394.html",
+      "source": "GlobeNewswire",
+      "title": "ProVen VCT plc: Issue of Equity",
+      "publishedAt": "Fri, 11 Sep 2026 12:49 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360323/0/en/proven-vct-plc-issue-of-equity.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "A Kuala Lumpur prende il via ZTE Global Summit &amp;amp; User Congress 2026, accelerando il passaggio dalla connettività alla creazione di valore digitale",
-      "publishedAt": "Fri, 11 Sep 2026 12:14:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/a-kuala-lumpur-prende-il-via-zte-global-summit--user-congress-2026-accelerando-il-passaggio-dalla-connettivita-alla-creazione-di-valore-digitale-302876393.html",
+      "source": "GlobeNewswire",
+      "title": "ProVen Growth and Income VCT plc: Issue of Equity",
+      "publishedAt": "Fri, 11 Sep 2026 12:47 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360321/0/en/proven-growth-and-income-vct-plc-issue-of-equity.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Penguin Ai Launches Intelligent RCM, Bringing Its AI Workforce to the Revenue Cycle",
-      "publishedAt": "Fri, 11 Sep 2026 12:11:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/penguin-ai-launches-intelligent-rcm-bringing-its-ai-workforce-to-the-revenue-cycle-302875922.html",
+      "source": "GlobeNewswire",
+      "title": "SalMar - Extension of Commercial Paper",
+      "publishedAt": "Fri, 11 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360320/0/en/salmar-extension-of-commercial-paper.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "BingX Card Now Available to All Eligible Users, Bringing Crypto Rewards to Everyday Spending",
-      "publishedAt": "Fri, 11 Sep 2026 12:07:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/bingx-card-now-available-to-all-eligible-users-bringing-crypto-rewards-to-everyday-spending-302876391.html",
+      "source": "GlobeNewswire",
+      "title": "SalMar - Utvidelse av sertifikatlån",
+      "publishedAt": "Fri, 11 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360320/0/no/salmar-utvidelse-av-sertifikatl%C3%A5n.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Scholarship America Marks 25th Anniversary of 9/11 by Honoring Its Support for the Families of Freedom Scholarship Fund",
-      "publishedAt": "Fri, 11 Sep 2026 12:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/scholarship-america-marks-25th-anniversary-of-911-by-honoring-its-support-for-the-families-of-freedom-scholarship-fund-302875885.html",
+      "source": "GlobeNewswire",
+      "title": "Intention to Fundraise",
+      "publishedAt": "Fri, 11 Sep 2026 12:40 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360317/0/en/intention-to-fundraise.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "McClintock Distilling Co. and Savage Soaps Join Forces to Make Eco-Friendly Soap",
-      "publishedAt": "Fri, 11 Sep 2026 12:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/mcclintock-distilling-co-and-savage-soaps-join-forces-to-make-eco-friendly-soap-302875906.html",
+      "source": "GlobeNewswire",
+      "title": "Reborn Coffee Appoints Edward Park and James Lim to Board of Directors",
+      "publishedAt": "Fri, 11 Sep 2026 12:31 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360315/0/en/reborn-coffee-appoints-edward-park-and-james-lim-to-board-of-directors.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "\"Mark Owen\" Is Done Hiding: The Navy SEAL Who Wrote the Bin Laden Raid Account Breaks 14 Years of Silence -- Under His Real Name",
-      "publishedAt": "Fri, 11 Sep 2026 12:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/mark-owen-is-done-hiding-the-navy-seal-who-wrote-the-bin-laden-raid-account-breaks-14-years-of-silence--under-his-real-name-302875918.html",
+      "source": "GlobeNewswire",
+      "title": "Antelope Enterprise Holdings Limited Announces Pricing of $6.0 Million Convertible Promissory Note",
+      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360306/0/en/antelope-enterprise-holdings-limited-announces-pricing-of-6-0-million-convertible-promissory-note.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "\"Mr. Wine of Texas\" Bob Landon Explains Barrel Aging and Oak Influence for HelloNation",
-      "publishedAt": "Fri, 11 Sep 2026 12:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/mr-wine-of-texas-bob-landon-explains-barrel-aging-and-oak-influence-for-hellonation-302798704.html",
+      "source": "GlobeNewswire",
+      "title": "Quantum BioPharma Ltd. (NASDAQ: QNTM) Filling Key Gap in MS Treatment, Cleared by FDA to Launch Historic Trials",
+      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360308/0/en/quantum-biopharma-ltd-nasdaq-qntm-filling-key-gap-in-ms-treatment-cleared-by-fda-to-launch-historic-trials.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Peer-Reviewed Study Confirms CADScor System Can Diagnose Heart Failure With Far Fewer False Positives Than Standard Blood Test",
-      "publishedAt": "Fri, 11 Sep 2026 12:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/peer-reviewed-study-confirms-cadscor-system-can-diagnose-heart-failure-with-far-fewer-false-positives-than-standard-blood-test-302875919.html",
+      "source": "GlobeNewswire",
+      "title": "Moleculin Presentation from H.C. Wainwright Conference Now Available On-Demand",
+      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360309/0/en/moleculin-presentation-from-h-c-wainwright-conference-now-available-on-demand.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Volunteer Advocates from 14 States Head to the Nation's Capital to Fight for Suicide Prevention",
-      "publishedAt": "Fri, 11 Sep 2026 12:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/volunteer-advocates-from-14-states-head-to-the-nations-capital-to-fight-for-suicide-prevention-302875790.html",
+      "source": "GlobeNewswire",
+      "title": "Red White &amp; Bloom Brands Expands Into Europe with Strategic Cannabis Transaction",
+      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360310/0/en/red-white-bloom-brands-expands-into-europe-with-strategic-cannabis-transaction.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Elanco Confirms Date and Conference Call for Third Quarter 2026 Financial Results Announcement",
-      "publishedAt": "Fri, 11 Sep 2026 11:58:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/elanco-confirms-date-and-conference-call-for-third-quarter-2026-financial-results-announcement-302876334.html",
+      "source": "GlobeNewswire",
+      "title": "Draganfly Selected by Government of Canada to Supply Low-Cost Tactical ISR UAS to the Canadian Armed Forces",
+      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360311/0/en/draganfly-selected-by-government-of-canada-to-supply-low-cost-tactical-isr-uas-to-the-canadian-armed-forces.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Engineering the Next Horizon: FAW TRUCKS - Lieferbereit in Hannover",
-      "publishedAt": "Fri, 11 Sep 2026 11:56:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/engineering-the-next-horizon-faw-trucks--lieferbereit-in-hannover-302876387.html",
+      "source": "GlobeNewswire",
+      "title": "Fuel Tech Announces Air Pollution Control Contracts Valued at Approximately $2.8 Million",
+      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360312/0/en/fuel-tech-announces-air-pollution-control-contracts-valued-at-approximately-2-8-million.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "25 Years After 9/11: Honoring a Generation, Carrying the Mission Forward",
-      "publishedAt": "Fri, 11 Sep 2026 11:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/25-years-after-911-honoring-a-generation-carrying-the-mission-forward-302874709.html",
+      "source": "GlobeNewswire",
+      "title": "Celestica Announces New Leadership Structure to Support Unprecedented Growth",
+      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360313/0/en/celestica-announces-new-leadership-structure-to-support-unprecedented-growth.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Diseñando el futuro: FAW TRUCKS listo para entregar en Hannover",
-      "publishedAt": "Fri, 11 Sep 2026 11:39:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/disenando-el-futuro-faw-trucks-listo-para-entregar-en-hannover-302876380.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Vision Marine Technologies Invited to Suntex Marinas National Conference Following Lake Berryessa Electric Boating Activation",
-      "publishedAt": "Fri, 11 Sep 2026 11:30:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/vision-marine-technologies-invited-to-suntex-marinas-national-conference-following-lake-berryessa-electric-boating-activation-302875879.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "OLIN and HUNTSMAN Announce Expiration of Hart-Scott-Rodino Waiting Period for Proposed Merger",
-      "publishedAt": "Fri, 11 Sep 2026 11:30:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/olin-and-huntsman-announce-expiration-of-hart-scott-rodino-waiting-period-for-proposed-merger-302876052.html",
+      "source": "GlobeNewswire",
+      "title": "Tessera Begins Trading Under HLSQ as Demand Grows for Connected Physical Security",
+      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360314/0/en/tessera-begins-trading-under-hlsq-as-demand-grows-for-connected-physical-security.html",
       "tickersMentioned": []
     },
     {
@@ -177,111 +282,6 @@
       "title": "Apollo to Present at the Bank of America 31st Annual Financials CEO Conference",
       "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
       "url": "https://www.globenewswire.com/news-release/2026/09/11/3360281/0/en/apollo-to-present-at-the-bank-of-america-31st-annual-financials-ceo-conference.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Columbus Acquisition Corp Announces Adjournment of Extraordinary General Meeting of the Shareholders",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360284/0/en/columbus-acquisition-corp-announces-adjournment-of-extraordinary-general-meeting-of-the-shareholders.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "GT Biopharma to Host Live Company Presentation on the Development of TriKE® Platform for Cancer Treatment, September 11, 2026",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360285/0/en/gt-biopharma-to-host-live-company-presentation-on-the-development-of-trike-platform-for-cancer-treatment-september-11-2026.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Tempest Therapeutics Announces Up to $7.5 Million Private Placement",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360287/0/en/tempest-therapeutics-announces-up-to-7-5-million-private-placement.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "CLIK CEO Buys Shares, Reaffirming Commitment to Long-Term Growth",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360288/0/en/clik-ceo-buys-shares-reaffirming-commitment-to-long-term-growth.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Black Rock Coffee Bar Continues Expansion in Colorado with New Highlands Ranch Location",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360289/0/en/black-rock-coffee-bar-continues-expansion-in-colorado-with-new-highlands-ranch-location.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Black Rock Coffee Bar Continues Expansion in the Valley with New Chandler Location",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360291/0/en/black-rock-coffee-bar-continues-expansion-in-the-valley-with-new-chandler-location.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "BGIN BLOCKCHAIN LIMITED to Participate in the H.C. Wainwright 28th Annual Global Investment Conference",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360293/0/en/bgin-blockchain-limited-to-participate-in-the-h-c-wainwright-28th-annual-global-investment-conference.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "GoldHaven Confirms Favourable Critical Minerals Geological Settings Across 123,900-Hectare Brazil Portfolio",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360294/0/en/goldhaven-confirms-favourable-critical-minerals-geological-settings-across-123-900-hectare-brazil-portfolio.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Clearmind Enrolls First Patients with Alcohol Use Disorder in CMND-100 Clinical Trial",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360295/0/en/clearmind-enrolls-first-patients-with-alcohol-use-disorder-in-cmnd-100-clinical-trial.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Immutep Outlines Focused Development Strategy for Eftilagimod Alfa (“efti”)",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360296/0/en/immutep-outlines-focused-development-strategy-for-eftilagimod-alfa-efti.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Exodus Movement, Inc. August 2026 -- Monthly Metrics",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360297/0/en/exodus-movement-inc-august-2026-monthly-metrics.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Rent the Runway, Inc. Announces Second Quarter 2026 Results",
-      "publishedAt": "Fri, 11 Sep 2026 11:55 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360272/0/en/rent-the-runway-inc-announces-second-quarter-2026-results.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Opjustering af forventninger til årets resultat 2026",
-      "publishedAt": "Fri, 11 Sep 2026 11:50 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360271/0/da/opjustering-af-forventninger-til-%C3%A5rets-resultat-2026.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "3 E Network Unveils Mikkeli AI Data Center Blueprint Designed for NVIDIA Vera Rubin Architecture",
-      "publishedAt": "Fri, 11 Sep 2026 11:50 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360269/0/en/3-e-network-unveils-mikkeli-ai-data-center-blueprint-designed-for-nvidia-vera-rubin-architecture.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "KALDVÍK AS (KLDVK): GRANTED LICENCES FOR 10,000 TONNES MAB IN SEYÐISFJÖRÐUR",
-      "publishedAt": "Fri, 11 Sep 2026 11:45 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360264/0/en/kaldv%C3%ADk-as-kldvk-granted-licences-for-10-000-tonnes-mab-in-sey%C3%B0isfj%C3%B6r%C3%B0ur.html",
       "tickersMentioned": []
     }
   ]
