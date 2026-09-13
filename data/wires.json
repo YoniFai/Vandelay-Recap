@@ -1,287 +1,198 @@
 {
-  "generatedAt": "2026-09-11T12:53:55.554Z",
+  "generatedAt": "2026-09-13T21:59:14.261Z",
   "hoursBack": 48,
   "tickersRequested": 94,
-  "count": 40,
+  "count": 27,
   "rows": [
     {
       "source": "PR Newswire",
-      "title": "Korea University Study Uncovers How mRNA Vaccination May Broaden Flu Antibody Responses",
-      "publishedAt": "Fri, 11 Sep 2026 12:48:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/korea-university-study-uncovers-how-mrna-vaccination-may-broaden-flu-antibody-responses-302875986.html",
+      "title": "BODYBAR PILATES SETS RECORD FOR U.S.'S LARGEST REFORMER PILATES CLASS",
+      "publishedAt": "Sun, 13 Sep 2026 21:50:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/bodybar-pilates-sets-record-for-uss-largest-reformer-pilates-class-302877059.html",
+      "tickersMentioned": [
+        "U"
+      ]
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Capricor Deadline: CAPR Investors Have Opportunity to Lead Capricor Therapeutics, Inc. Securities Fraud Lawsuit",
+      "publishedAt": "Sun, 13 Sep 2026 19:53:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/capricor-deadline-capr-investors-have-opportunity-to-lead-capricor-therapeutics-inc-securities-fraud-lawsuit-302876731.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "$17 trillion invested in sustainable technologies over past decade, but investments, technology and progress are diverging",
-      "publishedAt": "Fri, 11 Sep 2026 12:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/17-trillion-invested-in-sustainable-technologies-over-past-decade-but-investments-technology-and-progress-are-diverging-302871613.html",
+      "title": "PANDAG G1 to Make First Official Appearance at GaLaBau 2026",
+      "publishedAt": "Sun, 13 Sep 2026 18:34:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/pandag-g1-to-make-first-official-appearance-at-galabau-2026-302877024.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "At $100 Oil, the Deal Flow Moved to Pipelines and Producing Wells",
-      "publishedAt": "Fri, 11 Sep 2026 12:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/at-100-oil-the-deal-flow-moved-to-pipelines-and-producing-wells-302876225.html",
+      "title": "Everlight Wins 2026 Madison People's Choice Award",
+      "publishedAt": "Sun, 13 Sep 2026 18:20:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/everlight-wins-2026-madison-peoples-choice-award-302875444.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "AARD Investors Have Opportunity to Lead Aardvark Therapeutics, Inc. Securities Fraud Lawsuit",
-      "publishedAt": "Fri, 11 Sep 2026 12:41:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/aard-investors-have-opportunity-to-lead-aardvark-therapeutics-inc-securities-fraud-lawsuit-302875963.html",
+      "title": "BBNX Investors Have Opportunity to Lead Beta Bionics, Inc. Securities Fraud Lawsuit",
+      "publishedAt": "Sun, 13 Sep 2026 17:55:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/bbnx-investors-have-opportunity-to-lead-beta-bionics-inc-securities-fraud-lawsuit-302876582.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "IREX Unveils the First Vision-Language Model Analytics for Public Safety",
-      "publishedAt": "Fri, 11 Sep 2026 12:39:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/irex-unveils-the-first-vision-language-model-analytics-for-public-safety-302875967.html",
+      "title": "MVST Deadline: MVST Investors with Losses in Excess of $100K Have Opportunity to Lead Microvast Holdings, Inc. Securities Fraud Lawsuit",
+      "publishedAt": "Sun, 13 Sep 2026 16:50:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/mvst-deadline-mvst-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-microvast-holdings-inc-securities-fraud-lawsuit-302876645.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "QuickFi® Wins 2026 Finovate Award for Best SMB/SME Banking Solution",
-      "publishedAt": "Fri, 11 Sep 2026 12:39:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/quickfi-wins-2026-finovate-award-for-best-smbsme-banking-solution-302875964.html",
+      "title": "BZAI Investors Have Opportunity to Lead Blaize Holdings, Inc. Securities Fraud Lawsuit Filed by The Rosen Law Firm",
+      "publishedAt": "Sun, 13 Sep 2026 16:42:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/bzai-investors-have-opportunity-to-lead-blaize-holdings-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302876564.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Silicon Line®, une marque d'EverProX®, lance le nouveau chipset SerDes à très faible consommation MSDL™ (MIPI Serial Data Link), qui étend la connectivité MIPI D-PHY à 20 Gbit/s sur des distances de plusieurs dizaines de mètres",
-      "publishedAt": "Fri, 11 Sep 2026 12:38:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/silicon-line-une-marque-deverprox-lance-le-nouveau-chipset-serdes-a-tres-faible-consommation-msdl-mipi-serial-data-link-qui-etend-la-connectivite-mipi-d-phy-a-20-gbits-sur-des-distances-de-plusieurs-dizaines-de-metres-302876409.html",
+      "title": "HYLN Investors Have Opportunity to Lead Hyliion Holdings Corp. Securities Fraud Lawsuit",
+      "publishedAt": "Sun, 13 Sep 2026 14:58:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/hyln-investors-have-opportunity-to-lead-hyliion-holdings-corp-securities-fraud-lawsuit-302876523.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Melissa Rivers Returns to the Emmys Red Carpet for the First Time in Nearly 20 Years, Joining CNN and Variety's Live Coverage",
-      "publishedAt": "Fri, 11 Sep 2026 12:37:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/melissa-rivers-returns-to-the-emmys-red-carpet-for-the-first-time-in-nearly-20-years-joining-cnn-and-varietys-live-coverage-302875970.html",
+      "title": "1 MONTH INVESTOR DEADLINE: UWM Holdings Corporation Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit Before October 13, 2026 Deadline, Robbins Geller Rudman &amp;amp; Dowd LLP Announces - UWMC",
+      "publishedAt": "Sun, 13 Sep 2026 14:10:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/1-month-investor-deadline-uwm-holdings-corporation-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-before-october-13-2026-deadline-robbins-geller-rudman--dowd-llp-announces---uwmc-302876753.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "WebHaste Helps Teams Build and Manage Smaller Websites Without Server Headaches",
-      "publishedAt": "Fri, 11 Sep 2026 12:37:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/webhaste-helps-teams-build-and-manage-smaller-websites-without-server-headaches-302875957.html",
+      "title": "Insurance Agent Nick Hogan Explains What First-Time Homeowners Often Miss About Homeowners Insurance in HelloNation",
+      "publishedAt": "Sun, 13 Sep 2026 14:05:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/insurance-agent-nick-hogan-explains-what-first-time-homeowners-often-miss-about-homeowners-insurance-in-hellonation-302876446.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "PolarX Announces Hyper Copper Grades Over Big Widths from Surface Point to Significant Resource Growth at Caribou Dome Project",
-      "publishedAt": "Fri, 11 Sep 2026 12:35:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/polarx-announces-hyper-copper-grades-over-big-widths-from-surface-point-to-significant-resource-growth-at-caribou-dome-project-302875930.html",
+      "title": "REGN INVESTOR DEADLINE TOMORROW: Regeneron Pharmaceuticals, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit, Robbins Geller Rudman &amp;amp; Dowd LLP Announces",
+      "publishedAt": "Sun, 13 Sep 2026 13:20:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/regn-investor-deadline-tomorrow-regeneron-pharmaceuticals-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-robbins-geller-rudman--dowd-llp-announces-302870986.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Brain-Body Therapy Partners With Mother Model Management to Bring Mental Wellness Support to Models",
-      "publishedAt": "Fri, 11 Sep 2026 12:33:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/brain-body-therapy-partners-with-mother-model-management-to-bring-mental-wellness-support-to-models-302875974.html",
+      "title": "GORGIE INTRODUCES BERRY BURST, BRINGING BOLD BERRY FLAVOR AND IT-GIRL STYLE TO MODERN ENERGY",
+      "publishedAt": "Sun, 13 Sep 2026 13:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/gorgie-introduces-berry-burst-bringing-bold-berry-flavor-and-it-girl-style-to-modern-energy-302876167.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "DCM Services Adds AKUVO as Strategic Partner to Expand Proactive Estate Recovery for Credit Unions",
-      "publishedAt": "Fri, 11 Sep 2026 12:32:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/dcm-services-adds-akuvo-as-strategic-partner-to-expand-proactive-estate-recovery-for-credit-unions-302875954.html",
+      "title": "Phase III TAISHAN-302 Trial Shows Tam-Peli Significantly Improves Survival in Relapsed Small-Cell Lung Cancer",
+      "publishedAt": "Sun, 13 Sep 2026 12:57:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/phase-iii-taishan-302-trial-shows-tam-peli-significantly-improves-survival-in-relapsed-small-cell-lung-cancer-302876947.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Global Expansion: Supply Maverick Streamlines Shipping to Canada, Australia, and New Zealand",
-      "publishedAt": "Fri, 11 Sep 2026 12:31:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/global-expansion-supply-maverick-streamlines-shipping-to-canada-australia-and-new-zealand-302875955.html",
+      "title": "Phase III MAVERICK Trial Supports Brain MRI Surveillance Alone as Standard of Care for Small-Cell Lung Cancer",
+      "publishedAt": "Sun, 13 Sep 2026 12:54:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/phase-iii-maverick-trial-supports-brain-mri-surveillance-alone-as-standard-of-care-for-small-cell-lung-cancer-302876943.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "CJ Foods' Korean Spirits Brand jari Sweeps Top Honors at Leading Global Spirits Competitions",
-      "publishedAt": "Fri, 11 Sep 2026 12:30:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/cj-foods-korean-spirits-brand-jari-sweeps-top-honors-at-leading-global-spirits-competitions-302876093.html",
+      "title": "Rackspace Technology Deadline: RXT Investors Have Opportunity to Lead Rackspace Technology, Inc. Securities Fraud Lawsuit",
+      "publishedAt": "Sun, 13 Sep 2026 11:58:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/rackspace-technology-deadline-rxt-investors-have-opportunity-to-lead-rackspace-technology-inc-securities-fraud-lawsuit-302876727.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Intus Bio-Led Consortium Receives $2.7M NIH/NCI Fast-Track Award for Bacteria-Based Early-Onset Colorectal Cancer Test",
-      "publishedAt": "Fri, 11 Sep 2026 12:30:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/intus-bio-led-consortium-receives-2-7m-nihnci-fast-track-award-for-bacteria-based-early-onset-colorectal-cancer-test-302875924.html",
+      "title": "GAC AION UT gewinnt den Preis für das beste Außendesign beim Torino Automotive Design Award 2026",
+      "publishedAt": "Sun, 13 Sep 2026 11:54:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/gac-aion-ut-gewinnt-den-preis-fur-das-beste-auWendesign-beim-torino-automotive-design-award-2026-302876985.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Toro Launches First Full-Size 24-Inch Two-Stage Snow Blower",
-      "publishedAt": "Fri, 11 Sep 2026 12:30:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/toro-launches-first-full-size-24-inch-two-stage-snow-blower-302875936.html",
+      "title": "L'AION UT de GAC remporte le prix du meilleur design extérieur lors du Torino Automotive Design Award 2026",
+      "publishedAt": "Sun, 13 Sep 2026 11:51:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/laion-ut-de-gac-remporte-le-prix-du-meilleur-design-exterieur-lors-du-torino-automotive-design-award-2026-302876984.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "T. ROWE PRICE GROUP REPORTS MONTH-END ASSETS UNDER MANAGEMENT FOR AUGUST 2026",
-      "publishedAt": "Fri, 11 Sep 2026 12:30:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/t-rowe-price-group-reports-month-end-assets-under-management-for-august-2026-302875925.html",
+      "title": "Sacituzumab Govitecan Plus Pembrolizumab Does Not Meet Primary Endpoints in First-Line PD-L1-High Metastatic NSCLC",
+      "publishedAt": "Sun, 13 Sep 2026 11:50:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/sacituzumab-govitecan-plus-pembrolizumab-does-not-meet-primary-endpoints-in-first-line-pd-l1-high-metastatic-nsclc-302876942.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Společnost Yutong otevřela své první komplexní servisní centrum v Evropě",
-      "publishedAt": "Fri, 11 Sep 2026 12:25:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/spolenost-yutong-otevela-sve-prvni-komplexni-servisni-centrum-v-evrop-302876401.html",
+      "title": "Phase III ARTEMIS-008 Trial Shows Risvutatug Rezetecan Significantly Improves Overall Survival in Relapsed Small-Cell Lung Cancer",
+      "publishedAt": "Sun, 13 Sep 2026 11:46:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/phase-iii-artemis-008-trial-shows-risvutatug-rezetecan-significantly-improves-overall-survival-in-relapsed-small-cell-lung-cancer-302876941.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Almedia Ranks First for Revenue Per Employee Among the 100 Fastest-Growing Startups in DACH and CEE",
-      "publishedAt": "Fri, 11 Sep 2026 12:25:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/almedia-ranks-first-for-revenue-per-employee-among-the-100-fastest-growing-startups-in-dach-and-cee-302876400.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Cult Japanese Haircare Brand Diane Perfect Beauty Launches at Target Nationwide",
-      "publishedAt": "Fri, 11 Sep 2026 12:22:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/cult-japanese-haircare-brand-diane-perfect-beauty-launches-at-target-nationwide-302876399.html",
+      "title": "DKS Investors Have Opportunity to Lead DICK'S Sporting Goods, Inc. Securities Fraud Lawsuit",
+      "publishedAt": "Sun, 13 Sep 2026 11:39:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/dks-investors-have-opportunity-to-lead-dicks-sporting-goods-inc-securities-fraud-lawsuit-302876678.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Oliveda International, Inc. (OLVI) Announces Olive Tree People and Olive Rose Joining Forces with Internationally Acclaimed Fashion Designer Bibhu Mohapatra for New York Fashion Week",
-      "publishedAt": "Fri, 11 Sep 2026 12:51 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360325/0/en/oliveda-international-inc-olvi-announces-olive-tree-people-and-olive-rose-joining-forces-with-internationally-acclaimed-fashion-designer-bibhu-mohapatra-for-new-york-fashion-week.html",
+      "title": "NEW MID-TERM FINANCIAL TARGETS – ISS TO ACCELERATE HIGHER-QUALITY GROWTH AND EXPAND MARGINS",
+      "publishedAt": "Sun, 13 Sep 2026 14:40 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/13/3360642/0/en/new-mid-term-financial-targets-iss-to-accelerate-higher-quality-growth-and-expand-margins.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "ProVen VCT plc: Issue of Equity",
-      "publishedAt": "Fri, 11 Sep 2026 12:49 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360323/0/en/proven-vct-plc-issue-of-equity.html",
+      "title": "Roche’s collaborator MediLink announces phase III data for Tam-Peli showing significantly improved overall survival in Chinese patient population with relapsed small-cell lung cancer",
+      "publishedAt": "Sun, 13 Sep 2026 00:00 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/13/3360614/0/en/roche-s-collaborator-medilink-announces-phase-iii-data-for-tam-peli-showing-significantly-improved-overall-survival-in-chinese-patient-population-with-relapsed-small-cell-lung-canc.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "ProVen Growth and Income VCT plc: Issue of Equity",
-      "publishedAt": "Fri, 11 Sep 2026 12:47 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360321/0/en/proven-growth-and-income-vct-plc-issue-of-equity.html",
+      "title": "Capgemini signe un accord définitif de vente de Capgemini Government Solutions",
+      "publishedAt": "Sat, 12 Sep 2026 14:00 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/12/3360587/0/fr/capgemini-signe-un-accord-d%C3%A9finitif-de-vente-de-capgemini-government-solutions.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "SalMar - Extension of Commercial Paper",
-      "publishedAt": "Fri, 11 Sep 2026 12:45 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360320/0/en/salmar-extension-of-commercial-paper.html",
+      "title": "Capgemini signs a definitive agreement to sell Capgemini Government Solutions",
+      "publishedAt": "Sat, 12 Sep 2026 14:00 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/12/3360587/0/en/capgemini-signs-a-definitive-agreement-to-sell-capgemini-government-solutions.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "SalMar - Utvidelse av sertifikatlån",
-      "publishedAt": "Fri, 11 Sep 2026 12:45 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360320/0/no/salmar-utvidelse-av-sertifikatl%C3%A5n.html",
+      "title": "Computer Modelling Group Announces Annual General Meeting Voting Results",
+      "publishedAt": "Sat, 12 Sep 2026 00:51 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/12/3360566/0/en/computer-modelling-group-announces-annual-general-meeting-voting-results.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Intention to Fundraise",
-      "publishedAt": "Fri, 11 Sep 2026 12:40 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360317/0/en/intention-to-fundraise.html",
+      "title": "Skyworks Announces Extension of Expiration Date of Exchange Offers for Qorvo’s Senior Notes due 2029 and 2031",
+      "publishedAt": "Sat, 12 Sep 2026 00:00 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/12/3360562/0/en/skyworks-announces-extension-of-expiration-date-of-exchange-offers-for-qorvo-s-senior-notes-due-2029-and-2031.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Reborn Coffee Appoints Edward Park and James Lim to Board of Directors",
-      "publishedAt": "Fri, 11 Sep 2026 12:31 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360315/0/en/reborn-coffee-appoints-edward-park-and-james-lim-to-board-of-directors.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Antelope Enterprise Holdings Limited Announces Pricing of $6.0 Million Convertible Promissory Note",
-      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360306/0/en/antelope-enterprise-holdings-limited-announces-pricing-of-6-0-million-convertible-promissory-note.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Quantum BioPharma Ltd. (NASDAQ: QNTM) Filling Key Gap in MS Treatment, Cleared by FDA to Launch Historic Trials",
-      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360308/0/en/quantum-biopharma-ltd-nasdaq-qntm-filling-key-gap-in-ms-treatment-cleared-by-fda-to-launch-historic-trials.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Moleculin Presentation from H.C. Wainwright Conference Now Available On-Demand",
-      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360309/0/en/moleculin-presentation-from-h-c-wainwright-conference-now-available-on-demand.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Red White &amp; Bloom Brands Expands Into Europe with Strategic Cannabis Transaction",
-      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360310/0/en/red-white-bloom-brands-expands-into-europe-with-strategic-cannabis-transaction.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Draganfly Selected by Government of Canada to Supply Low-Cost Tactical ISR UAS to the Canadian Armed Forces",
-      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360311/0/en/draganfly-selected-by-government-of-canada-to-supply-low-cost-tactical-isr-uas-to-the-canadian-armed-forces.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Fuel Tech Announces Air Pollution Control Contracts Valued at Approximately $2.8 Million",
-      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360312/0/en/fuel-tech-announces-air-pollution-control-contracts-valued-at-approximately-2-8-million.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Celestica Announces New Leadership Structure to Support Unprecedented Growth",
-      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360313/0/en/celestica-announces-new-leadership-structure-to-support-unprecedented-growth.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Tessera Begins Trading Under HLSQ as Demand Grows for Connected Physical Security",
-      "publishedAt": "Fri, 11 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360314/0/en/tessera-begins-trading-under-hlsq-as-demand-grows-for-connected-physical-security.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Bond and Watson Realty Corp. Team Up to Transform Personal Security for the Real Estate Industry in the US and Globally",
-      "publishedAt": "Fri, 11 Sep 2026 12:27 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360303/0/en/bond-and-watson-realty-corp-team-up-to-transform-personal-security-for-the-real-estate-industry-in-the-us-and-globally.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Michelin | Disclosure of the total number of voting rights and of the number of shares making up the company’s capital",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360274/0/en/michelin-disclosure-of-the-total-number-of-voting-rights-and-of-the-number-of-shares-making-up-the-company-s-capital.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Michelin | Déclaration du nombre total des droits de vote et du nombre d’actions composant le capital social",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360274/0/fr/michelin-d%C3%A9claration-du-nombre-total-des-droits-de-vote-et-du-nombre-d-actions-composant-le-capital-social.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Allarity Therapeutics Announces Strategic Capital Allocation for Filing of SPAC Registration Statement",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360276/0/en/allarity-therapeutics-announces-strategic-capital-allocation-for-filing-of-spac-registration-statement.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Apollo to Present at the Bank of America 31st Annual Financials CEO Conference",
-      "publishedAt": "Fri, 11 Sep 2026 12:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360281/0/en/apollo-to-present-at-the-bank-of-america-31st-annual-financials-ceo-conference.html",
+      "title": "Axe Compute Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
+      "publishedAt": "Fri, 11 Sep 2026 23:43 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360561/37244/en/axe-compute-announces-inducement-grant-under-nasdaq-listing-rule-5635-c-4.html",
       "tickersMentioned": []
     }
   ]
