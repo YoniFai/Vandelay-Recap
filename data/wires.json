@@ -1,198 +1,293 @@
 {
-  "generatedAt": "2026-09-13T21:59:14.261Z",
+  "generatedAt": "2026-09-14T12:55:50.471Z",
   "hoursBack": 48,
   "tickersRequested": 94,
-  "count": 27,
+  "count": 40,
   "rows": [
     {
       "source": "PR Newswire",
-      "title": "BODYBAR PILATES SETS RECORD FOR U.S.'S LARGEST REFORMER PILATES CLASS",
-      "publishedAt": "Sun, 13 Sep 2026 21:50:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/bodybar-pilates-sets-record-for-uss-largest-reformer-pilates-class-302877059.html",
+      "title": "Lumi by Lectrium Brings AI Agents to Car Dealership Websites",
+      "publishedAt": "Mon, 14 Sep 2026 12:53:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/lumi-by-lectrium-brings-ai-agents-to-car-dealership-websites-302877164.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Machine Investment Group Acquires 490-Unit Multifamily Community in North Dallas",
+      "publishedAt": "Mon, 14 Sep 2026 12:53:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/machine-investment-group-acquires-490-unit-multifamily-community-in-north-dallas-302877150.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Citrin Cooperman Welcomes Sean Trahan to National Tax Advisory",
+      "publishedAt": "Mon, 14 Sep 2026 12:53:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/citrin-cooperman-welcomes-sean-trahan-to-national-tax-advisory-302877661.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "FairJourney Bio Consolidates Antibody Discovery Data with the Sapio Sciences Scientific AI Platform",
+      "publishedAt": "Mon, 14 Sep 2026 12:53:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/fairjourney-bio-consolidates-antibody-discovery-data-with-the-sapio-sciences-scientific-ai-platform-302877575.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "MAESA ANNOUNCES THE LAUNCH OF ANECDOTES BY ARTISTS DEBUTING EXCLUSIVELY AT SEPHORA",
+      "publishedAt": "Mon, 14 Sep 2026 12:53:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/maesa-announces-the-launch-of-anecdotes-by-artists-debuting-exclusively-at-sephora-302877446.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Glo Welcomes Award-Winning Women's Health Expert Dr. Desi Bartlett to Launch New Perimenopause and Midlife Programming",
+      "publishedAt": "Mon, 14 Sep 2026 12:51:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/glo-welcomes-award-winning-womens-health-expert-dr-desi-bartlett-to-launch-new-perimenopause-and-midlife-programming-302877659.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Wisner Baum Calls for Stronger Barriers Between the EPA and the Chemical Industry",
+      "publishedAt": "Mon, 14 Sep 2026 12:49:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/wisner-baum-calls-for-stronger-barriers-between-the-epa-and-the-chemical-industry-302877656.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "METLEN et PETRONAS concluent un accord d'approvisionnement en GNL visant à renforcer la sécurité énergétique et la diversification énergétique en Europe du Sud-Est",
+      "publishedAt": "Mon, 14 Sep 2026 12:48:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/metlen-et-petronas-concluent-un-accord-dapprovisionnement-en-gnl-visant-a-renforcer-la-securite-energetique-et-la-diversification-energetique-en-europe-du-sud-est-302877654.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Davos Healthcare™ Launches Global AI-Powered Hospital Evaluations at C3 New York Summit",
+      "publishedAt": "Mon, 14 Sep 2026 12:47:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/davos-healthcare-launches-global-ai-powered-hospital-evaluations-at-c3-new-york-summit-302877489.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "SUNGBOON EDITOR And Milk Touch Bring Next-Generation K-Beauty To Target Beauty Studio",
+      "publishedAt": "Mon, 14 Sep 2026 12:46:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/sungboon-editor-and-milk-touch-bring-next-generation-k-beauty-to-target-beauty-studio-302877479.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "HTX Advances Pakistan Market Entry Through Regulatory Engagement and Community Outreach",
+      "publishedAt": "Mon, 14 Sep 2026 12:45:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/htx-advances-pakistan-market-entry-through-regulatory-engagement-and-community-outreach-302877650.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Funfetti® Brings More Joy to Every Bite with New Dots of Fun Vanilla Frosting",
+      "publishedAt": "Mon, 14 Sep 2026 12:45:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/funfetti-brings-more-joy-to-every-bite-with-new-dots-of-fun-vanilla-frosting-302877158.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Speediance nomme la légende du cyclisme Sir Mark Cavendish KBE ambassadeur de la marque et lance l'initiative « Build for Belief »",
+      "publishedAt": "Mon, 14 Sep 2026 12:45:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/speediance-nomme-la-legende-du-cyclisme-sir-mark-cavendish-kbe-ambassadeur-de-la-marque-et-lance-linitiative--build-for-belief--302877652.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Speediance ernennt die Radsportlegende Sir Mark Cavendish KBE zum Markenbotschafter und startet die Kampagne „Build for Belief\"",
+      "publishedAt": "Mon, 14 Sep 2026 12:45:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/speediance-ernennt-die-radsportlegende-sir-mark-cavendish-kbe-zum-markenbotschafter-und-startet-die-kampagne-build-for-belief-302877651.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Korea University Study Reveals How a Blood Biomarker Tracks Response to Lecanemab in Early Alzheimer's Disease",
+      "publishedAt": "Mon, 14 Sep 2026 12:44:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/korea-university-study-reveals-how-a-blood-biomarker-tracks-response-to-lecanemab-in-early-alzheimers-disease-302877420.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Express Celebrates the Workers Behind America's Staffing Industry During National Staffing Employee Week",
+      "publishedAt": "Mon, 14 Sep 2026 12:43:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/express-celebrates-the-workers-behind-americas-staffing-industry-during-national-staffing-employee-week-302876636.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "The Flourishing Code! Reaches No. 1 in Six Countries as Anxiety, Fear and Conflict Reshape Everyday Life",
+      "publishedAt": "Mon, 14 Sep 2026 12:43:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/the-flourishing-code-reaches-no-1-in-six-countries-as-anxiety-fear-and-conflict-reshape-everyday-life-302877648.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "RTVI Marks 25 Years Since the September 11 Attacks with Expert Analysis and Firsthand Accounts",
+      "publishedAt": "Mon, 14 Sep 2026 12:43:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/rtvi-marks-25-years-since-the-september-11-attacks-with-expert-analysis-and-firsthand-accounts-302877649.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "United Regional Health Care System Signs Contract with TripleKey for Real-Time Risk Management Solution to Combat New Cybersecurity Threats in Healthcare",
+      "publishedAt": "Mon, 14 Sep 2026 12:42:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/united-regional-health-care-system-signs-contract-with-triplekey-for-real-time-risk-management-solution-to-combat-new-cybersecurity-threats-in-healthcare-302876465.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Oxyfresh Expands Its Leadership in Pet Dental Care with Innovative Triple-Biotic Dental Powder",
+      "publishedAt": "Mon, 14 Sep 2026 12:42:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/oxyfresh-expands-its-leadership-in-pet-dental-care-with-innovative-triple-biotic-dental-powder-302877406.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Daré Bioscience Announces Peer-Reviewed Publication of Phase 1 Sildenafil Cream Study in Men Demonstrating Substantially Lower Systemic Exposure Versus Oral Sildenafil",
+      "publishedAt": "Mon, 14 Sep 2026 12:50 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361123/30757/en/dar%C3%A9-bioscience-announces-peer-reviewed-publication-of-phase-1-sildenafil-cream-study-in-men-demonstrating-substantially-lower-systemic-exposure-versus-oral-sildenafil.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Transaction in Own Shares",
+      "publishedAt": "Mon, 14 Sep 2026 12:48 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361122/0/en/transaction-in-own-shares.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Sigenergy Launches SigenStor Neo in South Africa at Herholdt’s Group Summit 2026",
+      "publishedAt": "Mon, 14 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361121/0/en/sigenergy-launches-sigenstor-neo-in-south-africa-at-herholdt-s-group-summit-2026.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Liberty Star Minerals Engages Former Governor and U.S. Secretary of Energy Rick Perry as Critical Minerals Advisor to the Board of Directors",
+      "publishedAt": "Mon, 14 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361117/0/en/liberty-star-minerals-engages-former-governor-and-u-s-secretary-of-energy-rick-perry-as-critical-minerals-advisor-to-the-board-of-directors.html",
       "tickersMentioned": [
         "U"
       ]
     },
     {
-      "source": "PR Newswire",
-      "title": "Capricor Deadline: CAPR Investors Have Opportunity to Lead Capricor Therapeutics, Inc. Securities Fraud Lawsuit",
-      "publishedAt": "Sun, 13 Sep 2026 19:53:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/capricor-deadline-capr-investors-have-opportunity-to-lead-capricor-therapeutics-inc-securities-fraud-lawsuit-302876731.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "PANDAG G1 to Make First Official Appearance at GaLaBau 2026",
-      "publishedAt": "Sun, 13 Sep 2026 18:34:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/pandag-g1-to-make-first-official-appearance-at-galabau-2026-302877024.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Everlight Wins 2026 Madison People's Choice Award",
-      "publishedAt": "Sun, 13 Sep 2026 18:20:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/everlight-wins-2026-madison-peoples-choice-award-302875444.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "BBNX Investors Have Opportunity to Lead Beta Bionics, Inc. Securities Fraud Lawsuit",
-      "publishedAt": "Sun, 13 Sep 2026 17:55:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/bbnx-investors-have-opportunity-to-lead-beta-bionics-inc-securities-fraud-lawsuit-302876582.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "MVST Deadline: MVST Investors with Losses in Excess of $100K Have Opportunity to Lead Microvast Holdings, Inc. Securities Fraud Lawsuit",
-      "publishedAt": "Sun, 13 Sep 2026 16:50:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/mvst-deadline-mvst-investors-with-losses-in-excess-of-100k-have-opportunity-to-lead-microvast-holdings-inc-securities-fraud-lawsuit-302876645.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "BZAI Investors Have Opportunity to Lead Blaize Holdings, Inc. Securities Fraud Lawsuit Filed by The Rosen Law Firm",
-      "publishedAt": "Sun, 13 Sep 2026 16:42:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/bzai-investors-have-opportunity-to-lead-blaize-holdings-inc-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302876564.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "HYLN Investors Have Opportunity to Lead Hyliion Holdings Corp. Securities Fraud Lawsuit",
-      "publishedAt": "Sun, 13 Sep 2026 14:58:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/hyln-investors-have-opportunity-to-lead-hyliion-holdings-corp-securities-fraud-lawsuit-302876523.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "1 MONTH INVESTOR DEADLINE: UWM Holdings Corporation Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit Before October 13, 2026 Deadline, Robbins Geller Rudman &amp;amp; Dowd LLP Announces - UWMC",
-      "publishedAt": "Sun, 13 Sep 2026 14:10:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/1-month-investor-deadline-uwm-holdings-corporation-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-before-october-13-2026-deadline-robbins-geller-rudman--dowd-llp-announces---uwmc-302876753.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Insurance Agent Nick Hogan Explains What First-Time Homeowners Often Miss About Homeowners Insurance in HelloNation",
-      "publishedAt": "Sun, 13 Sep 2026 14:05:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/insurance-agent-nick-hogan-explains-what-first-time-homeowners-often-miss-about-homeowners-insurance-in-hellonation-302876446.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "REGN INVESTOR DEADLINE TOMORROW: Regeneron Pharmaceuticals, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit, Robbins Geller Rudman &amp;amp; Dowd LLP Announces",
-      "publishedAt": "Sun, 13 Sep 2026 13:20:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/regn-investor-deadline-tomorrow-regeneron-pharmaceuticals-inc-investors-with-substantial-losses-have-opportunity-to-lead-class-action-lawsuit-robbins-geller-rudman--dowd-llp-announces-302870986.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "GORGIE INTRODUCES BERRY BURST, BRINGING BOLD BERRY FLAVOR AND IT-GIRL STYLE TO MODERN ENERGY",
-      "publishedAt": "Sun, 13 Sep 2026 13:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/gorgie-introduces-berry-burst-bringing-bold-berry-flavor-and-it-girl-style-to-modern-energy-302876167.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Phase III TAISHAN-302 Trial Shows Tam-Peli Significantly Improves Survival in Relapsed Small-Cell Lung Cancer",
-      "publishedAt": "Sun, 13 Sep 2026 12:57:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/phase-iii-taishan-302-trial-shows-tam-peli-significantly-improves-survival-in-relapsed-small-cell-lung-cancer-302876947.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Phase III MAVERICK Trial Supports Brain MRI Surveillance Alone as Standard of Care for Small-Cell Lung Cancer",
-      "publishedAt": "Sun, 13 Sep 2026 12:54:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/phase-iii-maverick-trial-supports-brain-mri-surveillance-alone-as-standard-of-care-for-small-cell-lung-cancer-302876943.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Rackspace Technology Deadline: RXT Investors Have Opportunity to Lead Rackspace Technology, Inc. Securities Fraud Lawsuit",
-      "publishedAt": "Sun, 13 Sep 2026 11:58:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/rackspace-technology-deadline-rxt-investors-have-opportunity-to-lead-rackspace-technology-inc-securities-fraud-lawsuit-302876727.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "GAC AION UT gewinnt den Preis für das beste Außendesign beim Torino Automotive Design Award 2026",
-      "publishedAt": "Sun, 13 Sep 2026 11:54:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/gac-aion-ut-gewinnt-den-preis-fur-das-beste-auWendesign-beim-torino-automotive-design-award-2026-302876985.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "L'AION UT de GAC remporte le prix du meilleur design extérieur lors du Torino Automotive Design Award 2026",
-      "publishedAt": "Sun, 13 Sep 2026 11:51:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/laion-ut-de-gac-remporte-le-prix-du-meilleur-design-exterieur-lors-du-torino-automotive-design-award-2026-302876984.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Sacituzumab Govitecan Plus Pembrolizumab Does Not Meet Primary Endpoints in First-Line PD-L1-High Metastatic NSCLC",
-      "publishedAt": "Sun, 13 Sep 2026 11:50:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/sacituzumab-govitecan-plus-pembrolizumab-does-not-meet-primary-endpoints-in-first-line-pd-l1-high-metastatic-nsclc-302876942.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Phase III ARTEMIS-008 Trial Shows Risvutatug Rezetecan Significantly Improves Overall Survival in Relapsed Small-Cell Lung Cancer",
-      "publishedAt": "Sun, 13 Sep 2026 11:46:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/phase-iii-artemis-008-trial-shows-risvutatug-rezetecan-significantly-improves-overall-survival-in-relapsed-small-cell-lung-cancer-302876941.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "DKS Investors Have Opportunity to Lead DICK'S Sporting Goods, Inc. Securities Fraud Lawsuit",
-      "publishedAt": "Sun, 13 Sep 2026 11:39:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/dks-investors-have-opportunity-to-lead-dicks-sporting-goods-inc-securities-fraud-lawsuit-302876678.html",
+      "source": "GlobeNewswire",
+      "title": "Dogwood Announces Completion of Enrollment in Ongoing Halneuron® Phase 2b Trial",
+      "publishedAt": "Mon, 14 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361120/0/en/dogwood-announces-completion-of-enrollment-in-ongoing-halneuron-phase-2b-trial.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "NEW MID-TERM FINANCIAL TARGETS – ISS TO ACCELERATE HIGHER-QUALITY GROWTH AND EXPAND MARGINS",
-      "publishedAt": "Sun, 13 Sep 2026 14:40 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/13/3360642/0/en/new-mid-term-financial-targets-iss-to-accelerate-higher-quality-growth-and-expand-margins.html",
+      "title": "Moleculin to Showcase New Annamycin Data at AACR Conference on Pancreatic Cancer and Two European Scientific Meetings",
+      "publishedAt": "Mon, 14 Sep 2026 12:35 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361108/0/en/moleculin-to-showcase-new-annamycin-data-at-aacr-conference-on-pancreatic-cancer-and-two-european-scientific-meetings.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Roche’s collaborator MediLink announces phase III data for Tam-Peli showing significantly improved overall survival in Chinese patient population with relapsed small-cell lung cancer",
-      "publishedAt": "Sun, 13 Sep 2026 00:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/13/3360614/0/en/roche-s-collaborator-medilink-announces-phase-iii-data-for-tam-peli-showing-significantly-improved-overall-survival-in-chinese-patient-population-with-relapsed-small-cell-lung-canc.html",
+      "title": "AIB Data Centers Nearly Doubles Contracted Power Capacity to 120 MW Through Strategic Acquisition",
+      "publishedAt": "Mon, 14 Sep 2026 12:31 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361106/0/en/aib-data-centers-nearly-doubles-contracted-power-capacity-to-120-mw-through-strategic-acquisition.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Capgemini signe un accord définitif de vente de Capgemini Government Solutions",
-      "publishedAt": "Sat, 12 Sep 2026 14:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/12/3360587/0/fr/capgemini-signe-un-accord-d%C3%A9finitif-de-vente-de-capgemini-government-solutions.html",
+      "title": "Pasqal Announces First Half 2026 Earnings Release Date and Participation in Upcoming Investor Conferences",
+      "publishedAt": "Mon, 14 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361076/0/en/pasqal-announces-first-half-2026-earnings-release-date-and-participation-in-upcoming-investor-conferences.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Capgemini signs a definitive agreement to sell Capgemini Government Solutions",
-      "publishedAt": "Sat, 12 Sep 2026 14:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/12/3360587/0/en/capgemini-signs-a-definitive-agreement-to-sell-capgemini-government-solutions.html",
+      "title": "IDT Corporation to Report Fourth Quarter and Fiscal Year 2026 Results",
+      "publishedAt": "Mon, 14 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361077/33173/en/idt-corporation-to-report-fourth-quarter-and-fiscal-year-2026-results.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Computer Modelling Group Announces Annual General Meeting Voting Results",
-      "publishedAt": "Sat, 12 Sep 2026 00:51 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/12/3360566/0/en/computer-modelling-group-announces-annual-general-meeting-voting-results.html",
+      "title": "Trust Stamp Expands Strategic Partnership with ID Dataweb to  Deliver Privacy-First Biometric Tokenization Across Enterprise Network",
+      "publishedAt": "Mon, 14 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361078/0/en/trust-stamp-expands-strategic-partnership-with-id-dataweb-to-deliver-privacy-first-biometric-tokenization-across-enterprise-network.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Skyworks Announces Extension of Expiration Date of Exchange Offers for Qorvo’s Senior Notes due 2029 and 2031",
-      "publishedAt": "Sat, 12 Sep 2026 00:00 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/12/3360562/0/en/skyworks-announces-extension-of-expiration-date-of-exchange-offers-for-qorvo-s-senior-notes-due-2029-and-2031.html",
+      "title": "BTCS Expands Imperium DeFi Strategy to Multi-Chain Operations",
+      "publishedAt": "Mon, 14 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361080/0/en/btcs-expands-imperium-defi-strategy-to-multi-chain-operations.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Axe Compute Announces Inducement Grant Under Nasdaq Listing Rule 5635(c)(4)",
-      "publishedAt": "Fri, 11 Sep 2026 23:43 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/11/3360561/37244/en/axe-compute-announces-inducement-grant-under-nasdaq-listing-rule-5635-c-4.html",
+      "title": "SkyAI Comments on Forward Industries’ Letter and Reaffirms Strategy",
+      "publishedAt": "Mon, 14 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361081/0/en/skyai-comments-on-forward-industries-letter-and-reaffirms-strategy.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Tenaya Therapeutics Granted U.S. FDA Regenerative Medicine Advanced Therapy (RMAT) Designation for TN-401 for the Treatment of PKP2-Associated Arrhythmogenic Right Ventricular Cardiomyopathy",
+      "publishedAt": "Mon, 14 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361082/0/en/tenaya-therapeutics-granted-u-s-fda-regenerative-medicine-advanced-therapy-rmat-designation-for-tn-401-for-the-treatment-of-pkp2-associated-arrhythmogenic-right-ventricular-cardiom.html",
+      "tickersMentioned": [
+        "U"
+      ]
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Niki BioSolutions Accelerates Its Alzheimer’s Disease Testing Pipeline Through Strategic Bioinformatics and Statistical Analysis Partnership with Fios Genomics",
+      "publishedAt": "Mon, 14 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361085/0/en/niki-biosolutions-accelerates-its-alzheimer-s-disease-testing-pipeline-through-strategic-bioinformatics-and-statistical-analysis-partnership-with-fios-genomics.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Exascale and Compal Sign Letter of Intent to Build Data-Center-Grade Native 800 VDC Validation Platform",
+      "publishedAt": "Mon, 14 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361086/0/en/exascale-and-compal-sign-letter-of-intent-to-build-data-center-grade-native-800-vdc-validation-platform.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Onconetix Provides Strategic Bridge Financing to Realbotix LLC in Support of Pending Acquisition",
+      "publishedAt": "Mon, 14 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361088/0/en/onconetix-provides-strategic-bridge-financing-to-realbotix-llc-in-support-of-pending-acquisition.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Alto Ingredients, Inc. to Participate in the H.C. Wainwright 28th Annual Global Investment Conference",
+      "publishedAt": "Mon, 14 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361089/11185/en/alto-ingredients-inc-to-participate-in-the-h-c-wainwright-28th-annual-global-investment-conference.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Eos Energy Enterprises Receives $87 Million Advance Under U.S. Department of Energy Loan to Fund Second Production Line at Thorn Hill",
+      "publishedAt": "Mon, 14 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361091/0/en/eos-energy-enterprises-receives-87-million-advance-under-u-s-department-of-energy-loan-to-fund-second-production-line-at-thorn-hill.html",
+      "tickersMentioned": [
+        "U"
+      ]
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Greenland Mines Forms Strategic Advisory Board With Three Industry Leaders to Accelerate Project Development and Western Critical-Minerals Strategy",
+      "publishedAt": "Mon, 14 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361093/0/en/greenland-mines-forms-strategic-advisory-board-with-three-industry-leaders-to-accelerate-project-development-and-western-critical-minerals-strategy.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Churchill Downs Incorporated Announces Launch of $500 Million Senior Secured Term Loan B Due 2033",
+      "publishedAt": "Mon, 14 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/14/3361094/12388/en/churchill-downs-incorporated-announces-launch-of-500-million-senior-secured-term-loan-b-due-2033.html",
       "tickersMentioned": []
     }
   ]
