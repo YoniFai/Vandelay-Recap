@@ -1,14 +1,19 @@
 {
-  "generatedAt": "2026-09-14T12:55:50.471Z",
+  "generatedAt": "2026-09-15T12:54:07.999Z",
   "hoursBack": 48,
   "tickersRequested": 94,
   "fatal": null,
-  "count": 1,
+  "count": 2,
   "failures": [
     {
       "label": "edgar:IWM",
       "error": "no CIK in SEC ticker map (foreign issuer or ETF)",
-      "at": "2026-09-14T12:55:37.048Z"
+      "at": "2026-09-15T12:53:56.666Z"
+    },
+    {
+      "label": "edgar:QQQ",
+      "error": "no CIK in SEC ticker map (foreign issuer or ETF)",
+      "at": "2026-09-15T12:54:02.310Z"
     }
   ]
 }
