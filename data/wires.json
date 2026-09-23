@@ -1,291 +1,153 @@
 {
-  "generatedAt": "2026-09-22T12:53:33.167Z",
+  "generatedAt": "2026-09-23T12:54:03.629Z",
   "hoursBack": 48,
   "tickersRequested": 94,
-  "count": 40,
+  "count": 20,
   "rows": [
     {
-      "source": "PR Newswire",
-      "title": "Matchi Launches Cafe-Quality Protein Matcha Lattes--Ceremonial-Grade Matcha Meets Complete Protein",
-      "publishedAt": "Tue, 22 Sep 2026 12:51:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/matchi-launches-cafe-quality-protein-matcha-lattesceremonial-grade-matcha-meets-complete-protein-302885812.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "iFranchise Group Ranked #1 Franchise Consultant for Eighth Consecutive Year",
-      "publishedAt": "Tue, 22 Sep 2026 12:51:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/ifranchise-group-ranked-1-franchise-consultant-for-eighth-consecutive-year-302885841.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Partners International Expands into Early Career Navigation with CareerPath Finder",
-      "publishedAt": "Tue, 22 Sep 2026 12:51:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/partners-international-expands-into-early-career-navigation-with-careerpath-finder-302886059.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "ABnet Showcases the Era of Autonomous AI Agents, Praising Anthropic's Unmatched Value to the Modern Enterprise Ecosystem",
-      "publishedAt": "Tue, 22 Sep 2026 12:51:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/abnet-showcases-the-era-of-autonomous-ai-agents-praising-anthropics-unmatched-value-to-the-modern-enterprise-ecosystem-302886056.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "TerraMaster Launches 725 Series Xeon Rackmount NAS to Deliver Enterprise Unified Storage for the AI Era",
-      "publishedAt": "Tue, 22 Sep 2026 12:51:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/terramaster-launches-725-series-xeon-rackmount-nas-to-deliver-enterprise-unified-storage-for-the-ai-era-302886058.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "/C O R R E C T I O N -- CEER/",
-      "publishedAt": "Tue, 22 Sep 2026 12:51:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/hrh-the-crown-prince-launches-ceers-flagship-vehicles-further-strengthening-saudi-arabias-position-in-the-global-automotive-industry-302885006.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Charter Next Generation Names Todd Herndon Chief Financial Officer",
-      "publishedAt": "Tue, 22 Sep 2026 12:50:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/charter-next-generation-names-todd-herndon-chief-financial-officer-302886047.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "ViewScan Unveils New Product Release &amp;amp; Website to Enhance User Experience",
-      "publishedAt": "Tue, 22 Sep 2026 12:50:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/viewscan-unveils-new-product-release--website-to-enhance-user-experience-302885266.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Beemo Automation Partners with $28.6B Choreo to Build AI Capabilities That Support Growth, Client Experience and Operational Scale",
-      "publishedAt": "Tue, 22 Sep 2026 12:48:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/beemo-automation-partners-with-28-6b-choreo-to-build-ai-capabilities-that-support-growth-client-experience-and-operational-scale-302885964.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "A Foodie Holiday Gift Guide 2026 from Adagio Teas, Lardera Coffee &amp;amp; Selefina Spices",
-      "publishedAt": "Tue, 22 Sep 2026 12:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/a-foodie-holiday-gift-guide-2026-from-adagio-teas-lardera-coffee--selefina-spices-302886050.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Americas Cardroom's OSS XL Rolls into Final Stretch After Another Big Sunday",
-      "publishedAt": "Tue, 22 Sep 2026 12:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/americas-cardrooms-oss-xl-rolls-into-final-stretch-after-another-big-sunday-302885959.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Scale Marketing Goes All In on Growth with Veteran Enterprise Hire",
-      "publishedAt": "Tue, 22 Sep 2026 12:46:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/scale-marketing-goes-all-in-on-growth-with-veteran-enterprise-hire-302886010.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Illustrated Parable Features Bird Narrators Observing Humans in All Their Wonder as They Search for Truth and Purpose",
-      "publishedAt": "Tue, 22 Sep 2026 12:46:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/illustrated-parable-features-bird-narrators-observing-humans-in-all-their-wonder-as-they-search-for-truth-and-purpose-302885629.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Globee® Awards Invite Healthcare, Medical Technology, and Pharmaceutical Professionals Worldwide to Apply as Volunteer Judges",
-      "publishedAt": "Tue, 22 Sep 2026 12:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/globee-awards-invite-healthcare-medical-technology-and-pharmaceutical-professionals-worldwide-to-apply-as-volunteer-judges-302885644.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "TripleLift and Multilocal Partner to Put Creative into the Curation Equation",
-      "publishedAt": "Tue, 22 Sep 2026 12:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/triplelift-and-multilocal-partner-to-put-creative-into-the-curation-equation-302886017.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Locus FS Expands Permian Operations with Midland Facility Acquisition, Tripling Blending Capacity",
-      "publishedAt": "Tue, 22 Sep 2026 12:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/locus-fs-expands-permian-operations-with-midland-facility-acquisition-tripling-blending-capacity-302886171.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Strøm Old Quebec Named Canada's Best Day Spa at the World Spa Awards--for the Third Year in a Row",
-      "publishedAt": "Tue, 22 Sep 2026 12:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/strom-old-quebec-named-canadas-best-day-spa-at-the-world-spa-awardsfor-the-third-year-in-a-row-302885770.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Nexcess Expands Service Offerings with Managed Cloud Powered by Nutanix",
-      "publishedAt": "Tue, 22 Sep 2026 12:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/nexcess-expands-service-offerings-with-managed-cloud-powered-by-nutanix-302885626.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "TransMedia Group to Amplify Global Reach of Renowned Intuitive Healer &amp;amp; ESP Method Creator Jennifer Schaefer",
-      "publishedAt": "Tue, 22 Sep 2026 12:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/transmedia-group-to-amplify-global-reach-of-renowned-intuitive-healer--esp-method-creator-jennifer-schaefer-302885434.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Exus Renewables North America Completes Highland North and Cambria Wind Repower Projects in Cambria County, Pennsylvania",
-      "publishedAt": "Tue, 22 Sep 2026 12:44:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/exus-renewables-north-america-completes-highland-north-and-cambria-wind-repower-projects-in-cambria-county-pennsylvania-302885953.html",
+      "source": "GlobeNewswire",
+      "title": "UPDATE: Forward Industries Announces $25 Million Registered Direct Offering with Institutional Investor",
+      "publishedAt": "Wed, 23 Sep 2026 12:50 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367478/0/en/update-forward-industries-announces-25-million-registered-direct-offering-with-institutional-investor.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "MAIA Biotechnology Reports Pivotal Phase 3 Clinical Trial Progress in Advanced Non-Small Cell Lung Cancer",
-      "publishedAt": "Tue, 22 Sep 2026 12:47 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366372/0/en/maia-biotechnology-reports-pivotal-phase-3-clinical-trial-progress-in-advanced-non-small-cell-lung-cancer.html",
+      "title": "reAlpha (NASDAQ: AIRE) Provides Pro Forma Financial Information on InstaMortgage Acquisition",
+      "publishedAt": "Wed, 23 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367472/0/en/realpha-nasdaq-aire-provides-pro-forma-financial-information-on-instamortgage-acquisition.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Holding(s) in Company",
-      "publishedAt": "Tue, 22 Sep 2026 12:46 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366371/0/en/holding-s-in-company.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Nykredit Realkredit A/S: Ledende medarbejdere og disses nærtstående transaktioner",
-      "publishedAt": "Tue, 22 Sep 2026 12:45 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366365/0/da/nykredit-realkredit-a-s-ledende-medarbejdere-og-disses-n%C3%A6rtst%C3%A5ende-transaktioner.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Itron and Crytica Security Collaborate to Advance Rapid Threat Detection for Grid Edge Intelligence",
-      "publishedAt": "Tue, 22 Sep 2026 12:45 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366366/0/en/itron-and-crytica-security-collaborate-to-advance-rapid-threat-detection-for-grid-edge-intelligence.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Nykredit Realkredit A/S: Ledende medarbejdere og disses nærtstående transaktioner",
-      "publishedAt": "Tue, 22 Sep 2026 12:45 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366370/0/da/nykredit-realkredit-a-s-ledende-medarbejdere-og-disses-n%C3%A6rtst%C3%A5ende-transaktioner.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "OneMedNet Expands Commercial Reach Through Multi-Year Resale Agreement with Atropos Health",
-      "publishedAt": "Tue, 22 Sep 2026 12:40 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366361/0/en/onemednet-expands-commercial-reach-through-multi-year-resale-agreement-with-atropos-health.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Palisade Bio Receives FDA Clearance of IND for PALI-2108 in Crohn’s Disease, Expanding Phase 2 Development Across IBD",
-      "publishedAt": "Tue, 22 Sep 2026 12:35 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366355/0/en/palisade-bio-receives-fda-clearance-of-ind-for-pali-2108-in-crohn-s-disease-expanding-phase-2-development-across-ibd.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Resultat af Agat Ejendommes fortegningsemission",
-      "publishedAt": "Tue, 22 Sep 2026 12:35 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366358/0/da/resultat-af-agat-ejendommes-fortegningsemission.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Polyrizon Enrolls First Patient in U.S. Clinical Study of NASARIX (PL-14) Allergy Blocker",
-      "publishedAt": "Tue, 22 Sep 2026 12:33 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366354/0/en/polyrizon-enrolls-first-patient-in-u-s-clinical-study-of-nasarix-pl-14-allergy-blocker.html",
+      "title": "Cannabix’s BreathLogix Alcohol Screening Solution Enters U.S. Manufacturing Workplace Market with Deployment at Alabama Facility",
+      "publishedAt": "Wed, 23 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367473/0/en/cannabix-s-breathlogix-alcohol-screening-solution-enters-u-s-manufacturing-workplace-market-with-deployment-at-alabama-facility.html",
       "tickersMentioned": [
         "U"
       ]
     },
     {
       "source": "GlobeNewswire",
-      "title": "Colorado PPE Opens New Colorado Facility to Deliver Firefighter PPE Care Above and Beyond Standard Compliance",
-      "publishedAt": "Tue, 22 Sep 2026 12:31 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366349/0/en/colorado-ppe-opens-new-colorado-facility-to-deliver-firefighter-ppe-care-above-and-beyond-standard-compliance.html",
+      "title": "Palisade Bio Expands Global Phase 2b ASCENTRA-UC Program with Health Canada CTA Clearance",
+      "publishedAt": "Wed, 23 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367474/0/en/palisade-bio-expands-global-phase-2b-ascentra-uc-program-with-health-canada-cta-clearance.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Idaho Copper Receives U.S. Forest Service Approval to Commence Drilling at Flagship CuMo Copper-Molybdenum Project",
-      "publishedAt": "Tue, 22 Sep 2026 12:31 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366350/0/en/idaho-copper-receives-u-s-forest-service-approval-to-commence-drilling-at-flagship-cumo-copper-molybdenum-project.html",
+      "title": "Quanome Advances Its AI Cloud Business XDT with US$18.8 Million Infrastructure Purchase Agreement",
+      "publishedAt": "Wed, 23 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367476/0/en/quanome-advances-its-ai-cloud-business-xdt-with-us-18-8-million-infrastructure-purchase-agreement.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Wearable Devices Receives China Patent Allowance for Pressure-Based Gesture Control",
+      "publishedAt": "Wed, 23 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367477/0/en/wearable-devices-receives-china-patent-allowance-for-pressure-based-gesture-control.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Following Drone Dominance Program Selection, XTEND Secures Phase III of U.S. SOCOM Modular Kinetic Lethal Drone Program, Adding to New Drone Dominance Program Selection",
+      "publishedAt": "Wed, 23 Sep 2026 12:40 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367470/0/en/following-drone-dominance-program-selection-xtend-secures-phase-iii-of-u-s-socom-modular-kinetic-lethal-drone-program-adding-to-new-drone-dominance-program-selection.html",
       "tickersMentioned": [
         "U"
       ]
     },
     {
       "source": "GlobeNewswire",
-      "title": "Birchtech to Participate in Upcoming Investor Conferences",
-      "publishedAt": "Tue, 22 Sep 2026 12:31 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366351/0/en/birchtech-to-participate-in-upcoming-investor-conferences.html",
+      "title": "SciSparc: Subsidiary NeuroThera Highlights Enhancement of U.S. Patent Portfolio Through Collaboration with Clearmind Covering LSD, Ketamine and Ibogaine Combinations",
+      "publishedAt": "Wed, 23 Sep 2026 12:35 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367467/0/en/scisparc-subsidiary-neurothera-highlights-enhancement-of-u-s-patent-portfolio-through-collaboration-with-clearmind-covering-lsd-ketamine-and-ibogaine-combinations.html",
+      "tickersMentioned": [
+        "U"
+      ]
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Holley Continues Deleveraging with Additional Debt Prepayment, Total Repayments Reach $125 Million Since 2023",
+      "publishedAt": "Wed, 23 Sep 2026 12:35 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367468/0/en/holley-continues-deleveraging-with-additional-debt-prepayment-total-repayments-reach-125-million-since-2023.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "MAX Power Mining Corp. (OTC: MAXXF) (CSE: MAXX) Advancing Canada’s First Confirmed Subsurface Natural Hydrogen System",
-      "publishedAt": "Tue, 22 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366323/0/en/max-power-mining-corp-otc-maxxf-cse-maxx-advancing-canada-s-first-confirmed-subsurface-natural-hydrogen-system.html",
+      "title": "Paychex Reports First Quarter Fiscal 2027 Results",
+      "publishedAt": "Wed, 23 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367453/0/en/paychex-reports-first-quarter-fiscal-2027-results.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Nightfood Holdings Inc. (OTCQB: NGTF) Announces Formation of Manufacturing Subsidiary, Built with Taiwan-Based Manufacturing Partner",
-      "publishedAt": "Tue, 22 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366324/0/en/nightfood-holdings-inc-otcqb-ngtf-announces-formation-of-manufacturing-subsidiary-built-with-taiwan-based-manufacturing-partner.html",
+      "title": "PowerCompute Miner Refresh Expected to Deliver Nearly 39% More Hashrate Per Machine Replaced",
+      "publishedAt": "Wed, 23 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367455/0/en/powercompute-miner-refresh-expected-to-deliver-nearly-39-more-hashrate-per-machine-replaced.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Premium Global Income Split Fund Establishes At-The-Market Equity Program",
-      "publishedAt": "Tue, 22 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366326/0/en/premium-global-income-split-fund-establishes-at-the-market-equity-program.html",
+      "title": "Greenland Mines Ltd. (NASDAQ: GRML) Applies to More than Double Mining Footprint in West Greenland",
+      "publishedAt": "Wed, 23 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367456/0/en/greenland-mines-ltd-nasdaq-grml-applies-to-more-than-double-mining-footprint-in-west-greenland.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Fiserv Expands Clover Footprint in Canadian Sports and Entertainment",
-      "publishedAt": "Tue, 22 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366327/0/en/fiserv-expands-clover-footprint-in-canadian-sports-and-entertainment.html",
+      "title": "Worldwide NFT, Inc. Publishes Letter to Shareholders",
+      "publishedAt": "Wed, 23 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367457/0/en/worldwide-nft-inc-publishes-letter-to-shareholders.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "SAB BIO to Present SAB-142 Data at the 62nd Annual Meeting of the European Association for the Study of Diabetes",
-      "publishedAt": "Tue, 22 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366328/0/en/sab-bio-to-present-sab-142-data-at-the-62nd-annual-meeting-of-the-european-association-for-the-study-of-diabetes.html",
+      "title": "Zeo Energy Corp. Achieves Corporate Debt-Free Balance Sheet Following Early Retirement of Convertible Debt",
+      "publishedAt": "Wed, 23 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367459/0/en/zeo-energy-corp-achieves-corporate-debt-free-balance-sheet-following-early-retirement-of-convertible-debt.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Propanc Biopharma Highlights Differentiated PRP Pancreatic Cancer Data Versus Emerging Pan-RAS Program ERAS-0015",
-      "publishedAt": "Tue, 22 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366329/0/en/propanc-biopharma-highlights-differentiated-prp-pancreatic-cancer-data-versus-emerging-pan-ras-program-eras-0015.html",
+      "title": "Core AI Holdings Announces Receipt of Nasdaq Notification Regarding Minimum Stockholders’ Equity Deficiency",
+      "publishedAt": "Wed, 23 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367461/0/en/core-ai-holdings-announces-receipt-of-nasdaq-notification-regarding-minimum-stockholders-equity-deficiency.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Marchex Expands Investor Relations Program, Engages PondelWilkinson to Broaden Investor Outreach",
-      "publishedAt": "Tue, 22 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366330/0/en/marchex-expands-investor-relations-program-engages-pondelwilkinson-to-broaden-investor-outreach.html",
+      "title": "Liberty Global Signs Strategic Partnership with Sierra to Rollout AI-Powered Customer Experiences Across Telecoms Businesses",
+      "publishedAt": "Wed, 23 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367463/34554/en/liberty-global-signs-strategic-partnership-with-sierra-to-rollout-ai-powered-customer-experiences-across-telecoms-businesses.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Grayscale Investments Introduces Grayscale AI Compute ETF (Ticker: GCPU), Targeting the Infrastructure Powering AI's Growth",
-      "publishedAt": "Tue, 22 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/22/3366332/0/en/grayscale-investments-introduces-grayscale-ai-compute-etf-ticker-gcpu-targeting-the-infrastructure-powering-ai-s-growth.html",
+      "title": "E-Power Receives RMB 61.8 Million (US$9.2 Million) in Full Payment for Completed Phase of RMB 343 Million Anode Contract",
+      "publishedAt": "Wed, 23 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367464/0/en/e-power-receives-rmb-61-8-million-us-9-2-million-in-full-payment-for-completed-phase-of-rmb-343-million-anode-contract.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Actinogen XanaMIA pivotal Alzheimer’s disease trial completes final patient visit, with topline results on track for November",
+      "publishedAt": "Wed, 23 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367466/0/en/actinogen-xanamia-pivotal-alzheimer-s-disease-trial-completes-final-patient-visit-with-topline-results-on-track-for-november.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Moleculin Biotech Secures Mexican Patent Protecting Lung-Targeted Liposomal Annamycin Through 2040",
+      "publishedAt": "Wed, 23 Sep 2026 12:25 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367449/0/en/moleculin-biotech-secures-mexican-patent-protecting-lung-targeted-liposomal-annamycin-through-2040.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "GlobeNewswire",
+      "title": "Powered by Coinbase, Roundtable’s Real-Time DeFi Media Payment Platform Goes Live $100 Million Ad Ecosystem to Migrate; RTB Shares Begin Trading on Coinbase Today",
+      "publishedAt": "Wed, 23 Sep 2026 12:15 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/23/3367445/0/en/powered-by-coinbase-roundtable-s-real-time-defi-media-payment-platform-goes-live-100-million-ad-ecosystem-to-migrate-rtb-shares-begin-trading-on-coinbase-today.html",
       "tickersMentioned": []
     }
   ]
