@@ -1,295 +1,151 @@
 {
-  "generatedAt": "2026-09-28T12:57:04.476Z",
+  "generatedAt": "2026-09-29T12:57:17.799Z",
   "hoursBack": 48,
   "tickersRequested": 94,
-  "count": 40,
+  "count": 20,
   "rows": [
     {
-      "source": "PR Newswire",
-      "title": "Derek Pesta Named to 2026 Forbes Top Next-Gen Wealth Advisors Best-in-State List",
-      "publishedAt": "Mon, 28 Sep 2026 12:55:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/derek-pesta-named-to-2026-forbes-top-next-gen-wealth-advisors-best-in-state-list-302890602.html",
+      "source": "GlobeNewswire",
+      "title": "NeOnc’s Powerful Brain Cancer Pipeline Advances",
+      "publishedAt": "Tue, 29 Sep 2026 12:52 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370872/0/en/neonc-s-powerful-brain-cancer-pipeline-advances.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "J.P. Morgan Taps Thunes to Streamline Global Payments: NYSE Content Update",
-      "publishedAt": "Mon, 28 Sep 2026 12:55:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/jp-morgan-taps-thunes-to-streamline-global-payments-nyse-content-update-302891492.html",
+      "source": "GlobeNewswire",
+      "title": "Eesti Energia opens Kelmė I and Kelmė II wind farms in Lithuania",
+      "publishedAt": "Tue, 29 Sep 2026 12:48 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370871/0/en/eesti-energia-opens-kelm%C4%97-i-and-kelm%C4%97-ii-wind-farms-in-lithuania.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "AHN Healthcare@Home Receives Top Workplaces Award for Fourth Consecutive Year",
-      "publishedAt": "Mon, 28 Sep 2026 12:55:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/ahn-healthcarehome-receives-top-workplaces-award-for-fourth-consecutive-year-302891504.html",
+      "source": "GlobeNewswire",
+      "title": "Eesti Energia avas Leedus Kelmė I ja Kelmė II tuulepargid",
+      "publishedAt": "Tue, 29 Sep 2026 12:48 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370871/0/et/eesti-energia-avas-leedus-kelm%C4%97-i-ja-kelm%C4%97-ii-tuulepargid.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Newmark Appoints Mike Whitaker as Group Chief Information Officer",
-      "publishedAt": "Mon, 28 Sep 2026 12:55:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/newmark-appoints-mike-whitaker-as-group-chief-information-officer-302891150.html",
+      "source": "GlobeNewswire",
+      "title": "Aeroplan Credit Cards to Include New Travel Benefits and 15% Savings on Air Canada Flight Rewards",
+      "publishedAt": "Tue, 29 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370864/0/en/aeroplan-credit-cards-to-include-new-travel-benefits-and-15-savings-on-air-canada-flight-rewards.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Newmark Appoints Mike Whitaker as Group Chief Information Officer",
-      "publishedAt": "Mon, 28 Sep 2026 12:55:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/newmark-appoints-mike-whitaker-as-group-chief-information-officer-302891163.html",
+      "source": "GlobeNewswire",
+      "title": "Les cartes de crédit Aéroplan offriront de nouveaux privilèges de voyage et une réduction de 15 % sur les primes aériennes d’Air Canada",
+      "publishedAt": "Tue, 29 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370864/0/fr/les-cartes-de-cr%C3%A9dit-a%C3%A9roplan-offriront-de-nouveaux-privil%C3%A8ges-de-voyage-et-une-r%C3%A9duction-de-15-sur-les-primes-a%C3%A9riennes-d-air-canada.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Gotion Secures 75% of Saudi Arabia's First Utility-Scale BESS Tender",
-      "publishedAt": "Mon, 28 Sep 2026 12:54:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/gotion-secures-75-of-saudi-arabias-first-utility-scale-bess-tender-302891502.html",
+      "source": "GlobeNewswire",
+      "title": "Vivos Therapeutics Reports Progress in Material Cost Reductions and Revenue Growth Initiatives",
+      "publishedAt": "Tue, 29 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370865/0/en/vivos-therapeutics-reports-progress-in-material-cost-reductions-and-revenue-growth-initiatives.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Employment &amp;amp; Labor Lawyers, at Blumenthal Nordrehaug Bhowmik De Blouw LLP, File Lawsuit Against Desert Resort Management, Inc., for Alleged Failure to Provide Meal Periods and Rest Breaks",
-      "publishedAt": "Mon, 28 Sep 2026 12:53:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/employment--labor-lawyers-at-blumenthal-nordrehaug-bhowmik-de-blouw-llp-file-lawsuit-against-desert-resort-management-inc-for-alleged-failure-to-provide-meal-periods-and-rest-breaks-302884319.html",
+      "source": "GlobeNewswire",
+      "title": "Moleculin Biotech Completes Enrollment in Part A of Phase 2/3 R/R AML MIRACLE Trial, Keeping Program on Track for Q1 2027 Data Readout",
+      "publishedAt": "Tue, 29 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370867/0/en/moleculin-biotech-completes-enrollment-in-part-a-of-phase-2-3-r-r-aml-miracle-trial-keeping-program-on-track-for-q1-2027-data-readout.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Primrose Schools® Launches Proprietary Balanced Learning® App to Support Digital Literacy Through Hands-On Learning",
-      "publishedAt": "Mon, 28 Sep 2026 12:53:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/primrose-schools-launches-proprietary-balanced-learning-app-to-support-digital-literacy-through-hands-on-learning-302891496.html",
+      "source": "GlobeNewswire",
+      "title": "OMNIQ Expands Q Shield™ Safe City Platform Into Pennsylvania With Two Municipal Agreements",
+      "publishedAt": "Tue, 29 Sep 2026 12:45 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370868/0/en/omniq-expands-q-shield-safe-city-platform-into-pennsylvania-with-two-municipal-agreements.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Appy Pie's AI App Builder Granted U.S. Patent for Building Apps Through Natural Conversation",
-      "publishedAt": "Mon, 28 Sep 2026 12:48:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/appy-pies-ai-app-builder-granted-us-patent-for-building-apps-through-natural-conversation-302891338.html",
+      "source": "GlobeNewswire",
+      "title": "Fastsættelse af rentekupon - SNP 2029 (SEK og NOK)",
+      "publishedAt": "Tue, 29 Sep 2026 12:44 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370863/0/en/fasts%C3%A6ttelse-af-rentekupon-snp-2029-sek-og-nok.html",
       "tickersMentioned": [
-        "U"
+        "NOK"
       ]
     },
     {
-      "source": "PR Newswire",
-      "title": "PVOLVE Expands National Footprint with Franchise Awards in Washington and Wisconsin",
-      "publishedAt": "Mon, 28 Sep 2026 12:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/pvolve-expands-national-footprint-with-franchise-awards-in-washington-and-wisconsin-302890743.html",
+      "source": "GlobeNewswire",
+      "title": "SeaStar Medical Announces Chief Medical Officer, Kevin Chung, M.D., to Present at the Pediatric Paracorporeal and Extracorporeal Therapy Symposium (PPETS) 2026",
+      "publishedAt": "Tue, 29 Sep 2026 12:36 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370861/0/en/seastar-medical-announces-chief-medical-officer-kevin-chung-m-d-to-present-at-the-pediatric-paracorporeal-and-extracorporeal-therapy-symposium-ppets-2026.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Perkins Restaurant &amp;amp; Bakery Invites Families to Stay and Play with Limited Edition Mahjong Set",
-      "publishedAt": "Mon, 28 Sep 2026 12:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/perkins-restaurant--bakery-invites-families-to-stay-and-play-with-limited-edition-mahjong-set-302890632.html",
+      "source": "GlobeNewswire",
+      "title": "Greenland Mines Brings Total New Capital to Over $59 Million with Above-Market Raise from Existing Shareholders",
+      "publishedAt": "Tue, 29 Sep 2026 12:35 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370862/0/en/greenland-mines-brings-total-new-capital-to-over-59-million-with-above-market-raise-from-existing-shareholders.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Craig Hospital Celebrates \"Topping Out\" Ceremony for Transformative Campus Expansion",
-      "publishedAt": "Mon, 28 Sep 2026 12:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/craig-hospital-celebrates-topping-out-ceremony-for-transformative-campus-expansion-302890744.html",
+      "source": "GlobeNewswire",
+      "title": "Kraig Labs Takes Biggest Step Yet and Ships First Commercial Spider Silk Order, as Performance Brand Set to Put Breakthrough Fiber to the Test",
+      "publishedAt": "Tue, 29 Sep 2026 12:35 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370859/0/en/kraig-labs-takes-biggest-step-yet-and-ships-first-commercial-spider-silk-order-as-performance-brand-set-to-put-breakthrough-fiber-to-the-test.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Elevest Capital Launches Fund 70, a 229 Unit High-Rise Multifamily Offering in Downtown Dallas",
-      "publishedAt": "Mon, 28 Sep 2026 12:46:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/elevest-capital-launches-fund-70-a-229-unit-high-rise-multifamily-offering-in-downtown-dallas-302890741.html",
+      "source": "GlobeNewswire",
+      "title": "Correction: Fastsættelse af rentekupon - SNP Notes (DKK)",
+      "publishedAt": "Tue, 29 Sep 2026 12:33 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370858/0/da/correction-fasts%C3%A6ttelse-af-rentekupon-snp-notes-dkk.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "America's Got Talent Semifinalist Celina Graves Joins GoLive Streamers",
-      "publishedAt": "Mon, 28 Sep 2026 12:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/americas-got-talent-semifinalist-celina-graves-joins-golive-streamers-302891488.html",
+      "source": "GlobeNewswire",
+      "title": "NaaS Technology Inc.'s Parent Company Named to 2026 China Top 100 Private Service Enterprises List, Highlighting AI-Driven Digital Energy Services",
+      "publishedAt": "Tue, 29 Sep 2026 12:32 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370857/0/en/naas-technology-inc-s-parent-company-named-to-2026-china-top-100-private-service-enterprises-list-highlighting-ai-driven-digital-energy-services.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Schneider Electric Showcases Technologies Advancing Water Resilience at WEFTEC 2026",
-      "publishedAt": "Mon, 28 Sep 2026 12:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/schneider-electric-showcases-technologies-advancing-water-resilience-at-weftec-2026-302890947.html",
+      "source": "GlobeNewswire",
+      "title": "20/20 BioLabs to Host Investor Webinar on October 7, 2026 to Discuss FDA Advisory Committee Vote and New OneTest™ Franchise Model",
+      "publishedAt": "Tue, 29 Sep 2026 12:31 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370856/0/en/20-20-biolabs-to-host-investor-webinar-on-october-7-2026-to-discuss-fda-advisory-committee-vote-and-new-onetest-franchise-model.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "NUS team unveils electronic skin that lets users \"see\" touch instantly",
-      "publishedAt": "Mon, 28 Sep 2026 12:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/nus-team-unveils-electronic-skin-that-lets-users-see-touch-instantly-302891489.html",
+      "source": "GlobeNewswire",
+      "title": "Orrön Energy AB’s Nomination Committee",
+      "publishedAt": "Tue, 29 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370825/0/en/orr%C3%B6n-energy-ab-s-nomination-committee.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "From Multi-Platinum Recording Artist to Fashion Entrepreneur: Nailah Thorbourne Creates Vlair Shapewear for the Modern Woman",
-      "publishedAt": "Mon, 28 Sep 2026 12:44:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/from-multi-platinum-recording-artist-to-fashion-entrepreneur-nailah-thorbourne-creates-vlair-shapewear-for-the-modern-woman-302890742.html",
+      "source": "GlobeNewswire",
+      "title": "Orrön Energy AB:s valberedning",
+      "publishedAt": "Tue, 29 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370825/0/sv/orr%C3%B6n-energy-ab-s-valberedning.html",
       "tickersMentioned": []
     },
     {
-      "source": "PR Newswire",
-      "title": "Once Upon a Coconut Goes Pink for a Purpose This Breast Cancer Awareness Month",
-      "publishedAt": "Mon, 28 Sep 2026 12:44:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/once-upon-a-coconut-goes-pink-for-a-purpose-this-breast-cancer-awareness-month-302890691.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "RiskScout Closes New Funding Round Following Year of Explosive Growth",
-      "publishedAt": "Mon, 28 Sep 2026 12:44:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/riskscout-closes-new-funding-round-following-year-of-explosive-growth-302890487.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "HockeyShot Keeps Focus on Players as U.S. Hockey Continues to Grow",
-      "publishedAt": "Mon, 28 Sep 2026 12:43:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/hockeyshot-keeps-focus-on-players-as-us-hockey-continues-to-grow-302890571.html",
+      "source": "GlobeNewswire",
+      "title": "U.S. Small Business Employment Rate Remains Steady in September",
+      "publishedAt": "Tue, 29 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370828/0/en/u-s-small-business-employment-rate-remains-steady-in-september.html",
       "tickersMentioned": [
         "U"
       ]
     },
     {
       "source": "GlobeNewswire",
-      "title": "Palisade Bio to Present Clinical and Translational Data for PALI-2108 in Ulcerative Colitis and Crohn’s Disease at UEG Week 2026",
-      "publishedAt": "Mon, 28 Sep 2026 12:50 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369880/0/en/palisade-bio-to-present-clinical-and-translational-data-for-pali-2108-in-ulcerative-colitis-and-crohn-s-disease-at-ueg-week-2026.html",
+      "title": "Integra LifeSciences Announces 100th Patient Enrolled in AERA® Pediatric Registry",
+      "publishedAt": "Tue, 29 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370832/1063/en/integra-lifesciences-announces-100th-patient-enrolled-in-aera-pediatric-registry.html",
       "tickersMentioned": []
     },
     {
       "source": "GlobeNewswire",
-      "title": "Telos Corporation Awarded $13.7 Million Contract to Modernize Cyber Risk Management for U.S. Department of Health and Human Services",
-      "publishedAt": "Mon, 28 Sep 2026 12:45 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369875/0/en/telos-corporation-awarded-13-7-million-contract-to-modernize-cyber-risk-management-for-u-s-department-of-health-and-human-services.html",
-      "tickersMentioned": [
-        "U"
-      ]
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Lifecore Biomedical to be Acquired by Webster Equity Partners",
-      "publishedAt": "Mon, 28 Sep 2026 12:45 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369877/23089/en/lifecore-biomedical-to-be-acquired-by-webster-equity-partners.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Transactions under Novonesis’ share buyback program",
-      "publishedAt": "Mon, 28 Sep 2026 12:42 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369874/0/en/transactions-under-novonesis-share-buyback-program.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Danske Bank A/S, transactions by persons discharging managerial responsibilities",
-      "publishedAt": "Mon, 28 Sep 2026 12:42 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369873/0/en/danske-bank-a-s-transactions-by-persons-discharging-managerial-responsibilities.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Danske Bank A/S, ledende medarbejderes transaktioner",
-      "publishedAt": "Mon, 28 Sep 2026 12:42 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369873/0/da/danske-bank-a-s-ledende-medarbejderes-transaktioner.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "GRI Bio to Highlight Immune Modulation and Phase 2a Development Insights in IPF at the 10th IPF Summit",
-      "publishedAt": "Mon, 28 Sep 2026 12:40 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369872/0/en/gri-bio-to-highlight-immune-modulation-and-phase-2a-development-insights-in-ipf-at-the-10th-ipf-summit.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "MBody AI Presents AI Robot Workforce Platform at Lytham Fall 2026 Conference",
-      "publishedAt": "Mon, 28 Sep 2026 12:35 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369871/0/en/mbody-ai-presents-ai-robot-workforce-platform-at-lytham-fall-2026-conference.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Idaho Copper to Participate in Noble Capital Markets’ Emerging Growth Virtual Equity Conference",
-      "publishedAt": "Mon, 28 Sep 2026 12:31 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369869/0/en/idaho-copper-to-participate-in-noble-capital-markets-emerging-growth-virtual-equity-conference.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Orrstown Bank Launches Redesigned Website to Enhance Client Experience and Strengthen Community Connections",
-      "publishedAt": "Mon, 28 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369857/29656/en/orrstown-bank-launches-redesigned-website-to-enhance-client-experience-and-strengthen-community-connections.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Powell Max Limited Acquires Stake in Parent Company of the Iconic Remington Firearms Brand",
-      "publishedAt": "Mon, 28 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369858/0/en/powell-max-limited-acquires-stake-in-parent-company-of-the-iconic-remington-firearms-brand.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Fluke Delivers Confidence with New Electrical Testing Bundles to Equip the Next Generation of Electricians",
-      "publishedAt": "Mon, 28 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369859/0/en/fluke-delivers-confidence-with-new-electrical-testing-bundles-to-equip-the-next-generation-of-electricians.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Carlsmed Appoints Richard Heppenstall as Chief Financial Officer",
-      "publishedAt": "Mon, 28 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369860/0/en/carlsmed-appoints-richard-heppenstall-as-chief-financial-officer.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "DLH Awarded New NIH Cybersecurity Operations Task Order Valued at Up to $19.1 Million",
-      "publishedAt": "Mon, 28 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369862/0/en/dlh-awarded-new-nih-cybersecurity-operations-task-order-valued-at-up-to-19-1-million.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Achieve Life Sciences to Present 52-Week Cytisinicline Efficacy Data for Smoking and E-Cigarette Cessation at CHEST 2026",
-      "publishedAt": "Mon, 28 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369863/0/en/achieve-life-sciences-to-present-52-week-cytisinicline-efficacy-data-for-smoking-and-e-cigarette-cessation-at-chest-2026.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "ECGI Holdings Enters Letter of Intent to Acquire 100% of Avanta Group",
-      "publishedAt": "Mon, 28 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369864/0/en/ecgi-holdings-enters-letter-of-intent-to-acquire-100-of-avanta-group.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Beyond Oil Expands Commercial Rollout of Top-Tier U.S. Supermarket Brand",
-      "publishedAt": "Mon, 28 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369866/0/en/beyond-oil-expands-commercial-rollout-of-top-tier-u-s-supermarket-brand.html",
-      "tickersMentioned": [
-        "U"
-      ]
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Silexion Therapeutics Reports Positive Preclinical Findings for SIL204, Demonstrating Key Mechanism for Endogenous Systemic Uptake in KRAS-Driven Cancers",
-      "publishedAt": "Mon, 28 Sep 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369868/0/en/silexion-therapeutics-reports-positive-preclinical-findings-for-sil204-demonstrating-key-mechanism-for-endogenous-systemic-uptake-in-kras-driven-cancers.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Virtualware completes the acquisition of British company Virtalis",
-      "publishedAt": "Mon, 28 Sep 2026 12:29 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369856/0/en/virtualware-completes-the-acquisition-of-british-company-virtalis.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Virtualware completa la adquisición de la empresa británica Virtalis",
-      "publishedAt": "Mon, 28 Sep 2026 12:29 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/09/28/3369856/0/es/virtualware-completa-la-adquisici%C3%B3n-de-la-empresa-brit%C3%A1nica-virtalis.html",
+      "title": "Milestone Scientific Highlights Building a Scalable Growth Platform for CompuFlo® Medical Business",
+      "publishedAt": "Tue, 29 Sep 2026 12:30 GMT",
+      "url": "https://www.globenewswire.com/news-release/2026/09/29/3370833/15852/en/milestone-scientific-highlights-building-a-scalable-growth-platform-for-compuflo-medical-business.html",
       "tickersMentioned": []
     }
   ]

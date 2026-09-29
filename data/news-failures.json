@@ -1,19 +1,25 @@
 {
-  "generatedAt": "2026-09-28T12:57:04.476Z",
+  "generatedAt": "2026-09-29T12:57:17.799Z",
   "hoursBack": 48,
   "tickersRequested": 94,
   "fatal": null,
-  "count": 2,
+  "count": 3,
   "failures": [
     {
       "label": "edgar:IWM",
       "error": "no CIK in SEC ticker map (foreign issuer or ETF)",
-      "at": "2026-09-28T12:56:52.110Z"
+      "at": "2026-09-29T12:57:04.968Z"
     },
     {
       "label": "edgar:QQQ",
       "error": "no CIK in SEC ticker map (foreign issuer or ETF)",
-      "at": "2026-09-28T12:56:57.405Z"
+      "at": "2026-09-29T12:57:10.683Z"
+    },
+    {
+      "label": "wire:PR Newswire",
+      "url": "https://www.prnewswire.com/rss/news-releases-list.rss",
+      "error": "HTTP 404",
+      "at": "2026-09-29T12:57:16.152Z"
     }
   ]
 }
