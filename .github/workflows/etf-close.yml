@@ -9,9 +9,11 @@ name: Vandelay ETF close pull
 on:
   schedule:
     # ~17:00 ET, after the 16:00 close + settle. GitHub cron is UTC and ignores
-    # DST, so both fire and the guard below keeps exactly one:
+    # DST, so both fire; the window guard admits late runs and the latestBar
+    # check keeps one commit:
     # 21:00Z = 17:00 EDT, 22:00Z = 17:00 EST. Same dual-cron convention as the
     # morning pull.
+    # A7/A6 2026-10-11: GitHub fires scheduled runs up to ~5 h late (runs #44-#51 at 00:21-01:54Z); the guard is a window, not an hour match, and dedupe is by latestBar.
     - cron: "0 21 * * 1-5"
     - cron: "0 22 * * 1-5"
   workflow_dispatch:
@@ -29,7 +31,7 @@ jobs:
         with:
           node-version: "20"
 
-      - name: Is this the 17:00 ET window
+      - name: Is this inside the close window
         id: window
         run: |
           if [ "${{ github.event_name }}" != "schedule" ]; then
@@ -38,11 +40,11 @@ jobs:
             exit 0
           fi
           ET_HOUR=$(TZ=America/New_York date +%H)
-          if [ "$ET_HOUR" = "17" ]; then
+          if [ "$ET_HOUR" -ge 17 ] || [ "$ET_HOUR" -lt 6 ]; then
             echo "run=yes" >> "$GITHUB_OUTPUT"
           else
             echo "run=no" >> "$GITHUB_OUTPUT"
-            echo "skip: ${ET_HOUR}:xx ET is outside the 17:00 ET close window"
+            echo "skip: ${ET_HOUR}:xx ET is inside 06:00-16:59 ET; the close window is 17:00-05:59 ET"
           fi
 
       # continue-on-error: an ETF fetch failure must never leave a broken commit
@@ -60,14 +62,21 @@ jobs:
         run: |
           git config user.name "vandelay-data-bot"
           git config user.email "actions@github.com"
-          # Stage ONLY the ETF artifact — never the rest of data/.
-          git add data/etf_bars.json
-          if git diff --staged --quiet; then
-            echo "no change to commit"
+          NEW=$(python3 -c "import json;print(json.load(open('data/etf_bars.json')).get('latestBar'))")
+          OLD=$(git show HEAD:data/etf_bars.json | python3 -c "import json,sys;print(json.load(sys.stdin).get('latestBar'))" 2>/dev/null || echo none)
+          if [ "$NEW" = "$OLD" ]; then
+            git checkout -- data/etf_bars.json
+            echo "no new bar: latestBar $NEW already committed"
           else
-            git commit -m "data: etf close pull $(date -u +%Y-%m-%d\ %H:%MZ)"
-            git pull --rebase --autostash origin main
-            git push
+            # Stage ONLY the ETF artifact — never the rest of data/.
+            git add data/etf_bars.json
+            if git diff --staged --quiet; then
+              echo "no change to commit"
+            else
+              git commit -m "data: etf close pull $(date -u +%Y-%m-%d\ %H:%MZ)"
+              git pull --rebase --autostash origin main
+              git push
+            fi
           fi
 
       - name: Report what landed

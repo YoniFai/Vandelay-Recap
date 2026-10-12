@@ -3,8 +3,10 @@ name: Vandelay morning data pull
 on:
   schedule:
     # 08:35 ET — after the 08:30 economic releases, so the whole 94-name screen sits
-    # on one side of them. GitHub cron is UTC and ignores DST, so both fire and the
-    # guard below keeps exactly one: 12:35Z = 08:35 EDT, 13:35Z = 08:35 EST.
+    # on one side of them. GitHub cron is UTC and ignores DST, so both fire; the
+    # window guard admits late runs and the once-per-day check keeps one commit:
+    # 12:35Z = 08:35 EDT, 13:35Z = 08:35 EST.
+    # A7/A6 2026-10-11: GitHub fires scheduled runs up to ~5 h late (runs #57-#62 at 18:28-19:29Z); the guard is a window, not an hour match, and dedupe is once per ET day.
     - cron: "35 12 * * 1-5"
     - cron: "35 13 * * 1-5"
   workflow_dispatch:
@@ -17,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v5
         with:
@@ -24,7 +28,7 @@ jobs:
 
       # One guard for the whole job, so market data and news never disagree about
       # whether this is the run of the day.
-      - name: Is this the 08:00 ET window
+      - name: Is this inside the pull window
         id: window
         run: |
           if [ "${{ github.event_name }}" != "schedule" ]; then
@@ -33,11 +37,23 @@ jobs:
             exit 0
           fi
           ET_HOUR=$(TZ=America/New_York date +%H)
-          if [ "$ET_HOUR" = "08" ]; then
-            echo "run=yes" >> "$GITHUB_OUTPUT"
+          if [ "$ET_HOUR" -ge 8 ] && [ "$ET_HOUR" -le 19 ]; then
+            LAST_CI=$(git log -1 --format=%cI -- data/screen.json)
+            if [ -z "$LAST_CI" ]; then
+              LAST_ET=none
+            else
+              LAST_ET=$(TZ=America/New_York date -d "$LAST_CI" +%F)
+            fi
+            TODAY_ET=$(TZ=America/New_York date +%F)
+            if [ "$LAST_ET" = "$TODAY_ET" ]; then
+              echo "run=no" >> "$GITHUB_OUTPUT"
+              echo "skip: already pulled today (${LAST_ET} ET)"
+            else
+              echo "run=yes" >> "$GITHUB_OUTPUT"
+            fi
           else
             echo "run=no" >> "$GITHUB_OUTPUT"
-            echo "skip: ${ET_HOUR}:xx ET is outside the 08:00 ET pull window"
+            echo "skip: ${ET_HOUR}:xx ET is outside the 08:00-19:59 ET pull window"
           fi
 
       # continue-on-error: a crash here must not abort the job, or data/ is left
