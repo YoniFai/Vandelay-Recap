@@ -1,289 +1,151 @@
 {
-  "generatedAt": "2026-10-05T13:00:14.586Z",
+  "generatedAt": "2026-10-12T01:36:21.891Z",
   "hoursBack": 48,
   "tickersRequested": 94,
-  "count": 40,
+  "count": 20,
   "rows": [
     {
       "source": "PR Newswire",
-      "title": "Palm Beach Royals Wrap Successful Inaugural Season with Playoff Run and National Spotlight",
-      "publishedAt": "Mon, 5 Oct 2026 12:58:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/palm-beach-royals-wrap-successful-inaugural-season-with-playoff-run-and-national-spotlight-302897387.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Fire Survivor's Grassroots Podcast #L.A. Rising Wins National Award, Named Finalist in International Signal Awards",
-      "publishedAt": "Mon, 5 Oct 2026 12:57:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/fire-survivors-grassroots-podcast-la-rising-wins-national-award-named-finalist-in-international-signal-awards-302898346.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "ProClad Launches Hybrid 2.0 Cookware",
-      "publishedAt": "Mon, 5 Oct 2026 12:56:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/proclad-launches-hybrid-2-0-cookware-302898358.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Author Jeff Namian Writes a Hilarious Book About the Downside of Buying a Co-op in New York City. He Buys an Apartment and Inherits a Family",
-      "publishedAt": "Mon, 5 Oct 2026 12:55:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/author-jeff-namian-writes-a-hilarious-book-about-the-downside-of-buying-a-co-op-in-new-york-city-he-buys-an-apartment-and-inherits-a-family-302897170.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Guidewire Names Dan Brown as Chief Product Officer",
-      "publishedAt": "Mon, 5 Oct 2026 12:55:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/guidewire-names-dan-brown-as-chief-product-officer-302897925.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "From LAN to LLM: Intersignal Brings the LAN Party Spirit to Local AI",
-      "publishedAt": "Mon, 5 Oct 2026 12:54:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/from-lan-to-llm-intersignal-brings-the-lan-party-spirit-to-local-ai-302898409.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "China Automotive Systems' Fully Redundant AP04 EPS Platform Meets ASPICE 4.0 CL2 in Joint Assessment by European OEM and UL",
-      "publishedAt": "Mon, 5 Oct 2026 12:52:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/china-automotive-systems-fully-redundant-ap04-eps-platform-meets-aspice-4-0-cl2-in-joint-assessment-by-european-oem-and-ul-302898408.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "TRIMAX Highlights Growing Demand for Fast-Deployable Power Ahead of NIBA Investor Presentation",
-      "publishedAt": "Mon, 5 Oct 2026 12:51:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/trimax-highlights-growing-demand-for-fast-deployable-power-ahead-of-niba-investor-presentation-302897169.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Metropolitan Dermatology Expands into Ocean County with New Barnegat, New Jersey Location",
-      "publishedAt": "Mon, 5 Oct 2026 12:51:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/metropolitan-dermatology-expands-into-ocean-county-with-new-barnegat-new-jersey-location-302897203.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "GenesisL1 Launches GL1F Crypto, a Decentralized On-Chain Machine Learning Studio for Cryptocurrency Market Analysis and Education",
-      "publishedAt": "Mon, 5 Oct 2026 12:50:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/genesisl1-launches-gl1f-crypto-a-decentralized-on-chain-machine-learning-studio-for-cryptocurrency-market-analysis-and-education-302898405.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "The Event Industry Power 50 Draws Record Voting, Passing 3,500 Ballots With Days Left",
-      "publishedAt": "Mon, 5 Oct 2026 12:48:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/the-event-industry-power-50-draws-record-voting-passing-3-500-ballots-with-days-left-302897979.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "More Than 80% of Boomers+ Want to Age at Home. Are Families Ready for the Financial, Physical and Emotional Costs?",
-      "publishedAt": "Mon, 5 Oct 2026 12:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/more-than-80-of-boomers-want-to-age-at-home-are-families-ready-for-the-financial-physical-and-emotional-costs-302894778.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Chungnam National University Researchers Develop Model for Predicting Growth Hormone Therapy Responses in Children With Short Stature",
-      "publishedAt": "Mon, 5 Oct 2026 12:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/chungnam-national-university-researchers-develop-model-for-predicting-growth-hormone-therapy-responses-in-children-with-short-stature-302897522.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Christmas Injury Lawyers Launches South Carolina Car Accident Law Knowledge Center",
-      "publishedAt": "Mon, 5 Oct 2026 12:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/christmas-injury-lawyers-launches-south-carolina-car-accident-law-knowledge-center-302897988.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "ThreatHunter.ai's JAXBERT SECURE Feeds Continuous Evidence Into Defense Contractors' SPRS Scores Under Full CMMC Self Attestation",
-      "publishedAt": "Mon, 5 Oct 2026 12:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/threathunterais-jaxbert-secure-feeds-continuous-evidence-into-defense-contractors-sprs-scores-under-full-cmmc-self-attestation-302898402.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "HIROMI ASAI's New Collection \"Akatsuki: Before the Dawn\" Arrives in Paris",
-      "publishedAt": "Mon, 5 Oct 2026 12:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/hiromi-asais-new-collection-akatsuki-before-the-dawn-arrives-in-paris-302897977.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "OMLYCLO® (omalizumab-igec), the first and only FDA-approved interchangeable biosimilar to XOLAIR®, now commercially available in the U.S.",
-      "publishedAt": "Mon, 5 Oct 2026 12:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/omlyclo-omalizumab-igec-the-first-and-only-fda-approved-interchangeable-biosimilar-to-xolair-now-commercially-available-in-the-us-302898400.html",
+      "title": "Blue Purpose Founder Glidewell Secures Third U.S. Patent for Advanced Emergency Response and Communications Technology",
+      "publishedAt": "Mon, 12 Oct 2026 01:28:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/blue-purpose-founder-glidewell-secures-third-us-patent-for-advanced-emergency-response-and-communications-technology-302905238.html",
       "tickersMentioned": [
         "U"
       ]
     },
     {
       "source": "PR Newswire",
-      "title": "Indiana American Water Returns Nearly $75 in PFAS Settlement Credits to Customers",
-      "publishedAt": "Mon, 5 Oct 2026 12:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/indiana-american-water-returns-nearly-75-in-pfas-settlement-credits-to-customers-302898401.html",
+      "title": "Arirang TV, Teams Up with Shindong, Kwon Hyuk-soo and Yujeong to Showcase Gyeongbuk's \"Flavors and Charms\" to the World!",
+      "publishedAt": "Mon, 12 Oct 2026 01:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/arirang-tv-teams-up-with-shindong-kwon-hyuk-soo-and-yujeong-to-showcase-gyeongbuks-flavors-and-charms-to-the-world-302903366.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Opportunity to Acquire Prime Class A Self-Storage Asset in Abilene, Texas; Call for Offers Due Oct. 14, 2026",
-      "publishedAt": "Mon, 5 Oct 2026 12:44:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/opportunity-to-acquire-prime-class-a-self-storage-asset-in-abilene-texas-call-for-offers-due-oct-14-2026-302897230.html",
+      "title": "Rihanna's Golden Dragon Gown has arrived: Guo Pei's Garden of Ethereal Realms Exhibition Opens at China National Silk Museum",
+      "publishedAt": "Mon, 12 Oct 2026 00:48:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/rihannas-golden-dragon-gown-has-arrived-guo-peis-garden-of-ethereal-realms-exhibition-opens-at-china-national-silk-museum-302905013.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "As Vacation Rental Booking Platforms Evolve, Holiday Travelers Are Rethinking How They Book",
-      "publishedAt": "Mon, 5 Oct 2026 12:44:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/as-vacation-rental-booking-platforms-evolve-holiday-travelers-are-rethinking-how-they-book-302897302.html",
+      "title": "Scage Future Provides Business Update on Deliveries, Technology Portfolio and Growth Initiatives; Initiates Regular Investor Communication",
+      "publishedAt": "Mon, 12 Oct 2026 00:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/scage-future-provides-business-update-on-deliveries-technology-portfolio-and-growth-initiatives-initiates-regular-investor-communication-302905225.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "LPL Financial Welcomes Praxis Financial Partners",
-      "publishedAt": "Mon, 05 Oct 2026 12:55 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374566/29579/en/lpl-financial-welcomes-praxis-financial-partners.html",
+      "source": "PR Newswire",
+      "title": "FF EAI Robotics Ecosystem Inc. (NASDAQ: FFR) Highlights Faraday Future Announcement: This Week's Investor Weekly Report from YT Jia Rescheduled to October 14; FFR and FFAI to Host Joint New Product Launch Event on October 14",
+      "publishedAt": "Mon, 12 Oct 2026 00:22:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-inc-nasdaq-ffr-highlights-faraday-future-announcement-this-weeks-investor-weekly-report-from-yt-jia-rescheduled-to-october-14-ffr-and-ffai-to-host-joint-new-product-launch-event-on-october-14-302905227.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "Immix Biopharma to Participate in the 45th Annual J.P. Morgan Healthcare Conference",
-      "publishedAt": "Mon, 05 Oct 2026 12:45 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374561/0/en/immix-biopharma-to-participate-in-the-45th-annual-j-p-morgan-healthcare-conference.html",
+      "source": "PR Newswire",
+      "title": "Purina and Mariska Hargitay Bring the Purple Leash Project to U.S. Soccer, Launch Limited-Edition Scarves Supporting Abuse Survivors and Pets",
+      "publishedAt": "Sun, 11 Oct 2026 20:21:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/purina-and-mariska-hargitay-bring-the-purple-leash-project-to-us-soccer-launch-limited-edition-scarves-supporting-abuse-survivors-and-pets-302905204.html",
+      "tickersMentioned": [
+        "U"
+      ]
+    },
+    {
+      "source": "PR Newswire",
+      "title": "STARMUS VIII désigne deux jeunes acteurs du changement comme lauréats de la médaille junior",
+      "publishedAt": "Sun, 11 Oct 2026 18:43:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/starmus-viii-designe-deux-jeunes-acteurs-du-changement-comme-laureats-de-la-medaille-junior-302905186.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "Endovia and Lupvindol BioSciences Announce FDA Determination that CannEpil® for Canine Bone Cancer Pain Qualifies as a Minor Use, Establishing Eligibility for Conditional Approval Pathway",
-      "publishedAt": "Mon, 05 Oct 2026 12:45 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374563/0/en/endovia-and-lupvindol-biosciences-announce-fda-determination-that-cannepil-for-canine-bone-cancer-pain-qualifies-as-a-minor-use-establishing-eligibility-for-conditional-approval-pa.html",
+      "source": "PR Newswire",
+      "title": "Nieuwe kansen voor wereldwijde samenwerking: Kexing Biopharm maakt indruk op CPHI Milan 2026",
+      "publishedAt": "Sun, 11 Oct 2026 18:35:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/nieuwe-kansen-voor-wereldwijde-samenwerking-kexing-biopharm-maakt-indruk-op-cphi-milan-2026-302905185.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "Greenland Mines Doubles AnorTech Stake to 19.9%; Extends Critical-Minerals Platform to Smelter-Grade Alumina, Lunar Construction Materials",
-      "publishedAt": "Mon, 05 Oct 2026 12:45 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374565/0/en/greenland-mines-doubles-anortech-stake-to-19-9-extends-critical-minerals-platform-to-smelter-grade-alumina-lunar-construction-materials.html",
+      "source": "PR Newswire",
+      "title": "Neue Chancen für die globale Zusammenarbeit: Kexing Biopharm glänzt auf der CPHI Mailand 2026",
+      "publishedAt": "Sun, 11 Oct 2026 18:26:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/neue-chancen-fur-die-globale-zusammenarbeit-kexing-biopharm-glanzt-auf-der-cphi-mailand-2026-302905184.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "FLEURY MICHON : Déclaration des opérations de rachat d'actions du 28 septembre au 02 octobre 2026",
-      "publishedAt": "Mon, 05 Oct 2026 12:44 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374560/0/fr/fleury-michon-d%C3%A9claration-des-op%C3%A9rations-de-rachat-d-actions-du-28-septembre-au-02-octobre-2026.html",
+      "source": "PR Newswire",
+      "title": "De nouvelles perspectives pour la coopération internationale : Kexing Biopharm se distingue au salon CPHI Milan 2026",
+      "publishedAt": "Sun, 11 Oct 2026 18:24:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/de-nouvelles-perspectives-pour-la-cooperation-internationale--kexing-biopharm-se-distingue-au-salon-cphi-milan-2026-302905183.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "Cyabra Awarded Positions on FBI Multi-Award IDIQ Contract for Specialized Open-Source Intelligence (OSINT) Tools",
-      "publishedAt": "Mon, 05 Oct 2026 12:40 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374559/0/en/cyabra-awarded-positions-on-fbi-multi-award-idiq-contract-for-specialized-open-source-intelligence-osint-tools.html",
+      "source": "PR Newswire",
+      "title": "Zoomlion développe son activité dans le secteur des machines minières grâce à la croissance de son chiffre d'affaires international",
+      "publishedAt": "Sun, 11 Oct 2026 18:13:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/zoomlion-developpe-son-activite-dans-le-secteur-des-machines-minieres-grace-a-la-croissance-de-son-chiffre-daffaires-international-302905182.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "Skyworks Completes Combination with Qorvo",
-      "publishedAt": "Mon, 05 Oct 2026 12:34 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374558/0/en/skyworks-completes-combination-with-qorvo.html",
+      "source": "PR Newswire",
+      "title": "Zoomlion baut Geschäft mit Bergbaumaschinen aus - internationale Umsätze steigen",
+      "publishedAt": "Sun, 11 Oct 2026 18:10:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/zoomlion-baut-geschaft-mit-bergbaumaschinen-aus--internationale-umsatze-steigen-302905181.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "Novo Nordisk A/S – Share repurchase programme",
-      "publishedAt": "Mon, 05 Oct 2026 12:32 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374555/0/en/novo-nordisk-a-s-share-repurchase-programme.html",
+      "source": "PR Newswire",
+      "title": "New SKYRIZI® (risankizumab-rzaa) and RINVOQ® (upadacitinib) Data Demonstrate Disease Control for Patients Living With Inflammatory Bowel Disease",
+      "publishedAt": "Sun, 11 Oct 2026 17:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/new-skyrizi-risankizumab-rzaa-and-rinvoq-upadacitinib-data-demonstrate-disease-control-for-patients-living-with-inflammatory-bowel-disease-302903888.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "Phunware to Present and Host One-on-One Meetings at the LD Micro 20th Annual Main Event on Tuesday, October 20, 2026",
-      "publishedAt": "Mon, 05 Oct 2026 12:31 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374553/0/en/phunware-to-present-and-host-one-on-one-meetings-at-the-ld-micro-20th-annual-main-event-on-tuesday-october-20-2026.html",
+      "source": "PR Newswire",
+      "title": "Sebela Pharmaceuticals to Present Positive Phase 3 Tegoprazan Data in Non-Erosive Reflux Disease (NERD) at the American College of Gastroenterology (ACG) 2026 Meeting",
+      "publishedAt": "Sun, 11 Oct 2026 17:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/sebela-pharmaceuticals-to-present-positive-phase-3-tegoprazan-data-in-non-erosive-reflux-disease-nerd-at-the-american-college-of-gastroenterology-acg-2026-meeting-302903109.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "AIB Data Centers to Present and Host One-on-One Meetings at the LD Micro 20th Annual Main Event on Wednesday, October 21, 2026",
-      "publishedAt": "Mon, 05 Oct 2026 12:31 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374554/0/en/aib-data-centers-to-present-and-host-one-on-one-meetings-at-the-ld-micro-20th-annual-main-event-on-wednesday-october-21-2026.html",
+      "source": "PR Newswire",
+      "title": "Celltrion to Present New Analyses of ZYMFENTRA® (infliximab-dyyb) in Crohn's Disease and Ulcerative Colitis at ACG 2026",
+      "publishedAt": "Sun, 11 Oct 2026 17:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/celltrion-to-present-new-analyses-of-zymfentra-infliximab-dyyb-in-crohns-disease-and-ulcerative-colitis-at-acg-2026-302903609.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "EM&amp;T to Host Operational Showcase of the Largest High-Performance Rare Earth Magnet Facility in Production Outside China on December 17, 2026, Anchoring Expansion to 10,000+ Metric Tons of Annual Capacity",
-      "publishedAt": "Mon, 05 Oct 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374532/0/en/em-t-to-host-operational-showcase-of-the-largest-high-performance-rare-earth-magnet-facility-in-production-outside-china-on-december-17-2026-anchoring-expansion-to-10-000-metric-to.html",
+      "source": "PR Newswire",
+      "title": "CELH Investors Have Opportunity to Lead Celsius Holdings, Inc. Securities Fraud Lawsuit",
+      "publishedAt": "Sun, 11 Oct 2026 17:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/celh-investors-have-opportunity-to-lead-celsius-holdings-inc-securities-fraud-lawsuit-302904989.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "Bicara Therapeutics Announces Inducement Grants under Nasdaq Listing Rule 5635(c)(4)",
-      "publishedAt": "Mon, 05 Oct 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374533/0/en/bicara-therapeutics-announces-inducement-grants-under-nasdaq-listing-rule-5635-c-4.html",
+      "source": "PR Newswire",
+      "title": "SHAREHOLDER ALERT: The M&amp;amp;A Class Action Firm Announces An Investigation of Option Care Health, Inc. (NASDAQ: OPCH)",
+      "publishedAt": "Sun, 11 Oct 2026 16:32:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/shareholder-alert-the-ma-class-action-firm-announces-an-investigation-of-option-care-health-inc-nasdaq-opch-302905161.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "Leonardo DRS Establishes UK Subsidiary and Launches Local Capabilities for its Tactical Radars including Full Manufacturing",
-      "publishedAt": "Mon, 05 Oct 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374534/0/en/leonardo-drs-establishes-uk-subsidiary-and-launches-local-capabilities-for-its-tactical-radars-including-full-manufacturing.html",
+      "source": "PR Newswire",
+      "title": "SHAREHOLDER ALERT: The M&amp;amp;A Class Action Firm Announces An Investigation of Pacira BioSciences, Inc. (NASDAQ: PCRX)",
+      "publishedAt": "Sun, 11 Oct 2026 16:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/shareholder-alert-the-ma-class-action-firm-announces-an-investigation-of-pacira-biosciences-inc-nasdaq-pcrx-302905162.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "Fiserv Small Business Index Shows Small Business Sales Rise in September as Back-to-School Lifts Retail",
-      "publishedAt": "Mon, 05 Oct 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374535/0/en/fiserv-small-business-index-shows-small-business-sales-rise-in-september-as-back-to-school-lifts-retail.html",
+      "source": "PR Newswire",
+      "title": "Duolingo, Inc. Class Action Lawsuit Seeks Recovery for Investors; December 7, 2026, Deadline",
+      "publishedAt": "Sun, 11 Oct 2026 15:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/duolingo-inc-class-action-lawsuit-seeks-recovery-for-investors-december-7-2026-deadline-302904987.html",
       "tickersMentioned": []
     },
     {
-      "source": "GlobeNewswire",
-      "title": "COMSTOCK RESOURCES, INC. ANNOUNCES THIRD QUARTER 2026 EARNINGS DATE AND  CONFERENCE CALL INFORMATION",
-      "publishedAt": "Mon, 05 Oct 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374536/0/en/comstock-resources-inc-announces-third-quarter-2026-earnings-date-and-conference-call-information.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Arbor Realty Trust Declares Preferred Stock Dividends",
-      "publishedAt": "Mon, 05 Oct 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374537/0/en/arbor-realty-trust-declares-preferred-stock-dividends.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Sky Quarry Announces Release of New CEO Interview Highlighting Nevada Refinery Restart, Growth Strategy and Path to Increased Production",
-      "publishedAt": "Mon, 05 Oct 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374538/0/en/sky-quarry-announces-release-of-new-ceo-interview-highlighting-nevada-refinery-restart-growth-strategy-and-path-to-increased-production.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Aprea Therapeutics to Present at October Conferences",
-      "publishedAt": "Mon, 05 Oct 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374539/0/en/aprea-therapeutics-to-present-at-october-conferences.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Duos Technologies Sells Its GPU-as-a-Service Entity to Axe Compute, Accelerating Its Shift to a Pure-Play AI Colocation Platform",
-      "publishedAt": "Mon, 05 Oct 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374540/12618/en/duos-technologies-sells-its-gpu-as-a-service-entity-to-axe-compute-accelerating-its-shift-to-a-pure-play-ai-colocation-platform.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "GlobeNewswire",
-      "title": "Mink Ventures Corporation Completes Drill Program at Rankin Property",
-      "publishedAt": "Mon, 05 Oct 2026 12:30 GMT",
-      "url": "https://www.globenewswire.com/news-release/2026/10/05/3374541/0/en/mink-ventures-corporation-completes-drill-program-at-rankin-property.html",
+      "source": "PR Newswire",
+      "title": "'NBA Cares x Sands Cares Community Impact Week 2026' Successfully Concludes",
+      "publishedAt": "Sun, 11 Oct 2026 14:44:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/nba-cares-x-sands-cares-community-impact-week-2026-successfully-concludes-302905164.html",
       "tickersMentioned": []
     }
   ]
