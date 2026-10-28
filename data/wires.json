@@ -1,7 +1,150 @@
 {
-  "generatedAt": "2026-10-27T18:17:18.186Z",
+  "generatedAt": "2026-10-28T00:46:25.165Z",
   "hoursBack": 48,
   "tickersRequested": 94,
-  "count": 0,
-  "rows": []
+  "count": 20,
+  "rows": [
+    {
+      "source": "PR Newswire",
+      "title": "Sam Feldt Headlines Heaven &amp; Hell at The Quin, Reimagining The Spirit of FLUXX For One Night",
+      "publishedAt": "Wed, 28 Oct 2026 00:25:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/sam-feldt-headlines-heaven--hell-at-the-quin-reimagining-the-spirit-of-fluxx-for-one-night-302921438.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "LabWare and Phizzle Introduce LabWare Loop to Connect Lab Instruments Directly to LIMS",
+      "publishedAt": "Wed, 28 Oct 2026 00:13:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/labware-and-phizzle-introduce-labware-loop-to-connect-lab-instruments-directly-to-lims-302921425.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "GRUPO ELEKTRA ANNOUNCES REVENUE OF Ps.53,297 MILLION AND EBITDA OF Ps.7,813 MILLION FOR THE THIRD QUARTER OF 2026",
+      "publishedAt": "Wed, 28 Oct 2026 00:12:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/grupo-elektra-announces-revenue-of-ps53-297-million-and-ebitda-of-ps7-813-million-for-the-third-quarter-of-2026--302921424.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Lynk Pharmaceuticals Reports Positive Long-Term Phase III Results for Zemprocitinib in bDMARDs-Inadequate Responders with Moderate-to-Severe Rheumatoid Arthritis",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/lynk-pharmaceuticals-reports-positive-long-term-phase-iii-results-for-zemprocitinib-in-bdmards-inadequate-responders-with-moderate-to-severe-rheumatoid-arthritis-302920881.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Strategic Resources Inc. Sets AGM Date and a Member of the Board of Directors Resigns",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/strategic-resources-inc-sets-agm-date-and-a-member-of-the-board-of-directors-resigns-302921000.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Princess Cruises Sets the Stage for Extraordinary Discovery Down Under in 2028-29",
+      "publishedAt": "Wed, 28 Oct 2026 00:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/princess-cruises-sets-the-stage-for-extraordinary-discovery-down-under-in-202829-302921361.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "SK hynix Announces 3Q26 Financial Results",
+      "publishedAt": "Tue, 27 Oct 2026 23:45:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/sk-hynix-announces-3q26-financial-results-302921407.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Shorenstein Acquires 148 Lafayette Street in Manhattan's SoHo Neighborhood",
+      "publishedAt": "Tue, 27 Oct 2026 23:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/shorenstein-acquires-148-lafayette-street-in-manhattans-soho-neighborhood-302921388.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "D-Wave Quantum Inc. (QBTS) Class Action Lawsuit Seeks Recovery for Investors; December 15, 2026 Deadline- Contact Kessler Topaz Meltzer &amp; Check, LLP",
+      "publishedAt": "Tue, 27 Oct 2026 23:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/d-wave-quantum-inc-qbts-class-action-lawsuit-seeks-recovery-for-investors-december-15-2026-deadline--contact-kessler-topaz-meltzer--check-llp-302919012.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "D-Wave Quantum Inc. (QBTS) Class Action Lawsuit Seeks Recovery for Investors; December 15, 2026 Deadline- Contact Kessler Topaz Meltzer &amp; Check, LLP",
+      "publishedAt": "Tue, 27 Oct 2026 23:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/d-wave-quantum-inc-qbts-class-action-lawsuit-seeks-recovery-for-investors-december-15-2026-deadline--contact-kessler-topaz-meltzer--check-llp-302917720.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Astellas and Audax Biosciences Enter Exclusive Option and License Agreement for DAX-044, a Novel Immune-Targeted IL-12 Antibody-Cytokine Fusion for Immuno-Oncology",
+      "publishedAt": "Tue, 27 Oct 2026 23:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/astellas-and-audax-biosciences-enter-exclusive-option-and-license-agreement-for-dax-044-a-novel-immune-targeted-il-12-antibody-cytokine-fusion-for-immuno-oncology-302920594.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Ports of Indiana awarded $11.2 million federal grant to modernize Burns Harbor port",
+      "publishedAt": "Tue, 27 Oct 2026 23:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/ports-of-indiana-awarded-11-2-million-federal-grant-to-modernize-burns-harbor-port-302921379.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "SANDS CHINA ANNOUNCES PRICING OF $1.0 BILLION OF SENIOR UNSECURED NOTES",
+      "publishedAt": "Tue, 27 Oct 2026 23:23:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/sands-china-announces-pricing-of-1-0-billion-of-senior-unsecured-notes-302921386.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "HIMS Deadline: HIMS Investors Have Opportunity to Lead Hims &amp; Hers Health, Inc. Securities Fraud Lawsuit",
+      "publishedAt": "Tue, 27 Oct 2026 23:13:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/hims-deadline-hims-investors-have-opportunity-to-lead-hims--hers-health-inc-securities-fraud-lawsuit-302919010.html",
+      "tickersMentioned": [
+        "HIMS"
+      ]
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Azazie Brings Wedding Dress Pop-Up to Phoenix on October 31",
+      "publishedAt": "Tue, 27 Oct 2026 23:01:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/azazie-brings-wedding-dress-pop-up-to-phoenix-on-october-31-302921374.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Arthur J. Gallagher &amp; Co. Announces Regular Fourth Quarter Dividend",
+      "publishedAt": "Tue, 27 Oct 2026 23:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/arthur-j-gallagher--co-announces-regular-fourth-quarter-dividend-302921370.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Cummings &amp; Cummings Law Reports 12-Fold Surge in California Business Departures Ahead of Proposition 40 Vote",
+      "publishedAt": "Tue, 27 Oct 2026 22:55:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/cummings--cummings-law-reports-12-fold-surge-in-california-business-departures-ahead-of-proposition-40-vote-302921371.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "The Chemours Company (CC) Investors: December 7, 2026, Deadline in Securities Fraud Class Action Lawsuit - Kessler Topaz Meltzer &amp; Check, LLP",
+      "publishedAt": "Tue, 27 Oct 2026 22:42:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/the-chemours-company-cc-investors-december-7-2026-deadline-in-securities-fraud-class-action-lawsuit---kessler-topaz-meltzer--check-llp-302918372.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "FCEL Investors Have Opportunity to Lead FuelCell Energy, Inc. Securities Fraud Lawsuit",
+      "publishedAt": "Tue, 27 Oct 2026 22:33:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/fcel-investors-have-opportunity-to-lead-fuelcell-energy-inc-securities-fraud-lawsuit-302919015.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Lufax Reports Third Quarter 2026 Financial Results",
+      "publishedAt": "Tue, 27 Oct 2026 22:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/lufax-reports-third-quarter-2026-financial-results-302920830.html",
+      "tickersMentioned": []
+    }
+  ]
 }
