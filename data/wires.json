@@ -1,148 +1,158 @@
 {
-  "generatedAt": "2026-11-10T20:02:31.053Z",
+  "generatedAt": "2026-11-11T01:31:23.722Z",
   "hoursBack": 48,
   "tickersRequested": 94,
   "count": 20,
   "rows": [
     {
       "source": "PR Newswire",
-      "title": "Jason Betesh Joins Andover Properties as Chief Operating Officer",
-      "publishedAt": "Tue, 10 Nov 2026 20:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/jason-betesh-joins-andover-properties-as-chief-operating-officer-302935414.html",
+      "title": "ASTS Deadline: ASTS Investors Have Opportunity to Lead AST SpaceMobile, Inc. Securities Fraud Lawsuit",
+      "publishedAt": "Wed, 11 Nov 2026 01:19:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/asts-deadline-asts-investors-have-opportunity-to-lead-ast-spacemobile-inc-securities-fraud-lawsuit-302935592.html",
+      "tickersMentioned": [
+        "ASTS"
+      ]
+    },
+    {
+      "source": "PR Newswire",
+      "title": "TIGR Investors Have Opportunity to Lead UP Fintech Holding Limited Securities Fraud Lawsuit Filed by The Rosen Law Firm",
+      "publishedAt": "Wed, 11 Nov 2026 01:18:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/tigr-investors-have-opportunity-to-lead-up-fintech-holding-limited-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302935587.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Tianji Intelligence Debuts 21-DoF Dexterous Hand at CoRL 2026 as NVIDIA Demos GR00T 2 on Custom Marvin Pro",
-      "publishedAt": "Tue, 10 Nov 2026 20:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/tianji-intelligence-debuts-21-dof-dexterous-hand-at-corl-2026-as-nvidia-demos-gr00t-2-on-custom-marvin-pro-302934702.html",
+      "title": "K-beauty na targach CES: Kolmar Korea jako pierwsze przedsiębiorstwo zdobywa nagrodę Best of Innovation w kategorii Beauty Tech dwa lata z rzędu",
+      "publishedAt": "Wed, 11 Nov 2026 01:16:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/k-beauty-na-targach-ces-kolmar-korea-jako-pierwsze-przedsibiorstwo-zdobywa-nagrod-best-of-innovation-w-kategorii-beauty-tech-dwa-lata-z-rzdu-302935745.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Oracle Celebrates Groundbreaking on Future Global Headquarters in Nashville",
-      "publishedAt": "Tue, 10 Nov 2026 20:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/oracle-celebrates-groundbreaking-on-future-global-headquarters-in-nashville-302935477.html",
+      "title": "BIDU Deadline: BIDU Investors Have Opportunity to Lead Baidu, Inc. Securities Fraud Lawsuit",
+      "publishedAt": "Wed, 11 Nov 2026 01:13:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/bidu-deadline-bidu-investors-have-opportunity-to-lead-baidu-inc-securities-fraud-lawsuit-302935584.html",
+      "tickersMentioned": [
+        "BIDU"
+      ]
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Mile High Holidays Brings Seasonal Cheer for the Whole Family",
+      "publishedAt": "Wed, 11 Nov 2026 01:10:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/mile-high-holidays-brings-seasonal-cheer-for-the-whole-family-302935653.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Greenberg Traurig Further Expands London Energy, Infrastructure Capabilities with Dominic O'Brien",
-      "publishedAt": "Tue, 10 Nov 2026 20:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-further-expands-london-energy-infrastructure-capabilities-with-dominic-obrien-302935425.html",
+      "title": "SAMILBIO Moves to Launch 'NpillAI' This Year, Pairing AI Consultation with Pharmacist Review",
+      "publishedAt": "Wed, 11 Nov 2026 01:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/samilbio-moves-to-launch-npillai-this-year-pairing-ai-consultation-with-pharmacist-review-302934637.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "BKF Acquires D R Consultants &amp; Designers, Expanding Infrastructure Services in Southern California",
-      "publishedAt": "Tue, 10 Nov 2026 20:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/bkf-acquires-d-r-consultants--designers-expanding-infrastructure-services-in-southern-california-302935431.html",
+      "title": "HanAll F&amp;B Pursues U.S. Food Market Entry, Moves to Build Foreign-Language Promotion and Distribution Channels",
+      "publishedAt": "Wed, 11 Nov 2026 01:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/hanall-fb-pursues-us-food-market-entry-moves-to-build-foreign-language-promotion-and-distribution-channels-302934631.html",
+      "tickersMentioned": [
+        "U"
+      ]
+    },
+    {
+      "source": "PR Newswire",
+      "title": "CJ 4DPLEX BRINGS NMIXX WORLD TOUR TO CINEMAS WORLDWIDE IN FIRST-EVER SCREENX LIVE K-POP CONCERT EVENT",
+      "publishedAt": "Wed, 11 Nov 2026 01:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/cj-4dplex-brings-nmixx-world-tour-to-cinemas-worldwide-in-first-ever-screenx-live-k-pop-concert-event-302935712.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Aviation Capital Group Delivers Airbus A321neo to Wizz Air",
-      "publishedAt": "Tue, 10 Nov 2026 20:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/aviation-capital-group-delivers-airbus-a321neo-to-wizz-air-302935305.html",
+      "title": "NIDS Co., Ltd. Expands 'Airvom' Supply to High-Traffic Facilities, Strengthening Its Air Quality Management Solutions Business",
+      "publishedAt": "Wed, 11 Nov 2026 01:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/nids-co-ltd-expands-airvom-supply-to-high-traffic-facilities-strengthening-its-air-quality-management-solutions-business-302934649.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Jet Linx Invites Premier Part 135 Operators to Join New Operator Alliance",
-      "publishedAt": "Tue, 10 Nov 2026 20:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/jet-linx-invites-premier-part-135-operators-to-join-new-operator-alliance-302935475.html",
+      "title": "Ladera Resort, Where the Pitons Become the Fourth Wall, Wins Best Design at the 2027 Condé Nast Johansens Awards for Excellence",
+      "publishedAt": "Wed, 11 Nov 2026 00:48:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/ladera-resort-where-the-pitons-become-the-fourth-wall-wins-best-design-at-the-2027-conde-nast-johansens-awards-for-excellence-302935691.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Artmarket.com (Artprice): Umsatzanstieg im 3. Quartal 2026; weltweite Einführung von Artprice Visual Search® Anfang Dezember 2026 - der „Quantensprung\" einer 30-jährigen „AI-First\"-Strategie",
-      "publishedAt": "Tue, 10 Nov 2026 19:57:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/artmarketcom-artprice-umsatzanstieg-im-3-quartal-2026-weltweite-einfuhrung-von-artprice-visual-search-anfang-dezember-2026--der-quantensprung-einer-30-jahrigen-ai-first-strategie-302935478.html",
+      "title": "Společnost Geely Farizon uvádí v Německu model SV modelového roku 2027 a přináší místním zákazníkům integrované služby v oblasti osobních a užitkových vozidel",
+      "publishedAt": "Wed, 11 Nov 2026 00:36:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/spolenost-geely-farizon-uvadi-v-nmecku-model-sv-modeloveho-roku-2027-a-pinai-mistnim-zakaznikm-integrovane-sluby-v-oblasti-osobnich-a-uitkovych-vozidel-302935717.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Gildan Activewear Inc. (GIL) Investor Alert: GIL Stock Drops Further Amid Poor Q3 Earnings; December 14, 2026 Deadline - Contact Kessler Topaz Meltzer &amp; Check, LLP",
-      "publishedAt": "Tue, 10 Nov 2026 19:57:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/gildan-activewear-inc-gil-investor-alert-gil-stock-drops-further-amid-poor-q3-earnings-december-14-2026-deadline---contact-kessler-topaz-meltzer--check-llp-302935342.html",
+      "title": "AVXL Deadline: AVXL Investors Have Opportunity to Lead Anavex Life Sciences Corp. Securities Fraud Lawsuit Filed by The Rosen Law Firm",
+      "publishedAt": "Wed, 11 Nov 2026 00:29:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/avxl-deadline-avxl-investors-have-opportunity-to-lead-anavex-life-sciences-corp-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302935579.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Huawei, 2026 Gartner® Magic Quadrant™ Altyapı Platformu Tüketim Hizmetleri Raporu'nda Lider Olarak Gösterildi",
-      "publishedAt": "Tue, 10 Nov 2026 19:53:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/huawei-2026-gartner-magic-quadrant-altyap-platformu-tuketim-hizmetleri-raporunda-lider-olarak-gosterildi-302935470.html",
+      "title": "Largest Kidney Group Honors Veterans and Families on Veterans Day",
+      "publishedAt": "Wed, 11 Nov 2026 00:17:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/largest-kidney-group-honors-veterans-and-families-on-veterans-day-302935707.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "7 Outdoor Learning Activities Preschoolers Can Try Close to Home",
-      "publishedAt": "Tue, 10 Nov 2026 19:51:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/7-outdoor-learning-activities-preschoolers-can-try-close-to-home-302935418.html",
+      "title": "Valet Living nombra a Rafael Andres Diaz-Granados presidente del Consejo de Administración y director ejecutivo",
+      "publishedAt": "Wed, 11 Nov 2026 00:06:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/valet-living-nombra-a-rafael-andres-diaz-granados-presidente-del-consejo-de-administracion-y-director-ejecutivo-881939291.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "MemryX AI Unveils MX3+, Scaling AI Inference Beyond 1 POPS",
-      "publishedAt": "Tue, 10 Nov 2026 19:51:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/memryx-ai-unveils-mx3-scaling-ai-inference-beyond-1-pops-302935468.html",
+      "title": "SeAH Woon Hyung Lee Foundation Hosts Opera Il Trovatore in Commitment to the Fine Arts",
+      "publishedAt": "Wed, 11 Nov 2026 00:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/seah-woon-hyung-lee-foundation-hosts-opera-il-trovatore-in-commitment-to-the-fine-arts-302934539.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "HitPaw Edimakor Launches 2026 Black Friday Sale with Up to 70% Off!",
-      "publishedAt": "Tue, 10 Nov 2026 19:50:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/hitpaw-edimakor-launches-2026-black-friday-sale-with-up-to-70-off-302935348.html",
+      "title": "Rosen Law Firm Encourages Barclays PLC Investors to Inquire About Securities Class Action Investigation - BCS",
+      "publishedAt": "Tue, 10 Nov 2026 23:50:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-barclays-plc-investors-to-inquire-about-securities-class-action-investigation--bcs-302935573.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Gary Brecka's The Ultimate Brew opens online orders nationwide after its Sprouts exclusive",
-      "publishedAt": "Tue, 10 Nov 2026 19:48:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/gary-breckas-the-ultimate-brew-opens-online-orders-nationwide-after-its-sprouts-exclusive-302935464.html",
+      "title": "Greenberg Traurig Advises TNL Mediagene in Management Buyout, Equity Transaction",
+      "publishedAt": "Tue, 10 Nov 2026 23:50:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-advises-tnl-mediagene-in-management-buyout-equity-transaction-302935657.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "Quantinuum y RIKEN amplían su colaboración",
-      "publishedAt": "Tue, 10 Nov 2026 19:48:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/quantinuum-y-riken-amplian-su-colaboracion-302935465.html",
+      "title": "Rosen Law Firm Encourages Build-A-Bear Workshop, Inc. Investors to Inquire About Securities Class Action Investigation",
+      "publishedAt": "Tue, 10 Nov 2026 23:48:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/rosen-law-firm-encourages-build-a-bear-workshop-inc-investors-to-inquire-about-securities-class-action-investigation-302935569.html",
       "tickersMentioned": []
     },
     {
       "source": "PR Newswire",
-      "title": "/C O R R E C T I O N - Nathaniel Bradley/",
-      "publishedAt": "Tue, 10 Nov 2026 19:48:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/datavault-ai-founder-nathaniel-bradley-sues-board-302932495.html",
-      "tickersMentioned": []
+      "title": "GOOGL, GOOG Deadline: GOOGL, GOOG Investors Have Opportunity to Lead Alphabet Inc. Securities Fraud Lawsuit",
+      "publishedAt": "Tue, 10 Nov 2026 23:47:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/googl-goog-deadline-googl-goog-investors-have-opportunity-to-lead-alphabet-inc-securities-fraud-lawsuit-302935566.html",
+      "tickersMentioned": [
+        "GOOGL"
+      ]
     },
     {
       "source": "PR Newswire",
-      "title": "Milliken &amp; Company erhält zum fünften Mal in Folge die EcoVadis-Gold-Bewertung",
-      "publishedAt": "Tue, 10 Nov 2026 19:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/milliken--company-erhalt-zum-funften-mal-in-folge-die-ecovadis-gold-bewertung-302935461.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "In HelloNation, Attorney Chaile Allen of Abilene, TX, Explains What to Do After a Car Wreck",
-      "publishedAt": "Tue, 10 Nov 2026 19:46:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/in-hellonation-attorney-chaile-allen-of-abilene-tx-explains-what-to-do-after-a-car-wreck-302935459.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Michaels® Launches \"Countdown to Craftsmas\" Advent Calendar with 25 Days of Screen-Free Holiday Projects and a $10,000 Grand Prize",
-      "publishedAt": "Tue, 10 Nov 2026 19:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/michaels-launches-countdown-to-craftsmas-advent-calendar-with-25-days-of-screen-free-holiday-projects-and-a-10-000-grand-prize-302935458.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Milliken &amp; Company obtient la certification EcoVadis Or pour la cinquième année consécutive",
-      "publishedAt": "Tue, 10 Nov 2026 19:44:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/milliken--company-obtient-la-certification-ecovadis-or-pour-la-cinquieme-annee-consecutive-302935456.html",
-      "tickersMentioned": []
+      "title": "NVDA Investors Have Opportunity to Lead NVIDIA Corporation Securities Fraud Lawsuit Filed by The Rosen Law Firm",
+      "publishedAt": "Tue, 10 Nov 2026 23:46:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/nvda-investors-have-opportunity-to-lead-nvidia-corporation-securities-fraud-lawsuit-filed-by-the-rosen-law-firm-302935564.html",
+      "tickersMentioned": [
+        "NVDA"
+      ]
     }
   ]
 }
