@@ -1,59 +1,59 @@
 {
-  "date": "2026-11-11",
-  "generatedAt": "2026-11-11T19:53:45.835Z",
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T02:32:46.799Z",
   "tickersRequested": 94,
-  "runSeconds": 287,
+  "runSeconds": 284,
   "fatal": null,
   "hosts": {
     "api.nasdaq.com": {
       "circuitOpen": true,
       "reason": "timeout after 15s",
-      "openedAt": "2026-11-11T19:53:45.834Z"
+      "openedAt": "2026-11-12T02:32:46.798Z"
     }
   },
   "count": 7,
   "failures": [
     {
       "label": "earnings-calendar",
-      "url": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-11",
+      "url": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-12",
       "error": "timeout after 15s",
-      "at": "2026-11-11T19:49:52.224Z"
+      "at": "2026-11-12T02:28:53.186Z"
     },
     {
       "label": "shorts:AAPL",
       "url": "https://api.nasdaq.com/api/quote/AAPL/short-interest?assetclass=stocks",
       "error": "timeout after 15s",
-      "at": "2026-11-11T19:50:38.825Z"
+      "at": "2026-11-12T02:29:39.789Z"
     },
     {
       "label": "shorts:ACHR",
       "url": "https://api.nasdaq.com/api/quote/ACHR/short-interest?assetclass=stocks",
       "error": "timeout after 15s",
-      "at": "2026-11-11T19:51:25.576Z"
+      "at": "2026-11-12T02:30:26.542Z"
     },
     {
       "label": "shorts:ADBE",
       "url": "https://api.nasdaq.com/api/quote/ADBE/short-interest?assetclass=stocks",
       "error": "timeout after 15s",
-      "at": "2026-11-11T19:52:12.331Z"
+      "at": "2026-11-12T02:31:13.295Z"
     },
     {
       "label": "shorts:AMD",
       "url": "https://api.nasdaq.com/api/quote/AMD/short-interest?assetclass=stocks",
       "error": "timeout after 15s",
-      "at": "2026-11-11T19:52:59.082Z"
+      "at": "2026-11-12T02:32:00.047Z"
     },
     {
       "label": "host-down:api.nasdaq.com",
       "url": "api.nasdaq.com",
       "error": "6 consecutive failures (last: timeout after 15s) — remaining calls skipped",
-      "at": "2026-11-11T19:53:45.834Z"
+      "at": "2026-11-12T02:32:46.798Z"
     },
     {
       "label": "shorts:AMZN",
       "url": "https://api.nasdaq.com/api/quote/AMZN/short-interest?assetclass=stocks",
       "error": "timeout after 15s",
-      "at": "2026-11-11T19:53:45.834Z"
+      "at": "2026-11-12T02:32:46.798Z"
     }
   ]
 }
