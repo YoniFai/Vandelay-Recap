@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T01:46:19.027Z",
+  "generatedAt": "2026-11-16T22:32:39.424Z",
   "hoursBack": 48,
   "tickersRequested": 94,
   "fatal": null,
@@ -8,18 +8,18 @@
     {
       "label": "edgar:IWM",
       "error": "no CIK in SEC ticker map (foreign issuer or ETF)",
-      "at": "2026-11-14T01:46:06.401Z"
+      "at": "2026-11-16T22:32:28.609Z"
     },
     {
       "label": "edgar:QQQ",
       "error": "no CIK in SEC ticker map (foreign issuer or ETF)",
-      "at": "2026-11-14T01:46:12.111Z"
+      "at": "2026-11-16T22:32:33.669Z"
     },
     {
       "label": "wire:GlobeNewswire",
       "url": "https://www.globenewswire.com/RssFeed/orgclass/1/feedTitle/GlobeNewswire%20-%20News%20about%20Public%20Companies",
       "error": "HTTP 403",
-      "at": "2026-11-14T01:46:17.639Z"
+      "at": "2026-11-16T22:32:38.370Z"
     }
   ]
 }
