@@ -1,9 +1,114 @@
 {
-  "generatedAt": "2026-11-20T20:44:54.148Z",
+  "generatedAt": "2026-11-20T21:35:04.860Z",
   "hoursBack": 48,
   "tickersRequested": 94,
   "count": 20,
   "rows": [
+    {
+      "source": "PR Newswire",
+      "title": "S&amp;P Global to Present at UBS Global Technology and AI Conference on December 2, 2026",
+      "publishedAt": "Fri, 20 Nov 2026 21:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/sp-global-to-present-at-ubs-global-technology-and-ai-conference-on-december-2-2026-302947340.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Greenberg Traurig Expands Data Privacy &amp; Cybersecurity Practice With Amber Mednick in Denver",
+      "publishedAt": "Fri, 20 Nov 2026 21:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/greenberg-traurig-expands-data-privacy--cybersecurity-practice-with-amber-mednick-in-denver-302947131.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "S&amp;P Global to Present at Goldman Sachs Financial Services Conference on December 8, 2026",
+      "publishedAt": "Fri, 20 Nov 2026 21:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/sp-global-to-present-at-goldman-sachs-financial-services-conference-on-december-8-2026-302947341.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "BON Unveils Joint Lab for Natural Ingredients &amp; Biomanufacturing with China Oat Group, Advancing Life Sciences Innovation",
+      "publishedAt": "Fri, 20 Nov 2026 21:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/bon-unveils-joint-lab-for-natural-ingredients--biomanufacturing-with-china-oat-group-advancing-life-sciences-innovation-302946673.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Atalanta CEO Anjana Rajan Addresses Software Understanding Gap at The National Academies Cyber Resilience Forum",
+      "publishedAt": "Fri, 20 Nov 2026 21:26:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/atalanta-ceo-anjana-rajan-addresses-software-understanding-gap-at-the-national-academies-cyber-resilience-forum-302947339.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "abrdn Income Credit Strategies Fund (ACP) Announces Upcoming 1-for-4 Reverse Stock Split",
+      "publishedAt": "Fri, 20 Nov 2026 21:17:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/abrdn-income-credit-strategies-fund-acp-announces-upcoming-1-for-4-reverse-stock-split-302946182.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Tampa General Hospital Honored With 2026 Inno Award for Food as Medicine Initiative by the Tampa Bay Business Journal",
+      "publishedAt": "Fri, 20 Nov 2026 21:10:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/tampa-general-hospital-honored-with-2026-inno-award-for-food-as-medicine-initiative-by-the-tampa-bay-business-journal-302947331.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Jalisco Connects the World's Cuisines Through The 50 Best Gastronomic Experiences",
+      "publishedAt": "Fri, 20 Nov 2026 21:10:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/jalisco-connects-the-worlds-cuisines-through-the-50-best-gastronomic-experiences-302947332.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Verlinvest Announces Commencement of Technical Tender Offer to Facilitate Buyout of Joint Venture Partner's Interest in Oatly Group AB",
+      "publishedAt": "Fri, 20 Nov 2026 21:06:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/verlinvest-announces-commencement-of-technical-tender-offer-to-facilitate-buyout-of-joint-venture-partners-interest-in-oatly-group-ab-302947330.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "TEN Holdings, Inc. Announces Closing of $1.0 Million Offering",
+      "publishedAt": "Fri, 20 Nov 2026 21:05:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/ten-holdings-inc-announces-closing-of-1-0-million-offering-302947305.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Tessera Announces Receipt of NYSE American Delisting Notice",
+      "publishedAt": "Fri, 20 Nov 2026 21:01:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/tessera-announces-receipt-of-nyse-american-delisting-notice-302945805.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "GENERAL PRESIDENT O'BRIEN TO JOIN PEPSI TEAMSTERS AHEAD OF POTENTIAL STRIKE",
+      "publishedAt": "Fri, 20 Nov 2026 21:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/general-president-obrien-to-join-pepsi-teamsters-ahead-of-potential-strike-302947326.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Mars Announces Pricing Terms of Offers to Purchase for Cash Certain of its Senior Notes",
+      "publishedAt": "Fri, 20 Nov 2026 20:57:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/mars-announces-pricing-terms-of-offers-to-purchase-for-cash-certain-of-its-senior-notes-302947328.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "OU uses $44M in federal funding to improve healthcare in rural Oklahoma",
+      "publishedAt": "Fri, 20 Nov 2026 20:56:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/ou-uses-44m-in-federal-funding-to-improve-healthcare-in-rural-oklahoma-302947327.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "CCTV4 : Qu'est-ce qui perpétue une lignée culturelle millénaire ? La Enduring Chinese Academies sera bientôt disponible",
+      "publishedAt": "Fri, 20 Nov 2026 20:44:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/cctv4--quest-ce-qui-perpetue-une-lignee-culturelle-millenaire--la-enduring-chinese-academies-sera-bientot-disponible-302947322.html",
+      "tickersMentioned": []
+    },
     {
       "source": "PR Newswire",
       "title": "78% of Workers Have Done Only the Minimum Required to Keep Their Job",
@@ -37,111 +142,6 @@
       "title": "Faex Health Announces Investigational AI Screening Capabilities for Ebola and H. pylori, Expanding Gut Health Platform to 18 Conditions",
       "publishedAt": "Fri, 20 Nov 2026 20:26:00 +0000",
       "url": "https://www.prnewswire.com/news-releases/faex-health-announces-investigational-ai-screening-capabilities-for-ebola-and-h-pylori-expanding-gut-health-platform-to-18-conditions-302947230.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "SEIA Showcases Next-Generation Advisor Development Strategy at Schwab IMPACT, with Advisors Under 40 Managing an Average of $166 Million in Assets",
-      "publishedAt": "Fri, 20 Nov 2026 20:26:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/seia-showcases-next-generation-advisor-development-strategy-at-schwab-impact-with-advisors-under-40-managing-an-average-of-166-million-in-assets-302947315.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "JA ESS führt eine hauseigene Batteriepass-Plattform zur Unterstützung der EU-Konformität ein",
-      "publishedAt": "Fri, 20 Nov 2026 20:19:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/ja-ess-fuhrt-eine-hauseigene-batteriepass-plattform-zur-unterstutzung-der-eu-konformitat-ein-302947312.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Rosalind Franklin University Celebrates Scholarship Campaign With $23.8 Million Raised",
-      "publishedAt": "Fri, 20 Nov 2026 20:17:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/rosalind-franklin-university-celebrates-scholarship-campaign-with-23-8-million-raised-302947311.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Pinnacol Assurance Wins Denver Metro Chamber's Business Impact Award for Corporate Social Responsibility",
-      "publishedAt": "Fri, 20 Nov 2026 20:17:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/pinnacol-assurance-wins-denver-metro-chambers-business-impact-award-for-corporate-social-responsibility-302947310.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Huawei präsentiert auf dem Singapore FinTech Festival 2026 seine Skalierungsmöglichkeiten für Finanz-KI",
-      "publishedAt": "Fri, 20 Nov 2026 20:15:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/huawei-prasentiert-auf-dem-singapore-fintech-festival-2026-seine-skalierungsmoglichkeiten-fur-finanz-ki-302947309.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Huawei dévoile ses capacités de mise à l'échelle en matière d'IA financière au Singapore FinTech Festival 2026",
-      "publishedAt": "Fri, 20 Nov 2026 20:13:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/huawei-devoile-ses-capacites-de-mise-a-lechelle-en-matiere-dia-financiere-au-singapore-fintech-festival-2026-302947308.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "EL MERCADO NORTHGATE GONZÁLEZ ABRE SUS PUERTAS EN STANTON, CELEBRANDO LOS SABORES MEXICANOS Y LA GRATITUD DE LA COMUNIDAD.",
-      "publishedAt": "Fri, 20 Nov 2026 20:12:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/el-mercado-northgate-gonzalez-abre-sus-puertas-en-stanton-celebrando-los-sabores-mexicanos-y-la-gratitud-de-la-comunidad--811651936.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "CLASSIC CHEVROLET TO DONATE $1,145,040 TO 13 LOCAL NONPROFITS AT THANKSGIVING LUNCHEON",
-      "publishedAt": "Fri, 20 Nov 2026 20:08:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/classic-chevrolet-to-donate-1-145-040-to-13-local-nonprofits-at-thanksgiving-luncheon-302947303.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Dallas College Named to TIME's Inaugural List of America's Best Community Colleges",
-      "publishedAt": "Fri, 20 Nov 2026 20:05:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/dallas-college-named-to-times-inaugural-list-of-americas-best-community-colleges-302947301.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "What Does Lennar Corporation's 6.73% Stock Drop Mean for Investors? The Law Offices of Howard G. Smith Outlines Securities Fraud Class Action Lead Plaintiff Deadline",
-      "publishedAt": "Fri, 20 Nov 2026 20:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/what-does-lennar-corporations-6-73-stock-drop-mean-for-investors-the-law-offices-of-howard-g-smith-outlines-securities-fraud-class-action-lead-plaintiff-deadline-302946380.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Webster First CEO highlights financial literacy gap in Worcester Business Journal thought leadership article",
-      "publishedAt": "Fri, 20 Nov 2026 20:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/webster-first-ceo-highlights-financial-literacy-gap-in-worcester-business-journal-thought-leadership-article-302946458.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "The Thanksgiving Reunion That Turned Gratitude Into Color -- Inside CASEKOO Founder Ralph Ye's Montana Story",
-      "publishedAt": "Fri, 20 Nov 2026 20:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/the-thanksgiving-reunion-that-turned-gratitude-into-color--inside-casekoo-founder-ralph-yes-montana-story-302946994.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Guangzhou Nansha: El giro estratégico de GBA para el comercio en Asia-Pacífico",
-      "publishedAt": "Fri, 20 Nov 2026 19:58:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/guangzhou-nansha-el-giro-estrategico-de-gba-para-el-comercio-en-asia-pacifico-302947299.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Teva Investigation Notice: SueWallSt Notifies Investors of Pending Investigation Into Teva (TEVA)",
-      "publishedAt": "Fri, 20 Nov 2026 19:55:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/teva-investigation-notice-suewallst-notifies-investors-of-pending-investigation-into-teva-teva-302947211.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Huawei, Singapur FinTech Festivali 2026'da Finansal Yapay Zekâ Ölçeklendirme Yeteneklerini Tanıttı",
-      "publishedAt": "Fri, 20 Nov 2026 19:52:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/huawei-singapur-fintech-festivali-2026da-finansal-yapay-zeka-olceklendirme-yeteneklerini-tantt-302947297.html",
       "tickersMentioned": []
     }
   ]

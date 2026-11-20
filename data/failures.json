@@ -1,6 +1,6 @@
 {
   "date": "2026-11-20",
-  "generatedAt": "2026-11-20T20:44:33.549Z",
+  "generatedAt": "2026-11-20T21:34:44.479Z",
   "tickersRequested": 94,
   "runSeconds": 282,
   "fatal": null,
@@ -8,7 +8,7 @@
     "api.nasdaq.com": {
       "circuitOpen": true,
       "reason": "timeout after 15s",
-      "openedAt": "2026-11-20T20:44:33.548Z"
+      "openedAt": "2026-11-20T21:34:44.477Z"
     }
   },
   "count": 7,
@@ -17,43 +17,43 @@
       "label": "earnings-calendar",
       "url": "https://api.nasdaq.com/api/calendar/earnings?date=2026-11-20",
       "error": "timeout after 15s",
-      "at": "2026-11-20T20:40:39.935Z"
+      "at": "2026-11-20T21:30:50.863Z"
     },
     {
       "label": "shorts:AAPL",
       "url": "https://api.nasdaq.com/api/quote/AAPL/short-interest?assetclass=stocks",
       "error": "timeout after 15s",
-      "at": "2026-11-20T20:41:26.537Z"
+      "at": "2026-11-20T21:31:37.465Z"
     },
     {
       "label": "shorts:ACHR",
       "url": "https://api.nasdaq.com/api/quote/ACHR/short-interest?assetclass=stocks",
       "error": "timeout after 15s",
-      "at": "2026-11-20T20:42:13.288Z"
+      "at": "2026-11-20T21:32:24.218Z"
     },
     {
       "label": "shorts:ADBE",
       "url": "https://api.nasdaq.com/api/quote/ADBE/short-interest?assetclass=stocks",
       "error": "timeout after 15s",
-      "at": "2026-11-20T20:43:00.041Z"
+      "at": "2026-11-20T21:33:10.972Z"
     },
     {
       "label": "shorts:AMD",
       "url": "https://api.nasdaq.com/api/quote/AMD/short-interest?assetclass=stocks",
       "error": "timeout after 15s",
-      "at": "2026-11-20T20:43:46.795Z"
+      "at": "2026-11-20T21:33:57.726Z"
     },
     {
       "label": "host-down:api.nasdaq.com",
       "url": "api.nasdaq.com",
       "error": "6 consecutive failures (last: timeout after 15s) — remaining calls skipped",
-      "at": "2026-11-20T20:44:33.548Z"
+      "at": "2026-11-20T21:34:44.477Z"
     },
     {
       "label": "shorts:AMZN",
       "url": "https://api.nasdaq.com/api/quote/AMZN/short-interest?assetclass=stocks",
       "error": "timeout after 15s",
-      "at": "2026-11-20T20:44:33.548Z"
+      "at": "2026-11-20T21:34:44.477Z"
     }
   ]
 }
