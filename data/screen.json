@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-25",
-  "generatedAt": "2026-11-25T22:01:04.802Z",
+  "date": "2026-11-26",
+  "generatedAt": "2026-11-26T21:55:45.361Z",
   "tickersRequested": 94,
   "runSeconds": 282,
   "measured": 94,
@@ -11,7 +11,7 @@
   "rows": [
     {
       "ticker": "AAPL",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.132Z",
       "priceSource": "alpaca",
       "last": 355.14,
       "quoteStamp": "2026-11-25T21:44:33.614045523Z",
@@ -35,7 +35,7 @@
     },
     {
       "ticker": "ACHR",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 3.02,
       "quoteStamp": "2026-11-25T20:59:58.95488066Z",
@@ -59,7 +59,7 @@
     },
     {
       "ticker": "ADBE",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 232.75,
       "quoteStamp": "2026-11-25T20:59:57.960686014Z",
@@ -83,7 +83,7 @@
     },
     {
       "ticker": "AMD",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 406.14,
       "quoteStamp": "2026-11-25T21:40:53.223456993Z",
@@ -107,7 +107,7 @@
     },
     {
       "ticker": "AMZN",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 244.49,
       "quoteStamp": "2026-11-25T21:53:51.498535688Z",
@@ -131,7 +131,7 @@
     },
     {
       "ticker": "APLD",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 12.29,
       "quoteStamp": "2026-11-25T20:59:58.558904169Z",
@@ -155,7 +155,7 @@
     },
     {
       "ticker": "APP",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 378.95,
       "quoteStamp": "2026-11-25T20:59:49.713867777Z",
@@ -179,7 +179,7 @@
     },
     {
       "ticker": "ARM",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 161.66,
       "quoteStamp": "2026-11-25T20:59:59.644798084Z",
@@ -203,7 +203,7 @@
     },
     {
       "ticker": "ASST",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 15.22,
       "quoteStamp": "2026-11-25T21:46:34.662058892Z",
@@ -227,7 +227,7 @@
     },
     {
       "ticker": "ASTS",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 26.02,
       "quoteStamp": "2026-11-25T20:59:48.13642481Z",
@@ -251,7 +251,7 @@
     },
     {
       "ticker": "AVGO",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 301.01,
       "quoteStamp": "2026-11-25T21:27:26.85239691Z",
@@ -275,7 +275,7 @@
     },
     {
       "ticker": "BA",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 164.51,
       "quoteStamp": "2026-11-25T20:59:55.979590708Z",
@@ -299,7 +299,7 @@
     },
     {
       "ticker": "BABA",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 86.28,
       "quoteStamp": "2026-11-25T20:59:59.890101599Z",
@@ -323,7 +323,7 @@
     },
     {
       "ticker": "BB",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 8.49,
       "quoteStamp": "2026-11-25T20:59:56.726493503Z",
@@ -347,7 +347,7 @@
     },
     {
       "ticker": "BBAI",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 1.59,
       "quoteStamp": "2026-11-25T20:59:56.857253737Z",
@@ -371,7 +371,7 @@
     },
     {
       "ticker": "BIDU",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 63.5,
       "quoteStamp": "2026-11-25T20:59:59.94283697Z",
@@ -395,7 +395,7 @@
     },
     {
       "ticker": "BYD",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 77.92,
       "quoteStamp": "2026-11-25T20:59:58.58033487Z",
@@ -419,7 +419,7 @@
     },
     {
       "ticker": "CIFR",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.133Z",
       "priceSource": "alpaca",
       "last": 5.51,
       "quoteStamp": "2026-11-25T20:59:58.833853261Z",
@@ -443,7 +443,7 @@
     },
     {
       "ticker": "COIN",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.134Z",
       "priceSource": "alpaca",
       "last": 104.12,
       "quoteStamp": "2026-11-25T21:21:37.744217415Z",
@@ -467,7 +467,7 @@
     },
     {
       "ticker": "CRCL",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.135Z",
       "priceSource": "alpaca",
       "last": 48.4,
       "quoteStamp": "2026-11-25T21:31:56.357357211Z",
@@ -491,7 +491,7 @@
     },
     {
       "ticker": "CRDO",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.135Z",
       "priceSource": "alpaca",
       "last": 106.54,
       "quoteStamp": "2026-11-25T20:59:53.927427197Z",
@@ -515,7 +515,7 @@
     },
     {
       "ticker": "CRWD",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.135Z",
       "priceSource": "alpaca",
       "last": 209.38,
       "quoteStamp": "2026-11-25T20:59:57.859148333Z",
@@ -539,7 +539,7 @@
     },
     {
       "ticker": "CRWV",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.135Z",
       "priceSource": "alpaca",
       "last": 42.79,
       "quoteStamp": "2026-11-25T21:04:07.619523629Z",
@@ -563,7 +563,7 @@
     },
     {
       "ticker": "DDOG",
-      "fetchedAt": "2026-11-25T21:56:24.586Z",
+      "fetchedAt": "2026-11-26T21:51:05.135Z",
       "priceSource": "alpaca",
       "last": 158.33,
       "quoteStamp": "2026-11-25T20:59:43.252576729Z",
@@ -587,7 +587,7 @@
     },
     {
       "ticker": "DELL",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.135Z",
       "priceSource": "alpaca",
       "last": 297.02,
       "quoteStamp": "2026-11-25T20:59:53.235883777Z",
@@ -611,7 +611,7 @@
     },
     {
       "ticker": "DKNG",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.135Z",
       "priceSource": "alpaca",
       "last": 17.64,
       "quoteStamp": "2026-11-25T20:59:58.596380973Z",
@@ -635,7 +635,7 @@
     },
     {
       "ticker": "EOSE",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.135Z",
       "priceSource": "alpaca",
       "last": 1.26,
       "quoteStamp": "2026-11-25T20:59:56.309736684Z",
@@ -659,7 +659,7 @@
     },
     {
       "ticker": "FSLR",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.135Z",
       "priceSource": "alpaca",
       "last": 147.84,
       "quoteStamp": "2026-11-25T20:59:49.846620133Z",
@@ -683,7 +683,7 @@
     },
     {
       "ticker": "GME",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.135Z",
       "priceSource": "alpaca",
       "last": 26.95,
       "quoteStamp": "2026-11-25T20:59:50.130490192Z",
@@ -707,7 +707,7 @@
     },
     {
       "ticker": "GOOGL",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.135Z",
       "priceSource": "alpaca",
       "last": 273.11,
       "quoteStamp": "2026-11-25T21:00:16.228647786Z",
@@ -731,7 +731,7 @@
     },
     {
       "ticker": "HIMS",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.135Z",
       "priceSource": "alpaca",
       "last": 14.64,
       "quoteStamp": "2026-11-25T20:59:59.074663471Z",
@@ -755,7 +755,7 @@
     },
     {
       "ticker": "HOOD",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.135Z",
       "priceSource": "alpaca",
       "last": 65.78,
       "quoteStamp": "2026-11-25T20:59:59.82718383Z",
@@ -779,7 +779,7 @@
     },
     {
       "ticker": "HPE",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 40.84,
       "quoteStamp": "2026-11-25T21:06:33.40355691Z",
@@ -803,7 +803,7 @@
     },
     {
       "ticker": "HUT",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 48.84,
       "quoteStamp": "2026-11-25T20:59:58.101560633Z",
@@ -827,7 +827,7 @@
     },
     {
       "ticker": "IBIT",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 34.06,
       "quoteStamp": "2026-11-25T20:59:59.908675891Z",
@@ -851,7 +851,7 @@
     },
     {
       "ticker": "INFQ",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 6.47,
       "quoteStamp": "2026-11-25T20:59:57.510651903Z",
@@ -875,7 +875,7 @@
     },
     {
       "ticker": "INTC",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 54.21,
       "quoteStamp": "2026-11-25T21:34:56.197903729Z",
@@ -899,7 +899,7 @@
     },
     {
       "ticker": "IONQ",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 23.53,
       "quoteStamp": "2026-11-25T20:59:57.84279564Z",
@@ -923,7 +923,7 @@
     },
     {
       "ticker": "IREN",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 12.85,
       "quoteStamp": "2026-11-25T20:59:59.961153023Z",
@@ -947,7 +947,7 @@
     },
     {
       "ticker": "IWM",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 268.84,
       "quoteStamp": "2026-11-25T20:59:59.890500281Z",
@@ -971,7 +971,7 @@
     },
     {
       "ticker": "JPM",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 316.66,
       "quoteStamp": "2026-11-25T20:59:55.607681727Z",
@@ -995,7 +995,7 @@
     },
     {
       "ticker": "LAES",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 1.07,
       "quoteStamp": "2026-11-25T20:59:55.517494443Z",
@@ -1019,7 +1019,7 @@
     },
     {
       "ticker": "LMT",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 599.19,
       "quoteStamp": "2026-11-25T20:59:56.952054771Z",
@@ -1043,7 +1043,7 @@
     },
     {
       "ticker": "LYFT",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 16.96,
       "quoteStamp": "2026-11-25T20:59:59.991139438Z",
@@ -1067,7 +1067,7 @@
     },
     {
       "ticker": "META",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 609.21,
       "quoteStamp": "2026-11-25T21:20:47.029761742Z",
@@ -1091,7 +1091,7 @@
     },
     {
       "ticker": "MP",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 35.3,
       "quoteStamp": "2026-11-25T20:59:59.906441127Z",
@@ -1115,7 +1115,7 @@
     },
     {
       "ticker": "MRNA",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 220.59,
       "quoteStamp": "2026-11-25T20:59:55.155996601Z",
@@ -1139,7 +1139,7 @@
     },
     {
       "ticker": "MRVL",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 130.73,
       "quoteStamp": "2026-11-25T21:09:54.881713754Z",
@@ -1163,7 +1163,7 @@
     },
     {
       "ticker": "MSFT",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 489.99,
       "quoteStamp": "2026-11-25T20:59:58.327414561Z",
@@ -1187,7 +1187,7 @@
     },
     {
       "ticker": "MSTR",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 80.09,
       "quoteStamp": "2026-11-25T20:59:59.85010286Z",
@@ -1211,7 +1211,7 @@
     },
     {
       "ticker": "MU",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 599.5,
       "quoteStamp": "2026-11-25T21:53:32.910144037Z",
@@ -1235,7 +1235,7 @@
     },
     {
       "ticker": "NBIS",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 84.6,
       "quoteStamp": "2026-11-25T21:53:33.130091009Z",
@@ -1259,7 +1259,7 @@
     },
     {
       "ticker": "NFLX",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 59.4,
       "quoteStamp": "2026-11-25T20:59:59.941507045Z",
@@ -1283,7 +1283,7 @@
     },
     {
       "ticker": "NKE",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 36.66,
       "quoteStamp": "2026-11-25T20:59:57.830682601Z",
@@ -1307,7 +1307,7 @@
     },
     {
       "ticker": "NNE",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.136Z",
       "priceSource": "alpaca",
       "last": 8.85,
       "quoteStamp": "2026-11-25T20:59:54.238876534Z",
@@ -1331,7 +1331,7 @@
     },
     {
       "ticker": "NOC",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 556.05,
       "quoteStamp": "2026-11-25T20:59:56.470223988Z",
@@ -1355,7 +1355,7 @@
     },
     {
       "ticker": "NOK",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 7.29,
       "quoteStamp": "2026-11-25T20:59:59.013924089Z",
@@ -1379,7 +1379,7 @@
     },
     {
       "ticker": "NOW",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 92.16,
       "quoteStamp": "2026-11-25T20:59:59.603970667Z",
@@ -1403,7 +1403,7 @@
     },
     {
       "ticker": "NVDA",
-      "fetchedAt": "2026-11-25T21:56:24.587Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 149.73,
       "quoteStamp": "2026-11-25T21:27:06.412140711Z",
@@ -1427,7 +1427,7 @@
     },
     {
       "ticker": "OKLO",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 19.5,
       "quoteStamp": "2026-11-25T20:59:59.671193314Z",
@@ -1451,7 +1451,7 @@
     },
     {
       "ticker": "ONDS",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 3.89,
       "quoteStamp": "2026-11-25T20:59:54.263360298Z",
@@ -1475,7 +1475,7 @@
     },
     {
       "ticker": "OPEN",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 1.26,
       "quoteStamp": "2026-11-25T20:59:59.108760826Z",
@@ -1499,7 +1499,7 @@
     },
     {
       "ticker": "ORCL",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 104.07,
       "quoteStamp": "2026-11-25T21:03:17.972522766Z",
@@ -1523,7 +1523,7 @@
     },
     {
       "ticker": "OSCR",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 27.13,
       "quoteStamp": "2026-11-25T20:59:59.997974575Z",
@@ -1547,7 +1547,7 @@
     },
     {
       "ticker": "PANW",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 355.97,
       "quoteStamp": "2026-11-25T20:59:56.093834329Z",
@@ -1571,7 +1571,7 @@
     },
     {
       "ticker": "PATH",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 12.4,
       "quoteStamp": "2026-11-25T20:59:59.561107599Z",
@@ -1595,7 +1595,7 @@
     },
     {
       "ticker": "PDD",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 87.41,
       "quoteStamp": "2026-11-25T20:59:57.823086501Z",
@@ -1619,7 +1619,7 @@
     },
     {
       "ticker": "PLTR",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 163.59,
       "quoteStamp": "2026-11-25T20:59:58.165898564Z",
@@ -1643,7 +1643,7 @@
     },
     {
       "ticker": "POET",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 3.6,
       "quoteStamp": "2026-11-25T20:59:53.105120913Z",
@@ -1667,11 +1667,11 @@
     },
     {
       "ticker": "QQQ",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 633.92,
       "quoteStamp": "2026-11-25T20:59:59.785128456Z",
-      "sessionVolume": 1021545,
+      "sessionVolume": 1021645,
       "sessionOpen": 617.09,
       "previousClose": 638.12,
       "barsSource": "alpaca",
@@ -1680,7 +1680,7 @@
       "historyThrough": "2026-11-25",
       "priorClose": 633.92,
       "barsCounted": 252,
-      "avgVol20": 854954,
+      "avgVol20": 854959,
       "priorSessionChangePct": -0.66,
       "change": -4.2,
       "changePct": -0.66,
@@ -1691,7 +1691,7 @@
     },
     {
       "ticker": "QUBT",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 4.6,
       "quoteStamp": "2026-11-25T20:59:51.219415466Z",
@@ -1715,7 +1715,7 @@
     },
     {
       "ticker": "RBLX",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 55.64,
       "quoteStamp": "2026-11-25T20:59:59.871855087Z",
@@ -1739,7 +1739,7 @@
     },
     {
       "ticker": "RDDT",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 91.42,
       "quoteStamp": "2026-11-25T20:59:49.857492416Z",
@@ -1763,7 +1763,7 @@
     },
     {
       "ticker": "RGTI",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 7.85,
       "quoteStamp": "2026-11-25T20:59:56.985477964Z",
@@ -1787,7 +1787,7 @@
     },
     {
       "ticker": "RKT",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 15.28,
       "quoteStamp": "2026-11-25T20:59:59.993827958Z",
@@ -1811,7 +1811,7 @@
     },
     {
       "ticker": "SHOP",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 133.35,
       "quoteStamp": "2026-11-25T20:59:57.124546274Z",
@@ -1835,7 +1835,7 @@
     },
     {
       "ticker": "SMCI",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.137Z",
       "priceSource": "alpaca",
       "last": 23.32,
       "quoteStamp": "2026-11-25T20:59:59.861654629Z",
@@ -1859,7 +1859,7 @@
     },
     {
       "ticker": "SMR",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 3.25,
       "quoteStamp": "2026-11-25T20:59:57.509693557Z",
@@ -1883,7 +1883,7 @@
     },
     {
       "ticker": "SNAP",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 5.04,
       "quoteStamp": "2026-11-25T20:59:56.177097671Z",
@@ -1907,7 +1907,7 @@
     },
     {
       "ticker": "SNDK",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 73.48,
       "quoteStamp": "2026-11-25T21:55:11.113785507Z",
@@ -1931,7 +1931,7 @@
     },
     {
       "ticker": "SNOW",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 267.61,
       "quoteStamp": "2026-11-25T20:59:58.360213713Z",
@@ -1955,7 +1955,7 @@
     },
     {
       "ticker": "SOFI",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 13.06,
       "quoteStamp": "2026-11-25T20:59:56.303593008Z",
@@ -1979,7 +1979,7 @@
     },
     {
       "ticker": "SPCX",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 127.96,
       "quoteStamp": "2026-11-25T21:36:45.938432211Z",
@@ -2003,7 +2003,7 @@
     },
     {
       "ticker": "SPY",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 716.67,
       "quoteStamp": "2026-11-25T21:13:15.614420303Z",
@@ -2027,7 +2027,7 @@
     },
     {
       "ticker": "TEM",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 54.73,
       "quoteStamp": "2026-11-25T20:59:59.615197623Z",
@@ -2051,7 +2051,7 @@
     },
     {
       "ticker": "TSLA",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 379.53,
       "quoteStamp": "2026-11-25T21:07:22.662231336Z",
@@ -2075,7 +2075,7 @@
     },
     {
       "ticker": "U",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 48.26,
       "quoteStamp": "2026-11-25T21:51:44.568168585Z",
@@ -2099,7 +2099,7 @@
     },
     {
       "ticker": "UBER",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 66.35,
       "quoteStamp": "2026-11-25T20:59:58.071710495Z",
@@ -2123,7 +2123,7 @@
     },
     {
       "ticker": "UNH",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 346.02,
       "quoteStamp": "2026-11-25T20:59:58.053035967Z",
@@ -2147,7 +2147,7 @@
     },
     {
       "ticker": "UPS",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 111.45,
       "quoteStamp": "2026-11-25T20:59:57.837356103Z",
@@ -2171,7 +2171,7 @@
     },
     {
       "ticker": "V",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 424.51,
       "quoteStamp": "2026-11-25T20:59:57.499057171Z",
@@ -2195,7 +2195,7 @@
     },
     {
       "ticker": "VST",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 121.32,
       "quoteStamp": "2026-11-25T20:59:59.906945365Z",
@@ -2219,7 +2219,7 @@
     },
     {
       "ticker": "WMT",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 131.91,
       "quoteStamp": "2026-11-25T20:59:59.900952675Z",
@@ -2243,7 +2243,7 @@
     },
     {
       "ticker": "XYZ",
-      "fetchedAt": "2026-11-25T21:56:24.588Z",
+      "fetchedAt": "2026-11-26T21:51:05.138Z",
       "priceSource": "alpaca",
       "last": 76.06,
       "quoteStamp": "2026-11-25T20:59:57.819917824Z",
