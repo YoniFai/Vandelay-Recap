@@ -1,149 +1,151 @@
 {
-  "generatedAt": "2026-11-26T21:56:05.425Z",
+  "generatedAt": "2026-11-27T21:39:33.789Z",
   "hoursBack": 48,
   "tickersRequested": 94,
   "count": 20,
   "rows": [
     {
       "source": "PR Newswire",
-      "title": "Disrupting Hospitality: Shane Green Says Hotels Must Look Beyond Efficiency",
-      "publishedAt": "Thu, 26 Nov 2026 21:22:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/disrupting-hospitality-shane-green-says-hotels-must-look-beyond-efficiency-302951353.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Xiaomi Internet lance la marque commerciale mondiale UMIADS : Make Global Growth Truly Visible (Rendre la croissance mondiale véritablement visible)",
-      "publishedAt": "Thu, 26 Nov 2026 21:08:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/xiaomi-internet-lance-la-marque-commerciale-mondiale-umiads--make-global-growth-truly-visible-rendre-la-croissance-mondiale-veritablement-visible-302951378.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "DoGo Power демонстрирует Smart Grid-Forming ESS на выставке GENERA 2026 Madrid",
-      "publishedAt": "Thu, 26 Nov 2026 21:03:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/dogo-power--smart-grid-forming-ess---genera-2026-madrid-302951376.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "LiuGong predstavuje na veľtrhu bauma CHINA 2026 pokročilé vybavenie a inteligentné technológie",
-      "publishedAt": "Thu, 26 Nov 2026 20:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/liugong-predstavuje-na-vetrhu-bauma-china-2026-pokroile-vybavenie-a-inteligentne-technologie-302951374.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "LGMG uvádza na veľtrhu bauma CHINA 2026 ťažobné nákladné vozidlo VTH150 s elektrickým pohonom kolies",
-      "publishedAt": "Thu, 26 Nov 2026 20:42:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/lgmg-uvadza-na-vetrhu-bauma-china-2026-aobne-nakladne-vozidlo-vth150-s-elektrickym-pohonom-kolies-302951372.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Zoomlion lance le premier robot d'excavation IA du secteur, activé par l'intelligence embarquée, au salon bauma CHINA 2026",
-      "publishedAt": "Thu, 26 Nov 2026 20:41:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/zoomlion-lance-le-premier-robot-dexcavation-ia-du-secteur-active-par-lintelligence-embarquee-au-salon-bauma-china-2026-302951370.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Xiaomi Internet запускает глобальный коммерческий бренд UMIADS: сделайте глобальный рост действительно заметным",
-      "publishedAt": "Thu, 26 Nov 2026 19:46:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/xiaomi-internet-----umiads------302951364.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "North American Launch - Prevost Unveils Its First-Ever Fully Electric Motorcoach",
-      "publishedAt": "Thu, 26 Nov 2026 19:45:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/north-american-launch---prevost-unveils-its-first-ever-fully-electric-motorcoach-302951290.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "LiuGong демонстрирует передовое оборудование и интеллектуальные технологии на выставке Bauma CHINA 2026",
-      "publishedAt": "Thu, 26 Nov 2026 19:37:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/liugong---------bauma-china-2026-302951360.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "LiuGong présente ses équipements de pointe et ses technologies intelligentes au salon bauma CHINA 2026",
-      "publishedAt": "Thu, 26 Nov 2026 19:33:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/liugong-presente-ses-equipements-de-pointe-et-ses-technologies-intelligentes-au-salon-bauma-china-2026-302951359.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Leekr Technology fournit des solutions de freinage électrique de qualité automobile pour soutenir la production en série de véhicules autonomes",
-      "publishedAt": "Thu, 26 Nov 2026 18:47:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/leekr-technology-fournit-des-solutions-de-freinage-electrique-de-qualite-automobile-pour-soutenir-la-production-en-serie-de-vehicules-autonomes-302951351.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Julius Meinl Coffee Group completes largest acquisition in its history",
-      "publishedAt": "Thu, 26 Nov 2026 18:46:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/julius-meinl-coffee-group-completes-largest-acquisition-in-its-history-302951331.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Apotex supports continued access to women's health treatment in Canada",
-      "publishedAt": "Thu, 26 Nov 2026 18:30:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/apotex-supports-continued-access-to-womens-health-treatment-in-canada-302951347.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Gstarsoft präsentiert auf der BIM World München 2026 einen praxisorientierten Weg von CAD zu BIM",
-      "publishedAt": "Thu, 26 Nov 2026 17:48:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/gstarsoft-prasentiert-auf-der-bim-world-munchen-2026-einen-praxisorientierten-weg-von-cad-zu-bim-302951340.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "xTool's Black Friday deals: get creative with exclusive savings",
-      "publishedAt": "Thu, 26 Nov 2026 17:42:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/xtools-black-friday-deals-get-creative-with-exclusive-savings-302951338.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Julius Meinl Kaffee stärkt internationales Wachstum mit Rekord-Akquisition",
-      "publishedAt": "Thu, 26 Nov 2026 17:19:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/julius-meinl-kaffee-starkt-internationales-wachstum-mit-rekord-akquisition-302951334.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Julius Meinl Coffee Group completes largest acquisition in its history",
-      "publishedAt": "Thu, 26 Nov 2026 17:16:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/julius-meinl-coffee-group-completes-largest-acquisition-in-its-history-302951333.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "Prescription for Violence Adds Platinum MarCom Award to Growing List of Honors",
-      "publishedAt": "Thu, 26 Nov 2026 17:01:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/prescription-for-violence-adds-platinum-marcom-award-to-growing-list-of-honors-302951325.html",
-      "tickersMentioned": []
-    },
-    {
-      "source": "PR Newswire",
-      "title": "SHAREHOLDER ALERT: Bronstein Gewirtz &amp; Grossman, LLC Announces Class Action Against Alibaba Group Holding Limited (NYSE: BABA) -- Investors Who Suffered Losses Are Encouraged to Contact the Firm",
-      "publishedAt": "Thu, 26 Nov 2026 17:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/shareholder-alert-bronstein-gewirtz--grossman-llc-announces-class-action-against-alibaba-group-holding-limited-nyse-baba--investors-who-suffered-losses-are-encouraged-to-contact-the-firm-302949659.html",
+      "title": "GOL launches Orange Friday with up to 10% off round-trip flights from the U.S. to Brazil",
+      "publishedAt": "Fri, 27 Nov 2026 21:37:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/gol-launches-orange-friday-with-up-to-10-off-round-trip-flights-from-the-us-to-brazil-302951933.html",
       "tickersMentioned": [
-        "BABA"
+        "U"
       ]
     },
     {
       "source": "PR Newswire",
-      "title": "SHAREHOLDER ALERT: Bronstein Gewirtz &amp; Grossman, LLC Announces Class Action Against Fervo Energy Company (NASDAQ: FRVO) -- Investors Who Suffered Losses Are Encouraged to Contact the Firm",
-      "publishedAt": "Thu, 26 Nov 2026 17:00:00 +0000",
-      "url": "https://www.prnewswire.com/news-releases/shareholder-alert-bronstein-gewirtz--grossman-llc-announces-class-action-against-fervo-energy-company-nasdaq-frvo--investors-who-suffered-losses-are-encouraged-to-contact-the-firm-302949731.html",
+      "title": "GOL launches Orange Friday with up to 10% off round-trip flights from the U.S. to Brazil",
+      "publishedAt": "Fri, 27 Nov 2026 21:36:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/gol-launches-orange-friday-with-up-to-10-off-round-trip-flights-from-the-us-to-brazil-302951931.html",
+      "tickersMentioned": [
+        "U"
+      ]
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Mountain Province Diamonds Announces Third Quarter Financial Results for 2026",
+      "publishedAt": "Fri, 27 Nov 2026 21:30:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/mountain-province-diamonds-announces-third-quarter-financial-results-for-2026-302951883.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "ALLIANCEBERNSTEIN GLOBAL HIGH INCOME FUND, INC. REPORTS SECOND QUARTER EARNINGS",
+      "publishedAt": "Fri, 27 Nov 2026 21:06:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/alliancebernstein-global-high-income-fund-inc-reports-second-quarter-earnings-302951846.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Quantum Space to Hold Financial Update Call",
+      "publishedAt": "Fri, 27 Nov 2026 20:59:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/quantum-space-to-hold-financial-update-call-302951919.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "CCTV4 : Diffuser la poésie classique chinoise dans le monde entier : première du documentaire One Poem, One World",
+      "publishedAt": "Fri, 27 Nov 2026 20:34:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/cctv4--diffuser-la-poesie-classique-chinoise-dans-le-monde-entier--premiere-du-documentaire-one-poem-one-world-302951907.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Пятый Яньаньский форум по развитию сельских районов исследует роль ИИ в сельском хозяйстве и сельской промышленности",
+      "publishedAt": "Fri, 27 Nov 2026 20:23:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/----------------302951901.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "MRP INVESTOR DEADLINE: Millrose Properties, Inc. Investors with Substantial Losses May Seek to Lead Class Action Lawsuit Before December 8, 2026 Deadline",
+      "publishedAt": "Fri, 27 Nov 2026 20:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/mrp-investor-deadline-millrose-properties-inc-investors-with-substantial-losses-may-seek-to-lead-class-action-lawsuit-before-december-8-2026-deadline-302951346.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Mall of America® makes Black Friday history with a GUINNESS WORLD RECORDS® title",
+      "publishedAt": "Fri, 27 Nov 2026 19:20:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/mall-of-america-makes-black-friday-history-with-a-guinness-world-records-title-302951879.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Spread Heart-Growing Holiday Cheer with Whimsical Grinch Decorations",
+      "publishedAt": "Fri, 27 Nov 2026 19:15:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/spread-heart-growing-holiday-cheer-with-whimsical-grinch-decorations-302951878.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "World Tennis a Generali uzavírají nové rozšířené partnerství pro posílení globální účasti",
+      "publishedAt": "Fri, 27 Nov 2026 19:13:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/world-tennis-a-generali-uzaviraji-nove-roziene-partnerstvi-pro-posileni-globalni-uasti-302951877.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "World Tennis and Generali seal new expanded partnership to power global participation",
+      "publishedAt": "Fri, 27 Nov 2026 19:09:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/world-tennis-and-generali-seal-new-expanded-partnership-to-power-global-participation-302951873.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Trutankless®, Inc. Strengthens Balance Sheet, Converts Approximately $5 Million in Notes into Equity",
+      "publishedAt": "Fri, 27 Nov 2026 19:07:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/trutankless-inc-strengthens-balance-sheet-converts-approximately-5-million-in-notes-into-equity-302951871.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "China Unicom schließt die weltweit erste standardisierte Bewertung autonomer Netzwerke im Kernnetzbereich unter realen Betriebsbedingungen ab und treibt damit die Bewertungsverfahren der Branche voran",
+      "publishedAt": "Fri, 27 Nov 2026 18:36:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/china-unicom-schlieWt-die-weltweit-erste-standardisierte-bewertung-autonomer-netzwerke-im-kernnetzbereich-unter-realen-betriebsbedingungen-ab-und-treibt-damit-die-bewertungsverfahren-der-branche-voran-302951867.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Waren Klappräder bisher nicht für jedermann geeignet? DAHON ändert dies",
+      "publishedAt": "Fri, 27 Nov 2026 18:14:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/waren-klapprader-bisher-nicht-fur-jedermann-geeignet-dahon-andert-dies-302951864.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Stowers scientist's TEDx talk on coral reefs selected as TED Editor's Pick",
+      "publishedAt": "Fri, 27 Nov 2026 18:10:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/stowers-scientists-tedx-talk-on-coral-reefs-selected-as-ted-editors-pick-302951861.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Supra Human and PRx Performance Reveal Limited-Edition, Co-Branded Version of Elite Home Gym System",
+      "publishedAt": "Fri, 27 Nov 2026 18:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/supra-human-and-prx-performance-reveal-limited-edition-co-branded-version-of-elite-home-gym-system-302951504.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Pest Control Expert Garfield Kyte Details Why Cluster Flies and Stink Bugs Become More Noticeable During Fall in Rochester-Area Homes",
+      "publishedAt": "Fri, 27 Nov 2026 18:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/pest-control-expert-garfield-kyte-details-why-cluster-flies-and-stink-bugs-become-more-noticeable-during-fall-in-rochester-area-homes-302950676.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Estate Planning Attorney Jennifer McKenna Addresses Whether You Need a Trust or if a Will Is Enough",
+      "publishedAt": "Fri, 27 Nov 2026 18:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/estate-planning-attorney-jennifer-mckenna-addresses-whether-you-need-a-trust-or-if-a-will-is-enough-302950803.html",
+      "tickersMentioned": []
+    },
+    {
+      "source": "PR Newswire",
+      "title": "Dance Experts Serge and Yana Nelyubov Explain What Happens at Your First Ballroom Lesson",
+      "publishedAt": "Fri, 27 Nov 2026 18:00:00 +0000",
+      "url": "https://www.prnewswire.com/news-releases/dance-experts-serge-and-yana-nelyubov-explain-what-happens-at-your-first-ballroom-lesson-302950768.html",
       "tickersMentioned": []
     }
   ]
